@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg?cachedlogos=false" url-tvg="http://192.168.1.11:9191/output/epg?cachedlogos=false"
-#EXTINF:-1 tvg-id="507" tvg-name="FOX NEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3263.png?4746" tvg-chno="507" group-title="US| NEWS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",FOX NEWS HD
+#EXTM3U 
+#EXTINF:-1 tvg-id="507" tvg-name="FOX NEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3263.png?4746" tvg-chno="507" group-title="News",FOX NEWS HD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/324947.ts
 #EXTINF:-1 tvg-id="509" tvg-name="CNBC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/404.png?58424" tvg-chno="509" group-title="US| NEWS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CNBC HD
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/324929.ts
@@ -33,7 +33,7 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537367.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537339.ts
 #EXTINF:-1 tvg-id="1291" tvg-name="FX HD (Pacific)" tvg-logo="http://192.168.1.11:9191/api/channels/logos/2554/cache/" tvg-chno="1291" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",FX HD (Pacific)
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537338.ts
-#EXTINF:-1 tvg-id="1400" tvg-name="CA - TSN 1 - DA" tvg-logo="http://192.168.1.11:9191/api/channels/logos/2541/cache/" tvg-chno="1400" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA - TSN 1
+#EXTINF:-1 tvg-id="1400" tvg-name="CA - TSN 1" tvg-chno="1400" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA - TSN 1
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537289.ts
 #EXTINF:-1 tvg-id="1401" tvg-name="CA - TSN 2" tvg-logo="http://192.168.1.11:9191/api/channels/logos/2542/cache/" tvg-chno="1401" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA - TSN 2
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537288.ts
