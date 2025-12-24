@@ -62,8 +62,8 @@
     <icon src="http://192.168.1.11:9191/api/channels/logos/2554/cache/" />
   </channel>
   <channel id="1400">
-    <display-name>CA - TSN 1</display-name>
-    <icon src="https://dshm.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&h=270" />
+    <display-name>CA - TSN 1 - DA</display-name>
+    <icon src="https://dshm.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&h=270/" />
   </channel>
   <channel id="1401">
     <display-name>CA - TSN 2</display-name>
