@@ -2,31 +2,24 @@
 <tv generator-info-name="Dispatcharr" generator-info-url="https://github.com/Dispatcharr/Dispatcharr">
   <channel id="507">
     <display-name>FOX NEWS HD</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2182/cache/" />
   </channel>
   <channel id="509">
     <display-name>CNBC HD</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2107/cache/" />
   </channel>
   <channel id="811">
     <display-name>BBC Earth</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2526/cache/" />
   </channel>
   <channel id="811">
     <display-name>US: BBC WORLD NEWS</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2077/cache/" />
   </channel>
   <channel id="900">
     <display-name>CTV CALGARY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3041/cache/" />
   </channel>
   <channel id="1132">
     <display-name>GLOBAL CALGARY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1642/cache/" />
   </channel>
   <channel id="1133">
     <display-name>CITY TV CALGARY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2556/cache/" />
   </channel>
   <channel id="1261">
     <display-name>CRAVE 1</display-name>
@@ -70,7 +63,7 @@
   </channel>
   <channel id="1400">
     <display-name>CA - TSN 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2541/cache/" />
+    <icon src="https://dshm.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&h=270" />
   </channel>
   <channel id="1401">
     <display-name>CA - TSN 2</display-name>
