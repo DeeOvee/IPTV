@@ -2,851 +2,851 @@
 <tv generator-info-name="Dispatcharr" generator-info-url="https://github.com/Dispatcharr/Dispatcharr">
   <channel id="BBCEarth.ca">
     <display-name>CA - BBC EARTH</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3886/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" />
   </channel>
   <channel id="CTVCalgary-CFCN.ca">
     <display-name>CA - CTV CALGARY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3883/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" />
   </channel>
   <channel id="GlobalCalgary-CICT.ca">
     <display-name>CA - GLOBAL CALGARY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3900/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" />
   </channel>
   <channel id="CityTvCalgary-CKAL.ca">
     <display-name>CA - CITY TV CALGARY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3909/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" />
   </channel>
   <channel id="Crave1.ca">
     <display-name>CA - CRAVE 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3894/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Crave1.ca.png" />
   </channel>
   <channel id="Crave2.ca">
     <display-name>CA - CRAVE 2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3910/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Crave2.ca.png" />
   </channel>
   <channel id="Crave3.ca">
     <display-name>CA - CRAVE 3</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3915/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Crave3.ca.png" />
   </channel>
   <channel id="Crave4.ca">
     <display-name>CA - CRAVE 4</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3892/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Crave4.ca.png" />
   </channel>
   <channel id="STARZ2.ca">
     <display-name>CA - STARZ2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3903/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" />
   </channel>
   <channel id="STARZ1.ca">
     <display-name>CA - STARZ 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3902/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" />
   </channel>
   <channel id="AMC.ca">
     <display-name>CA - AMC</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3908/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/AMC.ca.png" />
   </channel>
   <channel id="AMCPlus.us">
     <display-name>US - AMCPLUS</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3916/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/AMCPlus.us.png" />
   </channel>
   <channel id="FX.ca">
     <display-name>CA - FX HD</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3895/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/FX.ca.png" />
   </channel>
   <channel id="FXX.ca">
     <display-name>CA - FXX</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3901/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/FXX.ca.png" />
   </channel>
   <channel id="TSN1.ca">
     <display-name>CA - TSN 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3906/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/TSN1.ca.png" />
   </channel>
   <channel id="TSN2.ca">
     <display-name>CA - TSN 2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3905/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/TSN2.ca.png" />
   </channel>
   <channel id="TSN3.ca">
     <display-name>CA - TSN 3</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3907/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/TSN3.ca.png" />
   </channel>
   <channel id="TSN4.ca">
     <display-name>CA - TSN 4</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3911/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/TSN4.ca.png" />
   </channel>
   <channel id="TSN5.ca">
     <display-name>CA - TSN 5</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3912/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/TSN5.ca.png" />
   </channel>
   <channel id="SportsnetOntario.ca">
     <display-name>CA - SPORTSNET ONTARIO</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3888/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" />
   </channel>
   <channel id="SportsnetEast.ca">
     <display-name>CA - SPORTSNET EAST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3896/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" />
   </channel>
   <channel id="SportsnetPacific.ca">
     <display-name>CA - SPORTSNET PACIFIC</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3897/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" />
   </channel>
   <channel id="SportsnetWest.ca">
     <display-name>CA - SPORTSNET WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3913/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" />
   </channel>
   <channel id="SportsnetOne.ca">
     <display-name>CA - SPORTSNET 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3898/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" />
   </channel>
   <channel id="Sportsnet360.ca">
     <display-name>CA - SPORTSNET 360</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3899/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" />
   </channel>
   <channel id="Bravo.ca">
     <display-name>CA - Bravo</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3914/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Bravo.ca.png" />
   </channel>
   <channel id="BravoPacific.us">
     <display-name>US - BRAVO WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3449/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/BravoPacific.us.png" />
   </channel>
   <channel id="LoveNature.ca">
     <display-name>CA - LOVE NATURE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3988/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/LoveNature.ca.png" />
   </channel>
   <channel id="Bloomberg.us">
     <display-name>US - BLOOMBERG</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3890/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/Bloomberg.us.png" />
   </channel>
   <channel id="USANetwork.us">
     <display-name>US - USA Network</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3887/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/USANetwork.us.png" />
   </channel>
   <channel id="USANetworkPacific.us">
     <display-name>US - USA NETWORK WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3889/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/USANetworkPacific.us.png" />
   </channel>
   <channel id="DiscoveryChannelPacific.us">
     <display-name>US - DISCOVERY WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3451/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/DiscoveryChannelPacific.us.png" />
   </channel>
   <channel id="DiscoveryLifeChannel.us">
     <display-name>US - DISCOVERY LIFE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3452/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/DiscoveryLifeChannel.us.png" />
   </channel>
   <channel id="DiscoveryChannel.us">
     <display-name>US - Discovery Channel</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3453/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/DiscoveryChannel.us.png" />
   </channel>
   <channel id="DiscoveryFamilyChannel.us">
     <display-name>US - DISCOVERY FAMILY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3454/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/DiscoveryFamilyChannel.us.png" />
   </channel>
   <channel id="ScienceChannel.us">
     <display-name>US - DISCOVERY SCIENCE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3455/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/ScienceChannel.us.png" />
   </channel>
   <channel id="DestinationAmerica.us">
     <display-name>US - Destination America</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3456/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/DestinationAmerica.us.png" />
   </channel>
   <channel id="CrimeandInvestigationNetwork.us">
     <display-name>US - CRIME + INVESTIGATION</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3457/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/CrimeandInvestigationNetwork.us.png" />
   </channel>
   <channel id="TheCowboyChannel.us">
     <display-name>US - COWBOY CHANNEL</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3458/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/TheCowboyChannel.us.png" />
   </channel>
   <channel id="HGTVPacific.us">
     <display-name>US - HGTV WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3459/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/HGTVPacific.us.png" />
   </channel>
   <channel id="History.us">
     <display-name>US - HISTORY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3460/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/History.us.png" />
   </channel>
   <channel id="HLN.us">
     <display-name>US - HLN</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3461/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/HLN.us.png" />
   </channel>
   <channel id="LawAndCrime.us">
     <display-name>US - Law &amp; Crime</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3462/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/LawAndCrime.us.png" />
   </channel>
   <channel id="MilitaryHistoryChannel.us">
     <display-name>US - MILITARY HISTORY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3463/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/MilitaryHistoryChannel.us.png" />
   </channel>
   <channel id="MGM+.us">
     <display-name>US - MGM+</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3464/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/MGM%2B.us.png" />
   </channel>
   <channel id="TBS.us">
     <display-name>US - TBS</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3465/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/TBS.us.png" />
   </channel>
   <channel id="ABCNewsLive.us">
     <display-name>US - ABC News Live</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3476/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/ABCNewsLive.us.png" />
   </channel>
   <channel id="TBSPacific.us">
     <display-name>US - TBS WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3466/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/TBSPacific.us.png" />
   </channel>
   <channel id="TNT.us">
     <display-name>US - TNT</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3467/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/TNT.us.png" />
   </channel>
   <channel id="TNTPacific.us">
     <display-name>US - TNT WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3468/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/TNTPacific.us.png" />
   </channel>
   <channel id="TravelChannel.us">
     <display-name>US - Travel Channel</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3469/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/TravelChannel.us.png" />
   </channel>
   <channel id="TheTravelChannelPacific.us">
     <display-name>US - TRAVEL WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3470/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/TheTravelChannelPacific.us.png" />
   </channel>
   <channel id="SmithsonianNetwork.us">
     <display-name>US - SMITHSONIAN CHANNEL</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3471/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/SmithsonianNetwork.us.png" />
   </channel>
   <channel id="SmithsonianChannelPacific.us">
     <display-name>US - Smithsonian Channel West</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3472/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/SmithsonianChannelPacific.us.png" />
   </channel>
   <channel id="Syfy.us">
     <display-name>US - Syfy</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3473/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/Syfy.us.png" />
   </channel>
   <channel id="SyfyPacific.us">
     <display-name>US - SYFY WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3474/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/SyfyPacific.us.png" />
   </channel>
   <channel id="ABCNewsLive.us">
     <display-name>US - ABC News Live</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3476/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/ABCNewsLive.us.png" />
   </channel>
   <channel id="CBSKIRO-West.ca">
     <display-name>CA - CBS WEST</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3881/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/CBSKIRO-West.ca.png" />
   </channel>
   <channel id="DiscoveryChannel.ca">
     <display-name>CA - DISCOVERY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3872/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" />
   </channel>
   <channel id="HBO1.ca">
     <display-name>CA - HBO 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3870/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/HBO1.ca.png" />
   </channel>
   <channel id="HBO2.ca">
     <display-name>CA - HBO 2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3879/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/HBO2.ca.png" />
   </channel>
   <channel id="Slice.ca">
     <display-name>CA - SLICE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3880/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Slice.ca.png" />
   </channel>
   <channel id="HGTV.ca">
     <display-name>CA - HGTV</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3869/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/HGTV.ca.png" />
   </channel>
   <channel id="Showcase.ca">
     <display-name>CA - SHOWCASE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3878/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/Showcase.ca.png" />
   </channel>
   <channel id="History.ca">
     <display-name>CA - HISTORY</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3871/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/History.ca.png" />
   </channel>
   <channel id="NationalGeographic.ca">
     <display-name>CA - NAT GEO</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3867/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" />
   </channel>
   <channel id="MLBNetwork.ca">
     <display-name>CA - MLBNC</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3868/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" />
   </channel>
   <channel id="InvestigationDiscovery.ca">
     <display-name>CA - Investigation Discovery</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3873/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" />
   </channel>
   <channel id="CNN.ca">
     <display-name>CA - CNN</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3904/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/CNN.ca.png" />
   </channel>
   <channel id="CNNInternational.ca">
     <display-name>CA - CNN INTERNATIONAL</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/4348/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/CNNInternational.ca.png" />
   </channel>
   <channel id="FoxSports2.us">
     <display-name>US - FOX SPORTS 2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3861/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/FoxSports2.us.png" />
   </channel>
   <channel id="FoxSports4K.us">
     <display-name>US - Fox Sports 4K</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3862/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/FoxSports4K.us.png" />
   </channel>
   <channel id="FoxSoccerPlus.us">
     <display-name>US - Fox Soccer Plus</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3863/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/FoxSoccerPlus.us.png" />
   </channel>
   <channel id="ESPNEWS.us">
     <display-name>US - ESPNEWS</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3882/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/ESPNEWS.us.png" />
   </channel>
   <channel id="TheFightNetwork.ca">
     <display-name>CA - Fight Network</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3064/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/TheFightNetwork.ca.png" />
   </channel>
   <channel id="GOLTVEnglish.us">
     <display-name>US - GOL TV</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3063/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/GOLTVEnglish.us.png" />
   </channel>
   <channel id="GolfChannel.ca">
     <display-name>CA - GOLF CHANNEL</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3065/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/GolfChannel.ca.png" />
   </channel>
   <channel id="SPEEDVISION.us">
     <display-name>US - SPEEDVISION</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3893/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/SPEEDVISION.us.png" />
   </channel>
   <channel id="CTVSpeed.ca">
     <display-name>CA - CTV Speed</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3891/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/CTVSpeed.ca.png" />
   </channel>
   <channel id="MOTORTREND.us">
     <display-name>US - MOTORTREND</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3067/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/MOTORTREND.us.png" />
   </channel>
   <channel id="CBSSportsNetwork.us">
     <display-name>US - CBS SPORTS NETWORK</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3068/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" />
   </channel>
   <channel id="MLBNetwork.us">
     <display-name>US - MLB NETWORK</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3069/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/MLBNetwork.us.png" />
   </channel>
   <channel id="MLBStrikeZone.us">
     <display-name>US - MLB Strike Zone</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3070/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/MLBStrikeZone.us.png" />
   </channel>
   <channel id="FoxSports1.us">
     <display-name>US - Fox Sports 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3864/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/FoxSports1.us.png" />
   </channel>
   <channel id="ManchesterUnited.epl">
     <display-name>EPL - Manchester United</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/4350/cache/" />
+    <icon src="https://iptv-epg.org/logos/UK/ManchesterUnited.epl.png" />
   </channel>
   <channel id="Liverpool.epl">
     <display-name>EPL - Liverpool</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3987/cache/" />
+    <icon src="https://iptv-epg.org/logos/UK/Liverpool.epl.png" />
   </channel>
   <channel id="2046">
     <display-name>Liverpool vs London City Lionesses @ Jan 11 9:20 AM :Sportsnet+  09</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/4351/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13748.png?ver=952" />
   </channel>
   <channel id="NHLNetwork.us">
     <display-name>US - NHL NETWORK</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3477/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/NHLNetwork.us.png" />
   </channel>
   <channel id="5201">
     <display-name>NHL | 01 - 7pm Canucks @ Sabres</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5202">
     <display-name>NHL | 02 - 7pm Avalanche @ Lightning</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5203">
     <display-name>NHL | 03 - 7pm Ducks @ Flyers</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5204">
     <display-name>NHL | 04 - 7pm Stars @ Hurricanes</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5205">
     <display-name>NHL | 05 - 7:30 Devils @ Islanders</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5206">
     <display-name>NHL | 06 - 7:30pm Panthers @ Maple Leafs</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5207">
     <display-name>NHL | 07 - 8pm Golden Knights @ Jets</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5208">
     <display-name>NHL | 08 - 9pm Predators @ Oilers</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5209">
     <display-name>NHL | 09 - 10pm Blue Jackets @ Sharks</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5210">
     <display-name>NHL | 10 - 10pm Bruins @ Kraken</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5211">
     <display-name>NHL | 11 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5212">
     <display-name>NHL | 12 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5213">
     <display-name>NHL | 13 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5214">
     <display-name>NHL | 14 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5215">
     <display-name>NHL | 15 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5216">
     <display-name>NHL | 16 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5217">
     <display-name>NHL | 17 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="5218">
     <display-name>NHL | 18 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1958/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8187.png?ver=79755" />
   </channel>
   <channel id="NFLRedZone.us">
     <display-name>US - NFL RED ZONE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3347/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/NFLRedZone.us.png" />
   </channel>
   <channel id="NFLNetwork.ca">
     <display-name>CA - NFL Network</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3348/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" />
   </channel>
   <channel id="NFLNetwork.us">
     <display-name>US - NFL Network</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3417/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" />
   </channel>
   <channel id="5304">
     <display-name>NFL  | 01 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5305">
     <display-name>NFL  | 02 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5306">
     <display-name>NFL  | 03 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5307">
     <display-name>NFL  | 04 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5308">
     <display-name>NFL  | 05 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5309">
     <display-name>NFL  | 06 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5310">
     <display-name>NFL  | 07 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5311">
     <display-name>NFL  | 08 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5312">
     <display-name>NFL  | 09 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5313">
     <display-name>NFL  | 10 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5314">
     <display-name>NFL  | 11 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5315">
     <display-name>NFL  | 12 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5316">
     <display-name>NFL  | 13 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5317">
     <display-name>NFL  | 14 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5318">
     <display-name>NFL  | 15 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5319">
     <display-name>NFL  | 16 -</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/1942/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" />
   </channel>
   <channel id="5400">
     <display-name>CA: FUBO PPV SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork.ca">
     <display-name>CA - fubo Sports Network</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3918/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" />
   </channel>
   <channel id="fuboSportsNetwork.ca">
     <display-name>CA - fubo Sports Network</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3918/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" />
   </channel>
   <channel id="fuboSportsNetwork4K.ca">
     <display-name>CA - Fubo Sports Network 4K</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3922/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork4K.ca.png" />
   </channel>
   <channel id="5401">
     <display-name>CA: FUBO PPV SPORTS 1 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork2.ca">
     <display-name>CA - fubo Sports Network 2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3917/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" />
   </channel>
   <channel id="fuboSportsNetwork2.ca">
     <display-name>CA - fubo Sports Network 2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3917/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" />
   </channel>
   <channel id="5402">
     <display-name>CA: FUBO PPV SPORTS 2 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="5403">
     <display-name>CA: FUBO PPV SPORTS 3 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork3.ca">
     <display-name>CA - fubo Sports Network 3</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3921/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork3.ca.png" />
   </channel>
   <channel id="5404">
     <display-name>CA: FUBO PPV SPORTS 4 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork4.ca">
     <display-name>CA - fubo Sports Network 4</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3500/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork4.ca.png" />
   </channel>
   <channel id="5405">
     <display-name>CA: FUBO PPV SPORTS 5 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork5.ca">
     <display-name>CA - fubo Sports Network 5</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3924/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork5.ca.png" />
   </channel>
   <channel id="fuboSportsNetwork6.ca">
     <display-name>CA - fubo Sports Network 6</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3501/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork6.ca.png" />
   </channel>
   <channel id="fuboSportsNetwork6.ca">
     <display-name>CA - fubo Sports Network 6</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3501/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork6.ca.png" />
   </channel>
   <channel id="fuboSportsNetwork7.ca">
     <display-name>CA - fubo Sports Network 7</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3920/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork7.ca.png" />
   </channel>
   <channel id="5407">
     <display-name>CA: FUBO PPV SPORTS 7 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="5408">
     <display-name>CA: FUBO PPV SPORTS 8 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork8.ca">
     <display-name>CA - fubo Sports Network 8</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3919/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork8.ca.png" />
   </channel>
   <channel id="5409">
     <display-name>CA: FUBO PPV SPORTS 9 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork9.ca">
     <display-name>CA - fubo Sports Network 9</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3923/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork9.ca.png" />
   </channel>
   <channel id="5410">
     <display-name>CA: FUBO PPV SPORTS 10 ᴿᴬᵂ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2607/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13955.png?ver=85428" />
   </channel>
   <channel id="fuboSportsNetwork10.ca">
     <display-name>CA - fubo Sports Network 10</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3925/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/fuboSportsNetwork10.ca.png" />
   </channel>
   <channel id="MLBNetwork.us">
     <display-name>MLB: MLB NETWORK</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3069/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/MLBNetwork.us.png" />
   </channel>
   <channel id="MLBNetwork-Alt.us">
     <display-name>US - MLB Network-Alt</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3499/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/MLBNetwork-Alt.us.png" />
   </channel>
   <channel id="TNTSports1.uk">
     <display-name>UK - TNT Sports 1</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3786/cache/" />
+    <icon src="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" />
   </channel>
   <channel id="TNTSports2.uk">
     <display-name>UK - TNT Sports 2</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3787/cache/" />
+    <icon src="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" />
   </channel>
   <channel id="TNTSports3.uk">
     <display-name>UK - TNT Sports 3</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3788/cache/" />
+    <icon src="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" />
   </channel>
   <channel id="TNTSports4.uk">
     <display-name>UK - TNT Sports 4</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3789/cache/" />
+    <icon src="https://iptv-epg.org/logos/UK/TNTSports4.uk.png" />
   </channel>
   <channel id="beINSports.ca">
     <display-name>CA - BEIN CANADA</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3072/cache/" />
+    <icon src="https://iptv-epg.org/logos/Canada/beINSports.ca.png" />
   </channel>
   <channel id="beINSports.us">
     <display-name>US: BEIN SPORTS HD</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3358/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/beINSports.us.png" />
   </channel>
   <channel id="beINSportsEnEspanol.us">
     <display-name>US - BEIN SPORTS ESP US</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3927/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/beINSportsEnEspanol.us.png" />
   </channel>
   <channel id="beINConnect4.us">
     <display-name>US - beIN CONNECT 4</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3928/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/beINConnect4.us.png" />
   </channel>
   <channel id="beINConnect5.us">
     <display-name>US - beIN CONNECT 5</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3929/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/beINConnect5.us.png" />
   </channel>
   <channel id="beINSports6En.qa">
     <display-name>US: BEIN SPORTS 6 HD</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2081/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/536.png?19345" />
   </channel>
   <channel id="beINSports7En.qa">
     <display-name>US: BEIN SPORTS 7 HD</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/2082/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/537.png?72164" />
   </channel>
   <channel id="beINConnect8.us">
     <display-name>US: BEIN SPORTS 8 HD</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3123/cache/" />
+    <icon src="https://iptv-epg.org/logos/USA/beINConnect8.us.png" />
   </channel>
   <channel id="6000">
     <display-name>EPL 01:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6001">
     <display-name>EPL 01:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6002">
     <display-name>EPL 01:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6003">
     <display-name>EPL 02:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6004">
     <display-name>EPL 02:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6005">
     <display-name>EPL 02:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6006">
     <display-name>EPL 03:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6007">
     <display-name>EPL 03:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6008">
     <display-name>EPL 03:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6009">
     <display-name>EPL 04:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6010">
     <display-name>EPL 04:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6011">
     <display-name>EPL 04:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6012">
     <display-name>EPL 05:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6013">
     <display-name>EPL 05:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6014">
     <display-name>EPL 05:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6015">
     <display-name>EPL 06:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6016">
     <display-name>EPL 06:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6017">
     <display-name>EPL 06:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6018">
     <display-name>EPL 07:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6019">
     <display-name>EPL 07:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6020">
     <display-name>EPL 07:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6021">
     <display-name>EPL 08:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6022">
     <display-name>EPL 08:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6023">
     <display-name>EPL 08:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6024">
     <display-name>EPL 09:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6025">
     <display-name>EPL 09:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6026">
     <display-name>EPL 09:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6027">
     <display-name>EPL 10:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6028">
     <display-name>EPL 10:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6029">
     <display-name>EPL 10:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6030">
     <display-name>EPL 11:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6031">
     <display-name>EPL 11:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6032">
     <display-name>EPL 11:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6033">
     <display-name>EPL 12:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6034">
     <display-name>EPL 12:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6035">
     <display-name>EPL 12:</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3791/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=77394" />
   </channel>
   <channel id="6036">
     <display-name>UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3829/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=52004" />
   </channel>
   <channel id="6037">
     <display-name>UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3829/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=52004" />
   </channel>
   <channel id="6039">
     <display-name>UK: EPL beIN ENGLISH 1 STABLE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3969/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" />
   </channel>
   <channel id="6040">
     <display-name>UK: EPL beIN ENGLISH 2 STABLE</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3969/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" />
   </channel>
   <channel id="7001">
     <display-name>4K: BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT ONLY)</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3974/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13686.jpg?54865" />
   </channel>
   <channel id="7003">
     <display-name>4K: SKY SPORT ᵁᴴᴰ ³⁸⁴⁰ᴾ (LIVE-EVENT)</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3976/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/6441.png?22930" />
   </channel>
   <channel id="7005">
     <display-name>4K: M+ LALIGA TV ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3978/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8160.png?90838" />
   </channel>
   <channel id="7008">
     <display-name>4K: NOW SPORTS PREMIER LEAGUE ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3981/cache/" />
+    <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/14436.jpg?30348" />
   </channel>
   <channel id="7009">
     <display-name>4K: NOW SPORTS ᴴᴷ ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3982/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/3794.png?33086" />
   </channel>
   <channel id="7010">
     <display-name>4K: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3983/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?51579" />
   </channel>
   <channel id="7011">
     <display-name>4K: SKY SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT)</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3984/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/6454.png?92315" />
   </channel>
   <channel id="7012">
     <display-name>4K: TNT SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT)</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3985/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/2270.jpg?52664" />
   </channel>
   <channel id="7013">
     <display-name>4K: TNT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ+ (LIVE-EVENT)</display-name>
-    <icon src="http://192.168.1.11:9191/api/channels/logos/3985/cache/" />
+    <icon src="https://icon-tmdb.me/stalker_portal/misc/logos/320/2270.jpg?52664" />
   </channel>
   <programme start="20260110110000 +0000" stop="20260110120000 +0000" channel="BBCEarth.ca">
     <title>World&#x27;s Most Scenic River Journeys</title>
