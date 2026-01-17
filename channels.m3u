@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Doug?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Doug?cachedlogos=false&tvg_id_source=tvg_id"
-#EXTINF:-1 tvg-id="CNNInternational.ca" tvg-name="CA - CNN INTERNATIONAL" tvg-logo="https://iptv-epg.org/logos/Canada/CNNInternational.ca.png" tvg-chno="808" group-title="Live TV",CA - CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="CNNInternational.ca" tvg-name="CA - CNN INTERNATIONAL" tvg-logo="https://iptv-epg.org/logos/Canada/CNNInternational.ca.png" tvg-chno="808" group-title="News",CA - CNN INTERNATIONAL
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/498814.ts
 #EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA - CNN" tvg-logo="https://iptv-epg.org/logos/Canada/CNN.ca.png" tvg-chno="809" group-title="Live TV",CA - CNN
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/414165.ts
@@ -13,7 +13,7 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1231872.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537336.ts
 #EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="1133" group-title="Live TV",CA - CITY TV CALGARY
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537359.ts
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="1261" group-title="Live TV",CA - CRAVE 1
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="1261" group-title="Movies",CA - CRAVE 1
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537355.ts
 #EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="1262" group-title="Live TV",CA - CRAVE 2
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537354.ts
@@ -33,7 +33,7 @@ http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537367.ts
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537339.ts
 #EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="1291" group-title="Live TV",CA - FXX
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537338.ts
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="1400" group-title="Live TV",CA - TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="1400" group-title="Sports",CA - TSN 1
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537289.ts
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="1401" group-title="Live TV",CA - TSN 2
 http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1537288.ts
