@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/SonixIPTV?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/SonixIPTV?cachedlogos=false&tvg_id_source=tvg_id"
-#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA - CNN" tvg-logo="https://iptv-epg.org/logos/Canada/CNN.ca.png" tvg-chno="598" group-title="SonixIPTV",CA - CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="598" group-title="SonixIPTV",US - CNN
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45592.ts
 #EXTINF:-1 tvg-id="CNNInternational.ca" tvg-name="CA - CNN INTERNATIONAL" tvg-logo="https://iptv-epg.org/logos/Canada/CNNInternational.ca.png" tvg-chno="599" group-title="SonixIPTV",CA - CNN INTERNATIONAL
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/176809.ts
