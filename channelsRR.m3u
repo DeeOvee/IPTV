@@ -1,101 +1,101 @@
 #EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id"
-#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA: CNN" tvg-logo="https://iptv-epg.org/logos/Canada/CNN.ca.png" tvg-chno="198" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CNN
+#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA: CNN" tvg-logo="https://iptv-epg.org/logos/Canada/CNN.ca.png" tvg-chno="198" group-title="GARRY CLICK ME",CA: CNN
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498815.ts
-#EXTINF:-1 tvg-id="CNNInternational.ca" tvg-name="CA: CNN INTERNATIONAL" tvg-logo="https://iptv-epg.org/logos/Canada/CNNInternational.ca.png" tvg-chno="199" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="CNNInternational.ca" tvg-name="CA: CNN INTERNATIONAL" tvg-logo="https://iptv-epg.org/logos/Canada/CNNInternational.ca.png" tvg-chno="199" group-title="GARRY CLICK ME",CA: CNN INTERNATIONAL
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498814.ts
-#EXTINF:-1 tvg-id="AMC.ca" tvg-name="PRIME: AMC CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="200" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: AMC CANADA ᴿᴬᵂ
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="PRIME: AMC CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="200" group-title="GARRY CLICK ME",PRIME: AMC CANADA ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537368.ts
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="PRIME: AMC+ CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="201" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: AMC+ CANADA ᴿᴬᵂ
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="PRIME: AMC+ CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="201" group-title="GARRY CLICK ME",PRIME: AMC+ CANADA ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537367.ts
-#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="PRIME: BBC EARTH ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="202" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: BBC EARTH ᴿᴬᵂ
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="PRIME: BBC EARTH ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="202" group-title="GARRY CLICK ME",PRIME: BBC EARTH ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537366.ts
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="PRIME: BLOOMBERG TV+ ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/USA/Bloomberg.us.png" tvg-chno="203" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: BLOOMBERG TV+ ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="PRIME: BLOOMBERG TV+ ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/USA/Bloomberg.us.png" tvg-chno="203" group-title="GARRY CLICK ME",PRIME: BLOOMBERG TV+ ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537365.ts
-#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="PRIME: BRAVO ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="204" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: BRAVO ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="PRIME: BRAVO ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="204" group-title="GARRY CLICK ME",PRIME: BRAVO ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537364.ts
-#EXTINF:-1 tvg-id="CBSKIRO-West.ca" tvg-name="PRIME: CBS NEWS ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/CBSKIRO-West.ca.png" tvg-chno="205" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CBS NEWS ᴿᴬᵂ
+#EXTINF:-1 tvg-id="CBSKIRO-West.ca" tvg-name="PRIME: CBS NEWS ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/CBSKIRO-West.ca.png" tvg-chno="205" group-title="GARRY CLICK ME",PRIME: CBS NEWS ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537362.ts
-#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="PRIME: CITYTV CALGARY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="206" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CITYTV CALGARY ᴿᴬᵂ
+#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="PRIME: CITYTV CALGARY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="206" group-title="GARRY CLICK ME",PRIME: CITYTV CALGARY ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537359.ts
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="PRIME: CRAVE 1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="208" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CRAVE 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="PRIME: CRAVE 1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="208" group-title="GARRY CLICK ME",PRIME: CRAVE 1 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537355.ts
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="PRIME: CRAVE 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="209" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CRAVE 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="PRIME: CRAVE 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="209" group-title="GARRY CLICK ME",PRIME: CRAVE 2 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537354.ts
-#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="PRIME: CRAVE 3 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="210" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CRAVE 3 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="PRIME: CRAVE 3 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="210" group-title="GARRY CLICK ME",PRIME: CRAVE 3 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537353.ts
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="PRIME: CRAVE 4 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="211" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: CRAVE 4 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="PRIME: CRAVE 4 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="211" group-title="GARRY CLICK ME",PRIME: CRAVE 4 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537352.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="PRIME: DISCOVERY CHANNEL ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="212" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DISCOVERY CHANNEL ᴿᴬᵂ
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="PRIME: DISCOVERY CHANNEL ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="212" group-title="GARRY CLICK ME",PRIME: DISCOVERY CHANNEL ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537351.ts
-#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="PRIME: FLAVOUR NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FlavourNetwork.ca.png" tvg-chno="214" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FLAVOUR NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="PRIME: FLAVOUR NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FlavourNetwork.ca.png" tvg-chno="214" group-title="GARRY CLICK ME",PRIME: FLAVOUR NETWORK ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537343.ts
-#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="PRIME: FOOD NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FoodNetwork.ca.png" tvg-chno="215" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FOOD NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="PRIME: FOOD NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FoodNetwork.ca.png" tvg-chno="215" group-title="GARRY CLICK ME",PRIME: FOOD NETWORK ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537342.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="PRIME: FUBO SPORTS NETWORK 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="216" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FUBO SPORTS NETWORK 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="PRIME: FUBO SPORTS NETWORK 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="216" group-title="GARRY CLICK ME",PRIME: FUBO SPORTS NETWORK 2 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537340.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="PRIME: FUBO SPORTS NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="217" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FUBO SPORTS NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="PRIME: FUBO SPORTS NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="217" group-title="GARRY CLICK ME",PRIME: FUBO SPORTS NETWORK ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537341.ts
-#EXTINF:-1 tvg-id="FX.ca" tvg-name="PRIME: FX ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="218" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FX ᴿᴬᵂ
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="PRIME: FX ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="218" group-title="GARRY CLICK ME",PRIME: FX ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537339.ts
-#EXTINF:-1 tvg-id="FXX.ca" tvg-name="PRIME: FXX CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="219" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: FXX CANADA ᴿᴬᵂ
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="PRIME: FXX CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="219" group-title="GARRY CLICK ME",PRIME: FXX CANADA ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537338.ts
-#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="PRIME: GLOBAL CALGARY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="220" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: GLOBAL CALGARY ᴿᴬᵂ
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="PRIME: GLOBAL CALGARY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="220" group-title="GARRY CLICK ME",PRIME: GLOBAL CALGARY ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537336.ts
-#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="PRIME: HBO 1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="222" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HBO 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="PRIME: HBO 1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="222" group-title="GARRY CLICK ME",PRIME: HBO 1 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537329.ts
-#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="PRIME: HBO 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="223" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HBO 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="PRIME: HBO 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="223" group-title="GARRY CLICK ME",PRIME: HBO 2 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537328.ts
-#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="PRIME: HGTV ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="224" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HGTV ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="PRIME: HGTV ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="224" group-title="GARRY CLICK ME",PRIME: HGTV ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537327.ts
-#EXTINF:-1 tvg-id="History.ca" tvg-name="PRIME: HISTORY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="225" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HISTORY ᴿᴬᵂ
+#EXTINF:-1 tvg-id="History.ca" tvg-name="PRIME: HISTORY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="225" group-title="GARRY CLICK ME",PRIME: HISTORY ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537326.ts
-#EXTINF:-1 tvg-id="HollywoodSuite2000sMovies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2000sMovies.ca.png" tvg-chno="226" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HollywoodSuite2000sMovies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2000sMovies.ca.png" tvg-chno="226" group-title="GARRY CLICK ME",PRIME: HOLLYWOOD SUITE 2000S ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537325.ts
-#EXTINF:-1 tvg-id="HollywoodSuite2010s+Movies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2010s%2BMovies.ca.png" tvg-chno="227" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HollywoodSuite2010s+Movies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2010s%2BMovies.ca.png" tvg-chno="227" group-title="GARRY CLICK ME",PRIME: HOLLYWOOD SUITE 2010S+ ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537324.ts
-#EXTINF:-1 tvg-id="HollywoodSuite70s+Movies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite70s%2BMovies.ca.png" tvg-chno="228" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HollywoodSuite70s+Movies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite70s%2BMovies.ca.png" tvg-chno="228" group-title="GARRY CLICK ME",PRIME: HOLLYWOOD SUITE 70S+ ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537323.ts
-#EXTINF:-1 tvg-id="HollywoodSuite80sAnd90sMovies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite80sAnd90sMovies.ca.png" tvg-chno="229" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HollywoodSuite80sAnd90sMovies.ca" tvg-name="PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite80sAnd90sMovies.ca.png" tvg-chno="229" group-title="GARRY CLICK ME",PRIME: HOLLYWOOD SUITE 80S & 90S ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537322.ts
-#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="PRIME: HOME NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="230" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: HOME NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="PRIME: HOME NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="230" group-title="GARRY CLICK ME",PRIME: HOME NETWORK ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537321.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="231" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="231" group-title="GARRY CLICK ME",PRIME: INVESTIGATION DISCOVERY ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537320.ts
-#EXTINF:-1 tvg-id="MLBNetwork.ca" tvg-name="PRIME: MLB NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" tvg-chno="233" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: MLB NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-id="MLBNetwork.ca" tvg-name="PRIME: MLB NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" tvg-chno="233" group-title="GARRY CLICK ME",PRIME: MLB NETWORK ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537317.ts
-#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="234" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ
+#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="234" group-title="GARRY CLICK ME",PRIME: NATIONAL GEOGRAPHIC ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537316.ts
-#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="PRIME: NFL NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="235" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: NFL NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="PRIME: NFL NETWORK ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="235" group-title="GARRY CLICK ME",PRIME: NFL NETWORK ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537315.ts
-#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="PRIME: SHOWCASE ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Showcase.ca.png" tvg-chno="237" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SHOWCASE ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="PRIME: SHOWCASE ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Showcase.ca.png" tvg-chno="237" group-title="GARRY CLICK ME",PRIME: SHOWCASE ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537309.ts
-#EXTINF:-1 tvg-id="Slice.ca" tvg-name="PRIME: SLICE ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Slice.ca.png" tvg-chno="238" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SLICE ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Slice.ca" tvg-name="PRIME: SLICE ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Slice.ca.png" tvg-chno="238" group-title="GARRY CLICK ME",PRIME: SLICE ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537308.ts
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="PRIME: SPORTSNET 360 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="239" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SPORTSNET 360 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="PRIME: SPORTSNET 360 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="239" group-title="GARRY CLICK ME",PRIME: SPORTSNET 360 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537307.ts
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="PRIME: SPORTSNET EAST ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="240" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SPORTSNET EAST ᴿᴬᵂ
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="PRIME: SPORTSNET EAST ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="240" group-title="GARRY CLICK ME",PRIME: SPORTSNET EAST ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537306.ts
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="PRIME: SPORTSNET ONE ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="241" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SPORTSNET ONE ᴿᴬᵂ
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="PRIME: SPORTSNET ONE ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="241" group-title="GARRY CLICK ME",PRIME: SPORTSNET ONE ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537305.ts
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="PRIME: SPORTSNET ONTARIO ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="242" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SPORTSNET ONTARIO ᴿᴬᵂ
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="PRIME: SPORTSNET ONTARIO ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="242" group-title="GARRY CLICK ME",PRIME: SPORTSNET ONTARIO ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537304.ts
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="PRIME: SPORTSNET PACIFIC ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="243" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SPORTSNET PACIFIC ᴿᴬᵂ
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="PRIME: SPORTSNET PACIFIC ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="243" group-title="GARRY CLICK ME",PRIME: SPORTSNET PACIFIC ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537303.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="PRIME: SPORTSNET WEST ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="244" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: SPORTSNET WEST ᴿᴬᵂ
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="PRIME: SPORTSNET WEST ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="244" group-title="GARRY CLICK ME",PRIME: SPORTSNET WEST ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537302.ts
-#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="PRIME: STARZ1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="245" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: STARZ1 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="PRIME: STARZ1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="245" group-title="GARRY CLICK ME",PRIME: STARZ1 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537301.ts
-#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="PRIME: STARZ2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="246" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: STARZ2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="PRIME: STARZ2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="246" group-title="GARRY CLICK ME",PRIME: STARZ2 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537300.ts
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="PRIME: TSN 1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="247" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: TSN 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="PRIME: TSN 1 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="247" group-title="GARRY CLICK ME",PRIME: TSN 1 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537289.ts
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="PRIME: TSN 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="248" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: TSN 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="PRIME: TSN 2 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="248" group-title="GARRY CLICK ME",PRIME: TSN 2 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537288.ts
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="PRIME: TSN 3 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="249" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: TSN 3 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="PRIME: TSN 3 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="249" group-title="GARRY CLICK ME",PRIME: TSN 3 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537287.ts
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="PRIME: TSN 4 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="250" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: TSN 4 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="PRIME: TSN 4 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="250" group-title="GARRY CLICK ME",PRIME: TSN 4 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537286.ts
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="PRIME: TSN 5 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="251" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: TSN 5 ᴿᴬᵂ
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="PRIME: TSN 5 ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="251" group-title="GARRY CLICK ME",PRIME: TSN 5 ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537285.ts
-#EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="PRIME: DTOUR ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="252" group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME: DTOUR ᴿᴬᵂ
+#EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="PRIME: DTOUR ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="252" group-title="GARRY CLICK ME",PRIME: DTOUR ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537347.ts
