@@ -1,0 +1,107 @@
+#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/SonixIPTV?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/SonixIPTV?cachedlogos=false&tvg_id_source=tvg_id"
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="600" group-title="SonixIPTV",CA - SPORTSNET 360
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177349.ts
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="601" group-title="SonixIPTV",CA - SPORTSNET EAST
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177350.ts
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="602" group-title="SonixIPTV",CA - SPORTSNET 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177352.ts
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="603" group-title="SonixIPTV",CA - SPORTSNET ONTARIO
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177353.ts
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="604" group-title="SonixIPTV",CA - SPORTSNET PACIFIC
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177354.ts
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="605" group-title="SonixIPTV",CA - SPORTSNET 360
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434825.ts
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="606" group-title="SonixIPTV",CA - SPORTSNET WEST
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177351.ts
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="607" group-title="SonixIPTV",CA - TSN 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920724.ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="608" group-title="SonixIPTV",CA - TSN 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920723.ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="609" group-title="SonixIPTV",CA - TSN 3
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920722.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="610" group-title="SonixIPTV",CA - TSN 4
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920721.ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="611" group-title="SonixIPTV",CA - TSN 5
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920720.ts
+#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CA - CNN" tvg-logo="https://iptv-epg.org/logos/Canada/CNN.ca.png" tvg-chno="629" group-title="SonixIPTV",CA - CNN
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/176809.ts
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="630" group-title="SonixIPTV",CA - AMC
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920803.ts
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="631" group-title="SonixIPTV",US - AMCPLUS
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920802.ts
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="632" group-title="SonixIPTV",CA - BBC EARTH
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920801.ts
+#EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="CA - BNN Bloomberg" tvg-logo="https://iptv-epg.org/logos/Canada/BNNBloomberg.ca.png" tvg-chno="633" group-title="SonixIPTV",CA - BNN Bloomberg
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920800.ts
+#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="634" group-title="SonixIPTV",CA - Bravo
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920799.ts
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="US - CBS News Streaming" tvg-logo="https://iptv-epg.org/logos/USA/CBSNews.us.png" tvg-chno="635" group-title="SonixIPTV",US - CBS News Streaming
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920797.ts
+#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="636" group-title="SonixIPTV",CA - CITY TV CALGARY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920794.ts
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="637" group-title="SonixIPTV",CA - CRAVE 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920790.ts
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="638" group-title="SonixIPTV",CA - CRAVE 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920789.ts
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="639" group-title="SonixIPTV",CA - CRAVE 3
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920788.ts
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="640" group-title="SonixIPTV",CA - CRAVE 4
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920787.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="641" group-title="SonixIPTV",CA - DISCOVERY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920786.ts
+#EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="642" group-title="SonixIPTV",CA - DTOUR
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920782.ts
+#EXTINF:-1 tvg-id="WILDTV.ca" tvg-name="CA - WILD TV" tvg-logo="https://iptv-epg.org/logos/Canada/WILDTV.ca.png" tvg-chno="643" group-title="SonixIPTV",CA - WILD TV
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920779.ts
+#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="CA - Flavour Network" tvg-logo="https://iptv-epg.org/logos/Canada/FlavourNetwork.ca.png" tvg-chno="644" group-title="SonixIPTV",CA - Flavour Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920778.ts
+#EXTINF:-1 tvg-id="FoodNetwork+1.uk" tvg-name="UK - Food Network +1" tvg-logo="https://iptv-epg.org/logos/UK/FoodNetwork%2B1.uk.png" tvg-chno="645" group-title="SonixIPTV",UK - Food Network +1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920777.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="CA - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="646" group-title="SonixIPTV",CA - fubo Sports Network 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920775.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="647" group-title="SonixIPTV",US - fubo Sports Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920776.ts
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="648" group-title="SonixIPTV",CA - FX HD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920774.ts
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="649" group-title="SonixIPTV",CA - FXX
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920773.ts
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="650" group-title="SonixIPTV",CA - GLOBAL CALGARY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920771.ts
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="652" group-title="SonixIPTV",CA - HBO 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920764.ts
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="653" group-title="SonixIPTV",CA - HBO 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920763.ts
+#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="654" group-title="SonixIPTV",CA - HGTV
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920762.ts
+#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="655" group-title="SonixIPTV",CA - HISTORY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920761.ts
+#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="656" group-title="SonixIPTV",CA - Home Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920756.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="657" group-title="SonixIPTV",CA - Investigation Discovery
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920755.ts
+#EXTINF:-1 tvg-id="MLBNetwork.ca" tvg-name="CA - MLBNC" tvg-logo="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" tvg-chno="658" group-title="SonixIPTV",CA - MLBNC
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920752.ts
+#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="659" group-title="SonixIPTV",CA - NAT GEO
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920751.ts
+#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="660" group-title="SonixIPTV",CA - NFL Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920750.ts
+#EXTINF:-1 tvg-id="RedbullTV.us" tvg-name="US - Redbull TV" tvg-logo="https://iptv-epg.org/logos/USA/RedbullTV.us.png" tvg-chno="661" group-title="SonixIPTV",US - Redbull TV
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920745.ts
+#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="662" group-title="SonixIPTV",CA - STARZ 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920736.ts
+#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="663" group-title="SonixIPTV",CA - STARZ2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920735.ts
+#EXTINF:-1 tvg-id="beINSports.ca" tvg-name="CA - BEIN CANADA" tvg-logo="https://iptv-epg.org/logos/Canada/beINSports.ca.png" tvg-chno="669" group-title="SonixIPTV",CA - BEIN CANADA
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177356.ts
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="US - BEIN SPORTS ESP US" tvg-logo="https://iptv-epg.org/logos/USA/beINSportsEnEspanol.us.png" tvg-chno="670" group-title="SonixIPTV",US - BEIN SPORTS ESP US
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177357.ts
+#EXTINF:-1 tvg-id="beINSports4.ca" tvg-name="CA| BEIN SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177358.png" tvg-chno="671" group-title="SonixIPTV",CA| BEIN SPORTS 4 HD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177358.ts
+#EXTINF:-1 tvg-id="beINSports5.ca" tvg-name="CA| BEIN SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177359.png" tvg-chno="672" group-title="SonixIPTV",CA| BEIN SPORTS 5 HD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177359.ts
+#EXTINF:-1 tvg-id="BS6" tvg-name="CA| BEIN SPORTS 6 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177360.png" tvg-chno="673" group-title="SonixIPTV",CA| BEIN SPORTS 6 HD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177360.ts
+#EXTINF:-1 tvg-id="BS7" tvg-name="CA| BEIN SPORTS 7 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177361.png" tvg-chno="674" group-title="SonixIPTV",CA| BEIN SPORTS 7 HD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177361.ts
+#EXTINF:-1 tvg-id="BS8" tvg-name="CA| BEIN SPORTS 8 HD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177362.png" tvg-chno="675" group-title="SonixIPTV",CA| BEIN SPORTS 8 HD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177362.ts
