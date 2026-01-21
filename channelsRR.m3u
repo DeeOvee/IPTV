@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id"
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="1" group-title="Garry Watch Live TV",US - CNN
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414165.ts
-#EXTINF:-1 tvg-id="CNNinternational.us" tvg-name="US - CNN INTERNATIONAL" tvg-logo="https://iptv-epg.org/logos/USA/CNNinternational.us.png" tvg-chno="2" group-title="Garry Watch Live TV",US - CNN INTERNATIONAL
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498814.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="PRIME: AMC CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="3" group-title="Garry Watch Live TV",PRIME: AMC CANADA ᴿᴬᵂ
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537368.ts
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="PRIME: AMC+ CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="4" group-title="Garry Watch Live TV",PRIME: AMC+ CANADA ᴿᴬᵂ
@@ -117,3 +115,219 @@ http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414076.ts
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414073.ts
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="CA EN: ANIMAL PLANET HD" tvg-logo="https://iptv-epg.org/logos/USA/AnimalPlanet.us.png" tvg-chno="60" group-title="Garry Watch Live TV",CA EN: ANIMAL PLANET HD
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414083.ts
+#EXTINF:-1 tvg-id="4000" tvg-name="UK: DAZN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4000" group-title="UK| DAZN PPV VIP",UK: DAZN HD
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612882.ts
+#EXTINF:-1 tvg-id="4001" tvg-name="UK: DAZN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4001" group-title="UK| DAZN PPV VIP",UK: DAZN 4K
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612881.ts
+#EXTINF:-1 tvg-id="4002" tvg-name="UK: DAZN PPV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4002" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HD
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612880.ts
+#EXTINF:-1 tvg-id="4003" tvg-name="UK: DAZN PPV SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4003" group-title="UK| DAZN PPV VIP",UK: DAZN PPV SD
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612879.ts
+#EXTINF:-1 tvg-id="4004" tvg-name="UK: DAZN PPV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4004" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 4K
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612878.ts
+#EXTINF:-1 tvg-id="4005" tvg-name="UK: DAZN PPV HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4005" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HEVC HD
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612877.ts
+#EXTINF:-1 tvg-id="4006" tvg-name="UK: DAZN PPV HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4006" group-title="UK| DAZN PPV VIP",UK: DAZN PPV HEVC 4K
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/612876.ts
+#EXTINF:-1 tvg-id="4007" tvg-name="####### DAZN PPV #######" tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" tvg-chno="4007" group-title="UK| DAZN PPV VIP",####### DAZN PPV #######
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791251.ts
+#EXTINF:-1 tvg-id="4008" tvg-name="UK: DAZN PPV 1 - WILD @ CANADIENS | Wed 21 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4008" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 1 - WILD @ CANADIENS | Wed 21 Jan 01:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791250.ts
+#EXTINF:-1 tvg-id="4009" tvg-name="UK: DAZN PPV 2 - SHARKS @ LIGHTNING | Wed 21 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4009" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 2 - SHARKS @ LIGHTNING | Wed 21 Jan 01:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791249.ts
+#EXTINF:-1 tvg-id="4010" tvg-name="UK: DAZN PPV 3 - SENATORS @ BLUE JACKETS | Wed 21 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4010" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 3 - SENATORS @ BLUE JACKETS | Wed 21 Jan 01:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791248.ts
+#EXTINF:-1 tvg-id="4011" tvg-name="UK: DAZN PPV 4 - LSU @ FLORIDA | Wed 21 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4011" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 4 - LSU @ FLORIDA | Wed 21 Jan 01:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791247.ts
+#EXTINF:-1 tvg-id="4012" tvg-name="UK: DAZN PPV 5 - INDIANA @ MICHIGAN | Wed 21 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4012" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 5 - INDIANA @ MICHIGAN | Wed 21 Jan 01:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791246.ts
+#EXTINF:-1 tvg-id="4013" tvg-name="UK: DAZN PPV 6 - SETON HALL @ ST. JOHN'S | Wed 21 Jan 01:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4013" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 6 - SETON HALL @ ST. JOHN'S | Wed 21 Jan 01:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791245.ts
+#EXTINF:-1 tvg-id="4014" tvg-name="UK: DAZN PPV 7 - BRUINS @ STARS | Wed 21 Jan 01:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4014" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 7 - BRUINS @ STARS | Wed 21 Jan 01:30 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791244.ts
+#EXTINF:-1 tvg-id="4015" tvg-name="UK: DAZN PPV 8 - BLUES @ JETS | Wed 21 Jan 02:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4015" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 8 - BLUES @ JETS | Wed 21 Jan 02:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791243.ts
+#EXTINF:-1 tvg-id="4016" tvg-name="UK: DAZN PPV 9 - SABRES @ PREDATORS | Wed 21 Jan 02:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4016" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 9 - SABRES @ PREDATORS | Wed 21 Jan 02:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791242.ts
+#EXTINF:-1 tvg-id="4017" tvg-name="UK: DAZN PPV 10 - RUTGERS @ IOWA | Wed 21 Jan 02:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4017" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 10 - RUTGERS @ IOWA | Wed 21 Jan 02:30 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791241.ts
+#EXTINF:-1 tvg-id="4018" tvg-name="UK: DAZN PPV 11 - MICHIGAN STATE @ OREGON | Wed 21 Jan 03:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4018" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 11 - MICHIGAN STATE @ OREGON | Wed 21 Jan 03:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791240.ts
+#EXTINF:-1 tvg-id="4019" tvg-name="UK: DAZN PPV 12 - VANDERBILT @ ARKANSAS | Wed 21 Jan 03:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4019" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 12 - VANDERBILT @ ARKANSAS | Wed 21 Jan 03:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791239.ts
+#EXTINF:-1 tvg-id="4020" tvg-name="UK: DAZN PPV 13 - PURDUE @ UCLA | Wed 21 Jan 04:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4020" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 13 - PURDUE @ UCLA | Wed 21 Jan 04:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791238.ts
+#EXTINF:-1 tvg-id="4021" tvg-name="UK: DAZN PPV 14 - DEVILS @ OILERS | Wed 21 Jan 04:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4021" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 14 - DEVILS @ OILERS | Wed 21 Jan 04:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791237.ts
+#EXTINF:-1 tvg-id="4022" tvg-name="UK: DAZN PPV 15 - RANGERS @ KINGS | Wed 21 Jan 04:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4022" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 15 - RANGERS @ KINGS | Wed 21 Jan 04:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791236.ts
+#EXTINF:-1 tvg-id="4023" tvg-name="UK: DAZN PPV 16 - KANSAS @ COLORADO | Wed 21 Jan 05:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4023" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 16 - KANSAS @ COLORADO | Wed 21 Jan 05:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791235.ts
+#EXTINF:-1 tvg-id="4024" tvg-name="UK: DAZN PPV 17 - RALLYE MONTE-CARLO: SHAKEDOWN P1 & INVITED P2 | Wed 21 Jan 14:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4024" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 17 - RALLYE MONTE-CARLO: SHAKEDOWN P1 & INVITED P2 | Wed 21 Jan 14:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791234.ts
+#EXTINF:-1 tvg-id="4025" tvg-name="UK: DAZN PPV 18 - GALATASARAY VS. LE MANS | Wed 21 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4025" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 18 - GALATASARAY VS. LE MANS | Wed 21 Jan 18:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791233.ts
+#EXTINF:-1 tvg-id="4026" tvg-name="UK: DAZN PPV 19 - AEK VS. KARDITSAS | Wed 21 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4026" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 19 - AEK VS. KARDITSAS | Wed 21 Jan 18:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791232.ts
+#EXTINF:-1 tvg-id="4027" tvg-name="UK: DAZN PPV 20 - TERNANA VS. INTER | Wed 21 Jan 18:00 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4027" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 20 - TERNANA VS. INTER | Wed 21 Jan 18:00 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791231.ts
+#EXTINF:-1 tvg-id="4028" tvg-name="UK: DAZN PPV 21 - LAZIO VS. ROMA | Wed 21 Jan 20:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4028" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 21 - LAZIO VS. ROMA | Wed 21 Jan 20:30 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791230.ts
+#EXTINF:-1 tvg-id="4029" tvg-name="UK: DAZN PPV 22 - MÁLAGA VS. WÜRZBURG | Wed 21 Jan 20:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4029" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 22 - MÁLAGA VS. WÜRZBURG | Wed 21 Jan 20:30 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791229.ts
+#EXTINF:-1 tvg-id="4030" tvg-name="UK: DAZN PPV 23 - JOVENTUT VS. ÉLAN CHALON | Wed 21 Jan 20:30 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4030" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 23 - JOVENTUT VS. ÉLAN CHALON | Wed 21 Jan 20:30 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791228.ts
+#EXTINF:-1 tvg-id="4031" tvg-name="UK: DAZN PPV 24 - WEALDSTONE VS. TAMWORTH | Wed 21 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4031" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 24 - WEALDSTONE VS. TAMWORTH | Wed 21 Jan 20:45 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791227.ts
+#EXTINF:-1 tvg-id="4032" tvg-name="UK: DAZN PPV 25 - FOREST GREEN VS. ALTRINCHAM | Wed 21 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4032" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 25 - FOREST GREEN VS. ALTRINCHAM | Wed 21 Jan 20:45 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791226.ts
+#EXTINF:-1 tvg-id="4033" tvg-name="UK: DAZN PPV 26 - FC HALIFAX TOWN VS. MORECAMBE | Wed 21 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4033" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 26 - FC HALIFAX TOWN VS. MORECAMBE | Wed 21 Jan 20:45 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791225.ts
+#EXTINF:-1 tvg-id="4034" tvg-name="UK: DAZN PPV 27 - SOLIHULL MOORS VS. ROCHDALE | Wed 21 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4034" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 27 - SOLIHULL MOORS VS. ROCHDALE | Wed 21 Jan 20:45 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791224.ts
+#EXTINF:-1 tvg-id="4035" tvg-name="UK: DAZN PPV 28 - CARLISLE VS. YORK | Wed 21 Jan 20:45 | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4035" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 28 - CARLISLE VS. YORK | Wed 21 Jan 20:45 | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791223.ts
+#EXTINF:-1 tvg-id="4036" tvg-name="UK: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4036" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 29 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791222.ts
+#EXTINF:-1 tvg-id="4037" tvg-name="UK: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4037" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 30 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791221.ts
+#EXTINF:-1 tvg-id="4038" tvg-name="UK: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4038" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 31 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791220.ts
+#EXTINF:-1 tvg-id="4039" tvg-name="UK: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4039" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 32 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791219.ts
+#EXTINF:-1 tvg-id="4040" tvg-name="UK: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4040" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 33 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791218.ts
+#EXTINF:-1 tvg-id="4041" tvg-name="UK: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4041" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 34 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791217.ts
+#EXTINF:-1 tvg-id="4042" tvg-name="UK: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4042" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 35 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791216.ts
+#EXTINF:-1 tvg-id="4043" tvg-name="UK: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4043" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 36 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791215.ts
+#EXTINF:-1 tvg-id="4044" tvg-name="UK: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4044" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 37 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791214.ts
+#EXTINF:-1 tvg-id="4045" tvg-name="UK: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4045" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 38 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791213.ts
+#EXTINF:-1 tvg-id="4046" tvg-name="UK: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4046" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 39 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791212.ts
+#EXTINF:-1 tvg-id="4047" tvg-name="UK: DAZN PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4047" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 40 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791211.ts
+#EXTINF:-1 tvg-id="4048" tvg-name="UK: DAZN PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4048" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 41 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791210.ts
+#EXTINF:-1 tvg-id="4049" tvg-name="UK: DAZN PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4049" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 42 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791209.ts
+#EXTINF:-1 tvg-id="4050" tvg-name="UK: DAZN PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4050" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 43 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791208.ts
+#EXTINF:-1 tvg-id="4051" tvg-name="UK: DAZN PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4051" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 44 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791207.ts
+#EXTINF:-1 tvg-id="4052" tvg-name="UK: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4052" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 45 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791206.ts
+#EXTINF:-1 tvg-id="4053" tvg-name="UK: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4053" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 46 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791205.ts
+#EXTINF:-1 tvg-id="4054" tvg-name="UK: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4054" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 47 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791204.ts
+#EXTINF:-1 tvg-id="4055" tvg-name="UK: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4055" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 48 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791203.ts
+#EXTINF:-1 tvg-id="4056" tvg-name="UK: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4056" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 49 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791202.ts
+#EXTINF:-1 tvg-id="4057" tvg-name="UK: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4057" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 50 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791201.ts
+#EXTINF:-1 tvg-id="4058" tvg-name="UK: DAZN PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4058" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 51 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791200.ts
+#EXTINF:-1 tvg-id="4059" tvg-name="UK: DAZN PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4059" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 52 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791199.ts
+#EXTINF:-1 tvg-id="4060" tvg-name="UK: DAZN PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4060" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 53 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791198.ts
+#EXTINF:-1 tvg-id="4061" tvg-name="UK: DAZN PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4061" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 54 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791197.ts
+#EXTINF:-1 tvg-id="4062" tvg-name="UK: DAZN PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4062" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 55 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791196.ts
+#EXTINF:-1 tvg-id="4063" tvg-name="UK: DAZN PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4063" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 56 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791195.ts
+#EXTINF:-1 tvg-id="4064" tvg-name="UK: DAZN PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4064" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 57 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791194.ts
+#EXTINF:-1 tvg-id="4065" tvg-name="UK: DAZN PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4065" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 58 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791193.ts
+#EXTINF:-1 tvg-id="4066" tvg-name="UK: DAZN PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4066" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 59 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791192.ts
+#EXTINF:-1 tvg-id="4067" tvg-name="UK: DAZN PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4067" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 60 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791191.ts
+#EXTINF:-1 tvg-id="4068" tvg-name="UK: DAZN PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4068" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 61 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791190.ts
+#EXTINF:-1 tvg-id="4069" tvg-name="UK: DAZN PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4069" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 62 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791189.ts
+#EXTINF:-1 tvg-id="4070" tvg-name="UK: DAZN PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4070" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 63 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791188.ts
+#EXTINF:-1 tvg-id="4071" tvg-name="UK: DAZN PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4071" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 64 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791187.ts
+#EXTINF:-1 tvg-id="4072" tvg-name="UK: DAZN PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4072" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 65 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791186.ts
+#EXTINF:-1 tvg-id="4073" tvg-name="UK: DAZN PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4073" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 66 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791185.ts
+#EXTINF:-1 tvg-id="4074" tvg-name="UK: DAZN PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4074" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 67 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791184.ts
+#EXTINF:-1 tvg-id="4075" tvg-name="UK: DAZN PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4075" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 68 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791183.ts
+#EXTINF:-1 tvg-id="4076" tvg-name="UK: DAZN PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4076" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 69 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791182.ts
+#EXTINF:-1 tvg-id="4077" tvg-name="UK: DAZN PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4077" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 70 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791181.ts
+#EXTINF:-1 tvg-id="4078" tvg-name="UK: DAZN PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4078" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 71 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791180.ts
+#EXTINF:-1 tvg-id="4079" tvg-name="UK: DAZN PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4079" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 72 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791179.ts
+#EXTINF:-1 tvg-id="4080" tvg-name="UK: DAZN PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4080" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 73 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791178.ts
+#EXTINF:-1 tvg-id="4081" tvg-name="UK: DAZN PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4081" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 74 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791177.ts
+#EXTINF:-1 tvg-id="4082" tvg-name="UK: DAZN PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4082" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 75 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791176.ts
+#EXTINF:-1 tvg-id="4083" tvg-name="UK: DAZN PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4083" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 76 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791175.ts
+#EXTINF:-1 tvg-id="4084" tvg-name="UK: DAZN PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4084" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 77 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791174.ts
+#EXTINF:-1 tvg-id="4085" tvg-name="UK: DAZN PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4085" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 78 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791173.ts
+#EXTINF:-1 tvg-id="4086" tvg-name="UK: DAZN PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4086" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 79 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791172.ts
+#EXTINF:-1 tvg-id="4087" tvg-name="UK: DAZN PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4087" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 80 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791171.ts
+#EXTINF:-1 tvg-id="4088" tvg-name="UK: DAZN PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4088" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 81 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791170.ts
+#EXTINF:-1 tvg-id="4089" tvg-name="UK: DAZN PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4089" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 82 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791169.ts
+#EXTINF:-1 tvg-id="4090" tvg-name="UK: DAZN PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4090" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 83 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791168.ts
+#EXTINF:-1 tvg-id="4091" tvg-name="UK: DAZN PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4091" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 84 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791167.ts
+#EXTINF:-1 tvg-id="4092" tvg-name="UK: DAZN PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4092" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 85 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791166.ts
+#EXTINF:-1 tvg-id="4093" tvg-name="UK: DAZN PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4093" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 86 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791165.ts
+#EXTINF:-1 tvg-id="4094" tvg-name="UK: DAZN PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4094" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 87 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791164.ts
+#EXTINF:-1 tvg-id="4095" tvg-name="UK: DAZN PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4095" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 88 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791163.ts
+#EXTINF:-1 tvg-id="4096" tvg-name="UK: DAZN PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4096" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 89 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791162.ts
+#EXTINF:-1 tvg-id="4097" tvg-name="UK: DAZN PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4097" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 90 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791161.ts
+#EXTINF:-1 tvg-id="4098" tvg-name="UK: DAZN PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4098" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 91 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791160.ts
+#EXTINF:-1 tvg-id="4099" tvg-name="UK: DAZN PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4099" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 92 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791159.ts
+#EXTINF:-1 tvg-id="4100" tvg-name="UK: DAZN PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4100" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 93 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791158.ts
+#EXTINF:-1 tvg-id="4101" tvg-name="UK: DAZN PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4101" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 94 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791157.ts
+#EXTINF:-1 tvg-id="4102" tvg-name="UK: DAZN PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4102" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 95 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791156.ts
+#EXTINF:-1 tvg-id="4103" tvg-name="UK: DAZN PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4103" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 96 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791155.ts
+#EXTINF:-1 tvg-id="4104" tvg-name="UK: DAZN PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4104" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 97 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791154.ts
+#EXTINF:-1 tvg-id="4105" tvg-name="UK: DAZN PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4105" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 98 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791153.ts
+#EXTINF:-1 tvg-id="4106" tvg-name="UK: DAZN PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4106" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 99 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791152.ts
+#EXTINF:-1 tvg-id="4107" tvg-name="UK: DAZN PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-chno="4107" group-title="UK| DAZN PPV VIP",UK: DAZN PPV 100 - NO EVENT STREAMING - | 8K EXCLUSIVE
+http://timber76568.cdn-only.me/live/d57328b162/9385f400ba/1791151.ts
