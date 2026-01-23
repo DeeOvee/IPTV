@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="1" group-title="Garry Watch Live TV",US - CNN
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414165.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="PRIME: AMC CANADA ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="3" group-title="Garry Watch Live TV",PRIME: AMC CANADA ᴿᴬᵂ
