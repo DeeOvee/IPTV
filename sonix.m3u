@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml?cachedlogos=false&tvg_id_source=tvg_id" x-tvg-url="https://iptv-epg.org/files/epg-ca.xml?cachedlogos=false&tvg_id_source=tvg_id"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="http://192.168.1.11:9191/api/channels/logos/6357/cache/" tvg-chno="598" group-title="SonixIPTV",US - CNN
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45592.ts
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="http://192.168.1.11:9191/api/channels/logos/3899/cache/" tvg-chno="600" group-title="SonixIPTV",CA - SPORTSNET 360
