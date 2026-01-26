@@ -45,15 +45,15 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181894.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228296.ts
 #EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="642" group-title="Kemo IPTV",CA - DTOUR
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181942.ts
-#EXTINF:-1 tvg-id="WILDTV.ca" tvg-name="CA - WILD TV" tvg-logo="https://iptv-epg.org/logos/Canada/WILDTV.ca.png" tvg-chno="643" group-title="Kemo IPTV",CA - WILD TV
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2303230.ts
-#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="643" group-title="Kemo IPTV",CA - NAT GEO
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182023.ts
 #EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="CA Nat Geo Wild" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographicWild.ca.png" tvg-chno="643" group-title="Kemo IPTV",CA Nat Geo Wild
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182024.ts
+#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="643" group-title="Kemo IPTV",CA - NAT GEO
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182023.ts
+#EXTINF:-1 tvg-id="WILDTV.ca" tvg-name="CA - WILD TV" tvg-logo="https://iptv-epg.org/logos/Canada/WILDTV.ca.png" tvg-chno="643" group-title="Kemo IPTV",CA - WILD TV
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2303230.ts
 #EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="CA - Flavour Network" tvg-logo="https://iptv-epg.org/logos/Canada/FlavourNetwork.ca.png" tvg-chno="644" group-title="Kemo IPTV",CA - Flavour Network
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/3014832.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="CA - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="646" group-title="Kemo IPTV",CA - fubo Sports Network 2
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.us" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="646" group-title="Kemo IPTV",US - fubo Sports Network 2
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1698241.ts
 #EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="647" group-title="Kemo IPTV",US - fubo Sports Network
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1230111.ts
@@ -127,3 +127,23 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1821337.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/229003.ts
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="689" group-title="Kemo IPTV",UK - Premier Sports 2
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/3128911.ts
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="690" group-title="Sports",UK - TNT Sports 1
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1846762.ts
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="690" group-title="Sports",UK - TNT Sports 2
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1846763.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" tvg-chno="691" group-title="Sports",UK - TNT Sports 3
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1846764.ts
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK - TNT Sports 4" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports4.uk.png" tvg-chno="692" group-title="Sports",UK - TNT Sports 4
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2274006.ts
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="UK - TNT Sports 5" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports5.uk.png" tvg-chno="693" group-title="Sports",UK - TNT Sports 5
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/3074933.ts
+#EXTINF:-1 tvg-id="TNTSports6.uk" tvg-name="UK - TNT Sports 6" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports6.uk.png" tvg-chno="694" group-title="Sports",UK - TNT Sports 6
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/3026054.ts
+#EXTINF:-1 tvg-id="TNTSports7.uk" tvg-name="UK - TNT Sports 7" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports7.uk.png" tvg-chno="695" group-title="Sports",UK - TNT Sports 7
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/3026055.ts
+#EXTINF:-1 tvg-id="TNTSports8.uk" tvg-name="UK - TNT Sports 8" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports8.uk.png" tvg-chno="696" group-title="Sports",UK - TNT Sports 8
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/3026056.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="697" group-title="Sports",US - Fox Sports 1
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/220387.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="698" group-title="Sports",US - FOX SPORTS 2
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/220388.ts
