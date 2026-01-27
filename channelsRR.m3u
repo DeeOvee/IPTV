@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="1" group-title="Garry Watch Live TV",US - CNN
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/324928.ts
-#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-name="CA - CTV NEWS" tvg-logo="https://iptv-epg.org/logos/Canada/CTVNewsChannel.ca.png" tvg-chno="2" group-title="CA| NEWS EN",CA - CTV NEWS
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498311.ts
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="2" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537336.ts
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA - A&E" tvg-logo="https://iptv-epg.org/logos/Canada/AandE.ca.png" tvg-chno="2" group-title="Garry Watch Live TV",CA - A&E
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/325830.ts
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-name="CA - CTV NEWS" tvg-logo="https://iptv-epg.org/logos/Canada/CTVNewsChannel.ca.png" tvg-chno="2" group-title="Garry Watch Live TV",CA - CTV NEWS
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498311.ts
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="3" group-title="Garry Watch Live TV",CA - BBC EARTH
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537366.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="4" group-title="Garry Watch Live TV",CA - SPORTSNET WEST
