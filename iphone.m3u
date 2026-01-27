@@ -1,180 +1,179 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
-#EXTM3U x-tvg-url="http://iptv.auvigne.ca:9191/output/epg/Doug?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://iptv.auvigne.ca:9191/output/epg/Doug?cachedlogos=false&tvg_id_source=tvg_id"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="200" group-title="Doug",CA - GLOBAL CALGARY
-http://iptv.auvigne.ca:9191/proxy/ts/stream/c6fa39ed-ad6e-47ef-870f-af7b5a8400b0
+http://jelly.auvigne.ca:9191/proxy/ts/stream/c6fa39ed-ad6e-47ef-870f-af7b5a8400b0
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="201" group-title="Doug",US - CNN
-http://iptv.auvigne.ca:9191/proxy/ts/stream/5c437844-f05a-490c-ac55-66bdf5f4c7fa
+http://jelly.auvigne.ca:9191/proxy/ts/stream/5c437844-f05a-490c-ac55-66bdf5f4c7fa
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="202" group-title="Doug",US - CBS SPORTS NETWORK
-http://iptv.auvigne.ca:9191/proxy/ts/stream/0b60284a-d99a-44b3-9c95-41d2f5388841
+http://jelly.auvigne.ca:9191/proxy/ts/stream/0b60284a-d99a-44b3-9c95-41d2f5388841
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US - ESPN 2" tvg-logo="https://iptv-epg.org/logos/USA/ESPN2.us.png" tvg-chno="203" group-title="Doug",US - ESPN 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/c3efc468-2de3-4f05-8b7f-7e926328318b
+http://jelly.auvigne.ca:9191/proxy/ts/stream/c3efc468-2de3-4f05-8b7f-7e926328318b
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/logos/USA/ESPN.us.png" tvg-chno="204" group-title="Doug",US - ESPN
-http://iptv.auvigne.ca:9191/proxy/ts/stream/43bbc519-ba54-4484-aa5f-375dfb26a817
+http://jelly.auvigne.ca:9191/proxy/ts/stream/43bbc519-ba54-4484-aa5f-375dfb26a817
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="205" group-title="Doug",US - Fox Sports 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/68aaa1a9-5b78-4b5b-a1c2-05d96a92fb7a
+http://jelly.auvigne.ca:9191/proxy/ts/stream/68aaa1a9-5b78-4b5b-a1c2-05d96a92fb7a
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="206" group-title="Doug",US - FOX SPORTS 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/f0a5ebd5-83e5-4bf5-ad99-6ccd13cd4297
+http://jelly.auvigne.ca:9191/proxy/ts/stream/f0a5ebd5-83e5-4bf5-ad99-6ccd13cd4297
 #EXTINF:-1 tvg-id="NBCSports4K.us" tvg-name="US - NBC Sports 4K" tvg-logo="https://iptv-epg.org/logos/USA/NBCSports4K.us.png" tvg-chno="207" group-title="Doug",US - NBC Sports 4K
-http://iptv.auvigne.ca:9191/proxy/ts/stream/bc28f173-b510-4713-9a3b-9d84b3b3395a
+http://jelly.auvigne.ca:9191/proxy/ts/stream/bc28f173-b510-4713-9a3b-9d84b3b3395a
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="US - NBCSN" tvg-logo="https://iptv-epg.org/logos/USA/NBCSN.us.png" tvg-chno="208" group-title="Doug",US - NBCSN
-http://iptv.auvigne.ca:9191/proxy/ts/stream/9fde4dd6-e5e3-493b-994f-3c141363ed2c
+http://jelly.auvigne.ca:9191/proxy/ts/stream/9fde4dd6-e5e3-493b-994f-3c141363ed2c
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="209" group-title="Doug",CA - SPORTSNET 360
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e945139b-8fe9-4606-bfea-a613155a87db
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e945139b-8fe9-4606-bfea-a613155a87db
 #EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="210" group-title="Doug",CA - SPORTSNET EAST
-http://iptv.auvigne.ca:9191/proxy/ts/stream/bf459f40-4d2f-4f35-ab0d-0ab0c38f3276
+http://jelly.auvigne.ca:9191/proxy/ts/stream/bf459f40-4d2f-4f35-ab0d-0ab0c38f3276
 #EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="211" group-title="Doug",CA - SPORTSNET 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/3c083752-3b85-43f6-934d-eab0d0fd9769
+http://jelly.auvigne.ca:9191/proxy/ts/stream/3c083752-3b85-43f6-934d-eab0d0fd9769
 #EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="212" group-title="Doug",CA - SPORTSNET ONTARIO
-http://iptv.auvigne.ca:9191/proxy/ts/stream/1dacf2ff-405c-4404-9abd-d87a6e7e5eb8
+http://jelly.auvigne.ca:9191/proxy/ts/stream/1dacf2ff-405c-4404-9abd-d87a6e7e5eb8
 #EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="213" group-title="Doug",CA - SPORTSNET PACIFIC
-http://iptv.auvigne.ca:9191/proxy/ts/stream/c37d269e-1f8c-49f9-88e7-1a01c7705dc2
+http://jelly.auvigne.ca:9191/proxy/ts/stream/c37d269e-1f8c-49f9-88e7-1a01c7705dc2
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="214" group-title="Doug",CA - SPORTSNET WEST
-http://iptv.auvigne.ca:9191/proxy/ts/stream/25cbffb3-8739-40fc-b27c-beaa22b2e744
+http://jelly.auvigne.ca:9191/proxy/ts/stream/25cbffb3-8739-40fc-b27c-beaa22b2e744
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="215" group-title="Doug",CA - TSN 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/eb7dd9ad-b87d-4809-9ef5-10e2f1e3629e
+http://jelly.auvigne.ca:9191/proxy/ts/stream/eb7dd9ad-b87d-4809-9ef5-10e2f1e3629e
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="216" group-title="Doug",CA - TSN 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/d7a58ec5-e1e8-4b5b-80e0-287a62aff9a3
+http://jelly.auvigne.ca:9191/proxy/ts/stream/d7a58ec5-e1e8-4b5b-80e0-287a62aff9a3
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="217" group-title="Doug",CA - TSN 3
-http://iptv.auvigne.ca:9191/proxy/ts/stream/85e3f1c2-7aea-4297-ae6f-77a26cab14ea
+http://jelly.auvigne.ca:9191/proxy/ts/stream/85e3f1c2-7aea-4297-ae6f-77a26cab14ea
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="218" group-title="Doug",CA - TSN 4
-http://iptv.auvigne.ca:9191/proxy/ts/stream/36636fad-59c9-4f5b-8a67-577a2b436467
+http://jelly.auvigne.ca:9191/proxy/ts/stream/36636fad-59c9-4f5b-8a67-577a2b436467
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="219" group-title="Doug",CA - TSN 5
-http://iptv.auvigne.ca:9191/proxy/ts/stream/899957ae-238f-4e6e-b0fe-2c1f76ffd59b
+http://jelly.auvigne.ca:9191/proxy/ts/stream/899957ae-238f-4e6e-b0fe-2c1f76ffd59b
 #EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWorld.ca.png" tvg-chno="220" group-title="Doug",CA - SPORTSNET WORLD
-http://iptv.auvigne.ca:9191/proxy/ts/stream/402f3159-9d5e-44b4-be2f-d50a615ae5a4
+http://jelly.auvigne.ca:9191/proxy/ts/stream/402f3159-9d5e-44b4-be2f-d50a615ae5a4
 #EXTINF:-1 tvg-id="SportsNetWorld1.ca" tvg-name="CA - SportsNet World Plus 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld1.ca.png" tvg-chno="221" group-title="Doug",CA - SportsNet World Plus 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/2bf65012-cb08-4d72-a29d-28a19fdd8cc7
+http://jelly.auvigne.ca:9191/proxy/ts/stream/2bf65012-cb08-4d72-a29d-28a19fdd8cc7
 #EXTINF:-1 tvg-id="SportsNetWorld2.ca" tvg-name="CA - SportsNet World Plus 2" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld2.ca.png" tvg-chno="222" group-title="Doug",CA - SportsNet World Plus 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/09470946-d43e-4a0d-b493-a0111d8fdda1
+http://jelly.auvigne.ca:9191/proxy/ts/stream/09470946-d43e-4a0d-b493-a0111d8fdda1
 #EXTINF:-1 tvg-id="SportsNetWorld3.ca" tvg-name="CA - SportsNet World Plus 3" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld3.ca.png" tvg-chno="223" group-title="Doug",CA - SportsNet World Plus 3
-http://iptv.auvigne.ca:9191/proxy/ts/stream/ba40c815-af2a-4432-bebc-cab3279ed151
+http://jelly.auvigne.ca:9191/proxy/ts/stream/ba40c815-af2a-4432-bebc-cab3279ed151
 #EXTINF:-1 tvg-id="SportsNetWorld4.ca" tvg-name="CA - SportsNet World Plus 4" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld4.ca.png" tvg-chno="224" group-title="Doug",CA - SportsNet World Plus 4
-http://iptv.auvigne.ca:9191/proxy/ts/stream/75937420-edf2-4889-8a75-aefba0899d1f
+http://jelly.auvigne.ca:9191/proxy/ts/stream/75937420-edf2-4889-8a75-aefba0899d1f
 #EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="225" group-title="Doug",CA - CRAVE 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/3dddf84a-6151-4eba-9c12-30bcf13a07ff
+http://jelly.auvigne.ca:9191/proxy/ts/stream/3dddf84a-6151-4eba-9c12-30bcf13a07ff
 #EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="226" group-title="Doug",CA - CRAVE 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/75b1c45b-757a-4498-87df-c69e0230e492
+http://jelly.auvigne.ca:9191/proxy/ts/stream/75b1c45b-757a-4498-87df-c69e0230e492
 #EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="227" group-title="Doug",CA - CRAVE 3
-http://iptv.auvigne.ca:9191/proxy/ts/stream/0c88886d-3fa9-4d60-898a-94cfc980ae4e
+http://jelly.auvigne.ca:9191/proxy/ts/stream/0c88886d-3fa9-4d60-898a-94cfc980ae4e
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="228" group-title="Doug",CA - CRAVE 4
-http://iptv.auvigne.ca:9191/proxy/ts/stream/1d22c0cf-40bc-441b-85ae-f1d4910d1382
+http://jelly.auvigne.ca:9191/proxy/ts/stream/1d22c0cf-40bc-441b-85ae-f1d4910d1382
 #EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="229" group-title="Doug",CA - DISCOVERY
-http://iptv.auvigne.ca:9191/proxy/ts/stream/a0fec1dd-d806-4783-8b40-a5e4076648b0
+http://jelly.auvigne.ca:9191/proxy/ts/stream/a0fec1dd-d806-4783-8b40-a5e4076648b0
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="230" group-title="Doug",CA - Investigation Discovery
-http://iptv.auvigne.ca:9191/proxy/ts/stream/adbbd0ca-49c1-45c8-bad9-4bd29a1350b6
+http://jelly.auvigne.ca:9191/proxy/ts/stream/adbbd0ca-49c1-45c8-bad9-4bd29a1350b6
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="231" group-title="Doug",CA - AMC
-http://iptv.auvigne.ca:9191/proxy/ts/stream/cbd51021-a46c-4266-b3e9-fdcce791882a
+http://jelly.auvigne.ca:9191/proxy/ts/stream/cbd51021-a46c-4266-b3e9-fdcce791882a
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="232" group-title="Doug",US - AMCPLUS
-http://iptv.auvigne.ca:9191/proxy/ts/stream/f283e4e8-bc15-4edd-a6c6-b12b3d21e194
+http://jelly.auvigne.ca:9191/proxy/ts/stream/f283e4e8-bc15-4edd-a6c6-b12b3d21e194
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="233" group-title="Doug",CA - BBC EARTH
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e2bcf549-27e7-4a88-b96e-f06c56030c35
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e2bcf549-27e7-4a88-b96e-f06c56030c35
 #EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="234" group-title="Doug",CA - Bravo
-http://iptv.auvigne.ca:9191/proxy/ts/stream/b89dc5c0-7091-4478-b78b-f15e2f3a1cfa
+http://jelly.auvigne.ca:9191/proxy/ts/stream/b89dc5c0-7091-4478-b78b-f15e2f3a1cfa
 #EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="235" group-title="Doug",CA - CITY TV CALGARY
-http://iptv.auvigne.ca:9191/proxy/ts/stream/1ad52f69-f39a-4024-81fd-a5825bbf393e
+http://jelly.auvigne.ca:9191/proxy/ts/stream/1ad52f69-f39a-4024-81fd-a5825bbf393e
 #EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="CA - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="236" group-title="Doug",CA - fubo Sports Network 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/6fba5200-8e15-46a5-95ac-0fd25ec2c6a2
+http://jelly.auvigne.ca:9191/proxy/ts/stream/6fba5200-8e15-46a5-95ac-0fd25ec2c6a2
 #EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="237" group-title="Doug",CA - FX HD
-http://iptv.auvigne.ca:9191/proxy/ts/stream/bcb63fe0-5457-4942-bcad-847351219257
+http://jelly.auvigne.ca:9191/proxy/ts/stream/bcb63fe0-5457-4942-bcad-847351219257
 #EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="238" group-title="Doug",CA - FXX
-http://iptv.auvigne.ca:9191/proxy/ts/stream/d2dae393-b5d9-4654-84f9-ad93482c2293
+http://jelly.auvigne.ca:9191/proxy/ts/stream/d2dae393-b5d9-4654-84f9-ad93482c2293
 #EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="239" group-title="Doug",CA - HBO 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/154cbea5-32f2-4223-b454-8053bde3ce4a
+http://jelly.auvigne.ca:9191/proxy/ts/stream/154cbea5-32f2-4223-b454-8053bde3ce4a
 #EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="240" group-title="Doug",CA - HBO 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e6125776-8ee2-47a9-bc40-3bcd6046efa2
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e6125776-8ee2-47a9-bc40-3bcd6046efa2
 #EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="241" group-title="Doug",CA - HGTV
-http://iptv.auvigne.ca:9191/proxy/ts/stream/68995ce9-1de5-4e0d-99f4-a36499309736
+http://jelly.auvigne.ca:9191/proxy/ts/stream/68995ce9-1de5-4e0d-99f4-a36499309736
 #EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="242" group-title="Doug",CA - HISTORY
-http://iptv.auvigne.ca:9191/proxy/ts/stream/3a222608-16e6-465c-a015-b7958d085679
+http://jelly.auvigne.ca:9191/proxy/ts/stream/3a222608-16e6-465c-a015-b7958d085679
 #EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="243" group-title="Doug",CA - Home Network
-http://iptv.auvigne.ca:9191/proxy/ts/stream/5d22fa98-dd13-44e5-a28a-a55f79c1ac02
+http://jelly.auvigne.ca:9191/proxy/ts/stream/5d22fa98-dd13-44e5-a28a-a55f79c1ac02
 #EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="244" group-title="Doug",CA - NAT GEO
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e41fd546-08cf-4af2-acd5-aeb3993f999f
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e41fd546-08cf-4af2-acd5-aeb3993f999f
 #EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="245" group-title="Doug",CA - STARZ 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/208c4fed-bd52-4d71-89be-08663f34d945
+http://jelly.auvigne.ca:9191/proxy/ts/stream/208c4fed-bd52-4d71-89be-08663f34d945
 #EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="246" group-title="Doug",CA - STARZ2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/66249b2b-7256-43d5-9be6-9d54b6549835
+http://jelly.auvigne.ca:9191/proxy/ts/stream/66249b2b-7256-43d5-9be6-9d54b6549835
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="CA - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="247" group-title="Doug",CA - fubo Sports Network
-http://iptv.auvigne.ca:9191/proxy/ts/stream/b21ed150-863b-4f32-8125-333bfefb3898
+http://jelly.auvigne.ca:9191/proxy/ts/stream/b21ed150-863b-4f32-8125-333bfefb3898
 #EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="248" group-title="Doug",US - fubo Sports Network
-http://iptv.auvigne.ca:9191/proxy/ts/stream/c786c641-e540-46fd-9483-97ef7a92724d
+http://jelly.auvigne.ca:9191/proxy/ts/stream/c786c641-e540-46fd-9483-97ef7a92724d
 #EXTINF:-1 tvg-id="fuboSportsNetwork2.us" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="249" group-title="Doug",US - fubo Sports Network 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/aa1284f1-7696-428c-a95d-1b76ad717043
+http://jelly.auvigne.ca:9191/proxy/ts/stream/aa1284f1-7696-428c-a95d-1b76ad717043
 #EXTINF:-1 tvg-id="fuboSportsNetwork4.us" tvg-name="US - fubo Sports Network 4" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork4.us.png" tvg-chno="250" group-title="Doug",US - fubo Sports Network 4
-http://iptv.auvigne.ca:9191/proxy/ts/stream/76d44e6d-eb80-44be-93c7-091e55453d3a
+http://jelly.auvigne.ca:9191/proxy/ts/stream/76d44e6d-eb80-44be-93c7-091e55453d3a
 #EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="251" group-title="Doug",US - fubo Sports Network
-http://iptv.auvigne.ca:9191/proxy/ts/stream/5cab7ec3-fe2d-453b-b831-8239b53fa81e
+http://jelly.auvigne.ca:9191/proxy/ts/stream/5cab7ec3-fe2d-453b-b831-8239b53fa81e
 #EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="252" group-title="Doug",CA - NFL Network
-http://iptv.auvigne.ca:9191/proxy/ts/stream/5f85eba0-ea56-4cca-9328-0a5d852d2f43
+http://jelly.auvigne.ca:9191/proxy/ts/stream/5f85eba0-ea56-4cca-9328-0a5d852d2f43
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="253" group-title="Doug",UK - TNT Sports 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/7fd63c27-db1a-4a59-8ae7-9358a3bd382a
+http://jelly.auvigne.ca:9191/proxy/ts/stream/7fd63c27-db1a-4a59-8ae7-9358a3bd382a
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="254" group-title="Doug",UK - TNT Sports 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/4f739ce9-e805-4141-a9fd-3d3cd7cf95b5
+http://jelly.auvigne.ca:9191/proxy/ts/stream/4f739ce9-e805-4141-a9fd-3d3cd7cf95b5
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" tvg-chno="255" group-title="Doug",UK - TNT Sports 3
-http://iptv.auvigne.ca:9191/proxy/ts/stream/613c28b5-cfa4-4224-be83-3afd6da18a19
+http://jelly.auvigne.ca:9191/proxy/ts/stream/613c28b5-cfa4-4224-be83-3afd6da18a19
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK - TNT Sports 4" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports4.uk.png" tvg-chno="256" group-title="Doug",UK - TNT Sports 4
-http://iptv.auvigne.ca:9191/proxy/ts/stream/6491a034-be9c-47d4-8c95-a32984f0c12e
+http://jelly.auvigne.ca:9191/proxy/ts/stream/6491a034-be9c-47d4-8c95-a32984f0c12e
 #EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="UK - TNT Sports 5" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports5.uk.png" tvg-chno="257" group-title="Doug",UK - TNT Sports 5
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e971482c-cf81-4b46-bcff-77df46d1f829
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e971482c-cf81-4b46-bcff-77df46d1f829
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="258" group-title="Doug",US - BEIN SPORTS USA
-http://iptv.auvigne.ca:9191/proxy/ts/stream/1febeebd-7535-4e27-b58f-6065aa1e8a40
+http://jelly.auvigne.ca:9191/proxy/ts/stream/1febeebd-7535-4e27-b58f-6065aa1e8a40
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="259" group-title="Doug",US - BEIN SPORTS USA
-http://iptv.auvigne.ca:9191/proxy/ts/stream/76595401-0985-404c-8352-42f00341bb08
+http://jelly.auvigne.ca:9191/proxy/ts/stream/76595401-0985-404c-8352-42f00341bb08
 #EXTINF:-1 tvg-id="beINConnect4.us" tvg-name="US - beIN CONNECT 4" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect4.us.png" tvg-chno="260" group-title="Doug",US - beIN CONNECT 4
-http://iptv.auvigne.ca:9191/proxy/ts/stream/24c8b704-d640-40d1-849a-de366073b33e
+http://jelly.auvigne.ca:9191/proxy/ts/stream/24c8b704-d640-40d1-849a-de366073b33e
 #EXTINF:-1 tvg-id="beINSports5.ca" tvg-name="US - beIN CONNECT 5" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect5.us.png" tvg-chno="261" group-title="Doug",US - beIN CONNECT 5
-http://iptv.auvigne.ca:9191/proxy/ts/stream/11b67921-dce7-42f5-a28a-7e5bbd4f85cb
+http://jelly.auvigne.ca:9191/proxy/ts/stream/11b67921-dce7-42f5-a28a-7e5bbd4f85cb
 #EXTINF:-1 tvg-id="beINConnect6.us" tvg-name="US - beIN CONNECT 6" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect6.us.png" tvg-chno="262" group-title="Doug",US - beIN CONNECT 6
-http://iptv.auvigne.ca:9191/proxy/ts/stream/3c8dbc82-3b38-469c-820c-a85f73284c6c
+http://jelly.auvigne.ca:9191/proxy/ts/stream/3c8dbc82-3b38-469c-820c-a85f73284c6c
 #EXTINF:-1 tvg-id="beINConnect7.us" tvg-name="US - beIN CONNECT 7" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect7.us.png" tvg-chno="263" group-title="Doug",US - beIN CONNECT 7
-http://iptv.auvigne.ca:9191/proxy/ts/stream/70662f23-82c1-4c92-8aca-24ae0d44d44b
+http://jelly.auvigne.ca:9191/proxy/ts/stream/70662f23-82c1-4c92-8aca-24ae0d44d44b
 #EXTINF:-1 tvg-id="beINConnect8.us" tvg-name="US - beIN CONNECT 8" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect8.us.png" tvg-chno="264" group-title="Doug",US - beIN CONNECT 8
-http://iptv.auvigne.ca:9191/proxy/ts/stream/243ac3e7-2624-45c7-9524-178082ea8626
+http://jelly.auvigne.ca:9191/proxy/ts/stream/243ac3e7-2624-45c7-9524-178082ea8626
 #EXTINF:-1 tvg-id="OneSoccer.ca" tvg-name="CA - OneSoccer" tvg-logo="https://iptv-epg.org/logos/Canada/OneSoccer.ca.png" tvg-chno="265" group-title="Doug",CA - OneSoccer
-http://iptv.auvigne.ca:9191/proxy/ts/stream/3457b1c7-7110-4f45-a170-beb0bf93f1ed
+http://jelly.auvigne.ca:9191/proxy/ts/stream/3457b1c7-7110-4f45-a170-beb0bf93f1ed
 #EXTINF:-1 tvg-id="Liverpool.epl" tvg-name="EPL - Liverpool" tvg-logo="https://iptv-epg.org/logos/UK/Liverpool.epl.png" tvg-chno="266" group-title="Doug",EPL - Liverpool
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e23fa71e-71e7-4ca0-bdcd-d70725abb6d4
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e23fa71e-71e7-4ca0-bdcd-d70725abb6d4
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK - LFC TV" tvg-logo="https://iptv-epg.org/logos/UK/LFCTV.uk.png" tvg-chno="267" group-title="Doug",UK - LFC TV
-http://iptv.auvigne.ca:9191/proxy/ts/stream/c5f1d572-fc48-41d8-9f0d-2d949e0170b1
+http://jelly.auvigne.ca:9191/proxy/ts/stream/c5f1d572-fc48-41d8-9f0d-2d949e0170b1
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK - MUTV" tvg-logo="https://iptv-epg.org/logos/UK/MUTV.uk.png" tvg-chno="268" group-title="Doug",UK - MUTV
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e8e0117b-d1ec-4c08-9aa0-243cb2587e24
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e8e0117b-d1ec-4c08-9aa0-243cb2587e24
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="269" group-title="Doug",UK - Premier Sports 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/e0741a7c-ef91-4596-a5f9-c6000bcf906b
+http://jelly.auvigne.ca:9191/proxy/ts/stream/e0741a7c-ef91-4596-a5f9-c6000bcf906b
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="270" group-title="Doug",UK - Premier Sports 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/a369a6fc-7cd7-46df-99e2-e6b835e99fbf
+http://jelly.auvigne.ca:9191/proxy/ts/stream/a369a6fc-7cd7-46df-99e2-e6b835e99fbf
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="271" group-title="Doug",UK - Premier Sports 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/15af7ba5-42ff-4fd3-bdd6-76230ae5ece1
+http://jelly.auvigne.ca:9191/proxy/ts/stream/15af7ba5-42ff-4fd3-bdd6-76230ae5ece1
 #EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK - Sky Sports +" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPlus.uk.png" tvg-chno="272" group-title="Doug",UK - Sky Sports +
-http://iptv.auvigne.ca:9191/proxy/ts/stream/a6b910d7-a265-4e26-aca9-4546f8118aaa
+http://jelly.auvigne.ca:9191/proxy/ts/stream/a6b910d7-a265-4e26-aca9-4546f8118aaa
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - Sky Sports Football" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsFootball.uk.png" tvg-chno="273" group-title="Doug",UK - Sky Sports Football
-http://iptv.auvigne.ca:9191/proxy/ts/stream/89c8ed4a-fd10-4b09-a29c-e1976ca31354
+http://jelly.auvigne.ca:9191/proxy/ts/stream/89c8ed4a-fd10-4b09-a29c-e1976ca31354
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="274" group-title="Doug",UK - Sky Sports Premier League
-http://iptv.auvigne.ca:9191/proxy/ts/stream/d49eafe3-9fac-462e-95b2-ca895f950575
+http://jelly.auvigne.ca:9191/proxy/ts/stream/d49eafe3-9fac-462e-95b2-ca895f950575
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="275" group-title="Doug",UK - Sky Sports Premier League
-http://iptv.auvigne.ca:9191/proxy/ts/stream/4244e03c-1a37-49a8-bd76-e374e9de4be6
+http://jelly.auvigne.ca:9191/proxy/ts/stream/4244e03c-1a37-49a8-bd76-e374e9de4be6
 #EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="276" group-title="Doug",CA - DAZN 1
-http://iptv.auvigne.ca:9191/proxy/ts/stream/3fefbf82-c624-43cf-add4-39e5ae0c494f
+http://jelly.auvigne.ca:9191/proxy/ts/stream/3fefbf82-c624-43cf-add4-39e5ae0c494f
 #EXTINF:-1 tvg-id="DAZN10.ca" tvg-name="CA - DAZN 10" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN10.ca.png" tvg-chno="277" group-title="Doug",CA - DAZN 10
-http://iptv.auvigne.ca:9191/proxy/ts/stream/9effe0a9-1fba-4132-8c8c-03c17fd8348a
+http://jelly.auvigne.ca:9191/proxy/ts/stream/9effe0a9-1fba-4132-8c8c-03c17fd8348a
 #EXTINF:-1 tvg-id="DAZN11.ca" tvg-name="CA - DAZN 11" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN11.ca.png" tvg-chno="278" group-title="Doug",CA - DAZN 11
-http://iptv.auvigne.ca:9191/proxy/ts/stream/bfaa458a-ad06-4ec9-bad0-76adc1666fad
+http://jelly.auvigne.ca:9191/proxy/ts/stream/bfaa458a-ad06-4ec9-bad0-76adc1666fad
 #EXTINF:-1 tvg-id="DAZN12.ca" tvg-name="CA - DAZN 12" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN12.ca.png" tvg-chno="279" group-title="Doug",CA - DAZN 12
-http://iptv.auvigne.ca:9191/proxy/ts/stream/88085892-0f98-43cb-b4e9-733efaa0a4e9
+http://jelly.auvigne.ca:9191/proxy/ts/stream/88085892-0f98-43cb-b4e9-733efaa0a4e9
 #EXTINF:-1 tvg-id="DAZN13.ca" tvg-name="CA - DAZN 13" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN13.ca.png" tvg-chno="280" group-title="Doug",CA - DAZN 13
-http://iptv.auvigne.ca:9191/proxy/ts/stream/a39c8894-8701-4f9a-92b6-4e26bbce5ad0
+http://jelly.auvigne.ca:9191/proxy/ts/stream/a39c8894-8701-4f9a-92b6-4e26bbce5ad0
 #EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA - DAZN 2" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="281" group-title="Doug",CA - DAZN 2
-http://iptv.auvigne.ca:9191/proxy/ts/stream/1f26f278-3d05-4c65-a9c0-4288abcba84b
+http://jelly.auvigne.ca:9191/proxy/ts/stream/1f26f278-3d05-4c65-a9c0-4288abcba84b
 #EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA - DAZN 3" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN3.ca.png" tvg-chno="282" group-title="Doug",CA - DAZN 3
-http://iptv.auvigne.ca:9191/proxy/ts/stream/48f25aa8-49d3-4714-b2ca-eaa1a896566b
+http://jelly.auvigne.ca:9191/proxy/ts/stream/48f25aa8-49d3-4714-b2ca-eaa1a896566b
 #EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA - DAZN 4" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN4.ca.png" tvg-chno="283" group-title="Doug",CA - DAZN 4
-http://iptv.auvigne.ca:9191/proxy/ts/stream/eb1b2982-8155-438e-9a18-0486b0c6b01f
+http://jelly.auvigne.ca:9191/proxy/ts/stream/eb1b2982-8155-438e-9a18-0486b0c6b01f
 #EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA - DAZN 5" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="284" group-title="Doug",CA - DAZN 5
-http://iptv.auvigne.ca:9191/proxy/ts/stream/4042894d-6971-438a-bf12-59d19d711a57
+http://jelly.auvigne.ca:9191/proxy/ts/stream/4042894d-6971-438a-bf12-59d19d711a57
 #EXTINF:-1 tvg-id="DAZN6.ca" tvg-name="CA - DAZN 6" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN6.ca.png" tvg-chno="285" group-title="Doug",CA - DAZN 6
-http://iptv.auvigne.ca:9191/proxy/ts/stream/6c3bacb5-b9cc-42ac-9850-8e4e07572dab
+http://jelly.auvigne.ca:9191/proxy/ts/stream/6c3bacb5-b9cc-42ac-9850-8e4e07572dab
 #EXTINF:-1 tvg-id="DAZN7.ca" tvg-name="CA - DAZN 7" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN7.ca.png" tvg-chno="286" group-title="Doug",CA - DAZN 7
-http://iptv.auvigne.ca:9191/proxy/ts/stream/41950791-2c16-459e-843d-283961a507d5
+http://jelly.auvigne.ca:9191/proxy/ts/stream/41950791-2c16-459e-843d-283961a507d5
 #EXTINF:-1 tvg-id="DAZN8.ca" tvg-name="CA - DAZN 8" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN8.ca.png" tvg-chno="287" group-title="Doug",CA - DAZN 8
-http://iptv.auvigne.ca:9191/proxy/ts/stream/cadd188c-3685-4fb5-990f-bebb750041eb
+http://jelly.auvigne.ca:9191/proxy/ts/stream/cadd188c-3685-4fb5-990f-bebb750041eb
 #EXTINF:-1 tvg-id="DAZN9.ca" tvg-name="CA - DAZN 9" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN9.ca.png" tvg-chno="288" group-title="Doug",CA - DAZN 9
-http://iptv.auvigne.ca:9191/proxy/ts/stream/69d96c44-25ad-4b38-92d9-dd9046e9c657
+http://jelly.auvigne.ca:9191/proxy/ts/stream/69d96c44-25ad-4b38-92d9-dd9046e9c657
