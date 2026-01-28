@@ -21,6 +21,8 @@ http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45530.ts
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920750.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="110" group-title="Doug",US - NFL Network
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45526.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="LIVE NFL PLAYOFFS" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="110" group-title="Doug",LIVE NFL PLAYOFFS
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/2001994.ts
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="111" group-title="Doug",CA - SPORTSNET 360
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904211.ts
 #EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="112" group-title="Doug",CA - SPORTSNET EAST
