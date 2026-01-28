@@ -1,179 +1,181 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
-#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="200" group-title="Doug",CA - GLOBAL CALGARY
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="100" group-title="Doug",CA - GLOBAL CALGARY
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920771.ts
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="201" group-title="Doug",US - CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="101" group-title="Doug",US - CNN
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45592.ts
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="202" group-title="Doug",US - CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="102" group-title="Doug",US - CBS SPORTS NETWORK
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45601.ts
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US - ESPN 2" tvg-logo="https://iptv-epg.org/logos/USA/ESPN2.us.png" tvg-chno="203" group-title="Doug",US - ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US - ESPN 2" tvg-logo="https://iptv-epg.org/logos/USA/ESPN2.us.png" tvg-chno="103" group-title="Doug",US - ESPN 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45580.ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/logos/USA/ESPN.us.png" tvg-chno="204" group-title="Doug",US - ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/logos/USA/ESPN.us.png" tvg-chno="104" group-title="Doug",US - ESPN
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45579.ts
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="205" group-title="Doug",US - Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="105" group-title="Doug",US - Fox Sports 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45571.ts
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="206" group-title="Doug",US - FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="106" group-title="Doug",US - FOX SPORTS 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45570.ts
-#EXTINF:-1 tvg-id="NBCSports4K.us" tvg-name="US - NBC Sports 4K" tvg-logo="https://iptv-epg.org/logos/USA/NBCSports4K.us.png" tvg-chno="207" group-title="Doug",US - NBC Sports 4K
+#EXTINF:-1 tvg-id="NBCSports4K.us" tvg-name="US - NBC Sports 4K" tvg-logo="https://iptv-epg.org/logos/USA/NBCSports4K.us.png" tvg-chno="107" group-title="Doug",US - NBC Sports 4K
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1124350.ts
-#EXTINF:-1 tvg-id="NBCSN.us" tvg-name="US - NBCSN" tvg-logo="https://iptv-epg.org/logos/USA/NBCSN.us.png" tvg-chno="208" group-title="Doug",US - NBCSN
+#EXTINF:-1 tvg-id="NBCSN.us" tvg-name="US - NBCSN" tvg-logo="https://iptv-epg.org/logos/USA/NBCSN.us.png" tvg-chno="107" group-title="Doug",US - NBCSN
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45530.ts
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="209" group-title="Doug",CA - SPORTSNET 360
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904211.ts
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="210" group-title="Doug",CA - SPORTSNET EAST
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904210.ts
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="211" group-title="Doug",CA - SPORTSNET 1
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904209.ts
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="212" group-title="Doug",CA - SPORTSNET ONTARIO
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904208.ts
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="213" group-title="Doug",CA - SPORTSNET PACIFIC
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904207.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="214" group-title="Doug",CA - SPORTSNET WEST
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904206.ts
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="215" group-title="Doug",CA - TSN 1
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904216.ts
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="216" group-title="Doug",CA - TSN 2
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904215.ts
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="217" group-title="Doug",CA - TSN 3
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904214.ts
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="218" group-title="Doug",CA - TSN 4
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904213.ts
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="219" group-title="Doug",CA - TSN 5
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904212.ts
-#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWorld.ca.png" tvg-chno="220" group-title="Doug",CA - SPORTSNET WORLD
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904205.ts
-#EXTINF:-1 tvg-id="SportsNetWorld1.ca" tvg-name="CA - SportsNet World Plus 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld1.ca.png" tvg-chno="221" group-title="Doug",CA - SportsNet World Plus 1
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434821.ts
-#EXTINF:-1 tvg-id="SportsNetWorld2.ca" tvg-name="CA - SportsNet World Plus 2" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld2.ca.png" tvg-chno="222" group-title="Doug",CA - SportsNet World Plus 2
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434822.ts
-#EXTINF:-1 tvg-id="SportsNetWorld3.ca" tvg-name="CA - SportsNet World Plus 3" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld3.ca.png" tvg-chno="223" group-title="Doug",CA - SportsNet World Plus 3
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434823.ts
-#EXTINF:-1 tvg-id="SportsNetWorld4.ca" tvg-name="CA - SportsNet World Plus 4" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld4.ca.png" tvg-chno="224" group-title="Doug",CA - SportsNet World Plus 4
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434824.ts
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="225" group-title="Doug",CA - CRAVE 1
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920790.ts
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="226" group-title="Doug",CA - CRAVE 2
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920789.ts
-#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="227" group-title="Doug",CA - CRAVE 3
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920788.ts
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="228" group-title="Doug",CA - CRAVE 4
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920787.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="229" group-title="Doug",CA - DISCOVERY
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920786.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="230" group-title="Doug",CA - Investigation Discovery
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920755.ts
-#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="231" group-title="Doug",CA - AMC
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920803.ts
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="232" group-title="Doug",US - AMCPLUS
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920802.ts
-#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="233" group-title="Doug",CA - BBC EARTH
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920801.ts
-#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="234" group-title="Doug",CA - Bravo
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920799.ts
-#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="235" group-title="Doug",CA - CITY TV CALGARY
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920794.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="CA - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="236" group-title="Doug",CA - fubo Sports Network 2
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920775.ts
-#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="237" group-title="Doug",CA - FX HD
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920774.ts
-#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="238" group-title="Doug",CA - FXX
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920773.ts
-#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="239" group-title="Doug",CA - HBO 1
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920764.ts
-#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="240" group-title="Doug",CA - HBO 2
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920763.ts
-#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="241" group-title="Doug",CA - HGTV
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920762.ts
-#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="242" group-title="Doug",CA - HISTORY
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920761.ts
-#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="243" group-title="Doug",CA - Home Network
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920756.ts
-#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="244" group-title="Doug",CA - NAT GEO
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920751.ts
-#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="245" group-title="Doug",CA - STARZ 1
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920736.ts
-#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="246" group-title="Doug",CA - STARZ2
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920735.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="CA - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="247" group-title="Doug",CA - fubo Sports Network
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920776.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="248" group-title="Doug",US - fubo Sports Network
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738902.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork2.us" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="249" group-title="Doug",US - fubo Sports Network 2
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738901.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork4.us" tvg-name="US - fubo Sports Network 4" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork4.us.png" tvg-chno="250" group-title="Doug",US - fubo Sports Network 4
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738899.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="251" group-title="Doug",US - fubo Sports Network
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/91895.ts
-#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="252" group-title="Doug",CA - NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="108" group-title="Doug",CA - NFL Network
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920750.ts
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="253" group-title="Doug",UK - TNT Sports 1
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="110" group-title="Doug",US - NFL Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45526.ts
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="111" group-title="Doug",CA - SPORTSNET 360
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904211.ts
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="112" group-title="Doug",CA - SPORTSNET EAST
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904210.ts
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="113" group-title="Doug",CA - SPORTSNET 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904209.ts
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="114" group-title="Doug",CA - SPORTSNET ONTARIO
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904208.ts
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="115" group-title="Doug",CA - SPORTSNET PACIFIC
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904207.ts
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="116" group-title="Doug",CA - SPORTSNET WEST
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904206.ts
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="117" group-title="Doug",CA - TSN 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904216.ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="118" group-title="Doug",CA - TSN 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904215.ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="119" group-title="Doug",CA - TSN 3
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904214.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="120" group-title="Doug",CA - TSN 4
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904213.ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="121" group-title="Doug",CA - TSN 5
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904212.ts
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWorld.ca.png" tvg-chno="122" group-title="Doug",CA - SPORTSNET WORLD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904205.ts
+#EXTINF:-1 tvg-id="SportsNetWorld1.ca" tvg-name="CA - SportsNet World Plus 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld1.ca.png" tvg-chno="123" group-title="Doug",CA - SportsNet World Plus 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434821.ts
+#EXTINF:-1 tvg-id="SportsNetWorld2.ca" tvg-name="CA - SportsNet World Plus 2" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld2.ca.png" tvg-chno="124" group-title="Doug",CA - SportsNet World Plus 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434822.ts
+#EXTINF:-1 tvg-id="SportsNetWorld3.ca" tvg-name="CA - SportsNet World Plus 3" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld3.ca.png" tvg-chno="125" group-title="Doug",CA - SportsNet World Plus 3
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434823.ts
+#EXTINF:-1 tvg-id="SportsNetWorld4.ca" tvg-name="CA - SportsNet World Plus 4" tvg-logo="https://iptv-epg.org/logos/Canada/SportsNetWorld4.ca.png" tvg-chno="126" group-title="Doug",CA - SportsNet World Plus 4
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1434824.ts
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="127" group-title="Doug",CA - CRAVE 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920790.ts
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="128" group-title="Doug",CA - CRAVE 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920789.ts
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="129" group-title="Doug",CA - CRAVE 3
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920788.ts
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="130" group-title="Doug",CA - CRAVE 4
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920787.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="131" group-title="Doug",CA - DISCOVERY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920786.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="132" group-title="Doug",CA - Investigation Discovery
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920755.ts
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="133" group-title="Doug",CA - AMC
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920803.ts
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="134" group-title="Doug",US - AMCPLUS
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920802.ts
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="135" group-title="Doug",CA - BBC EARTH
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920801.ts
+#EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="136" group-title="Doug",CA - Bravo
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920799.ts
+#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="137" group-title="Doug",CA - CITY TV CALGARY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920794.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="CA - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork2.ca.png" tvg-chno="138" group-title="Doug",CA - fubo Sports Network 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920775.ts
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="139" group-title="Doug",CA - FX HD
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920774.ts
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="140" group-title="Doug",CA - FXX
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920773.ts
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="141" group-title="Doug",CA - HBO 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920764.ts
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="142" group-title="Doug",CA - HBO 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920763.ts
+#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="143" group-title="Doug",CA - HGTV
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920762.ts
+#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="144" group-title="Doug",CA - HISTORY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920761.ts
+#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="145" group-title="Doug",CA - Home Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920756.ts
+#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="146" group-title="Doug",CA - NAT GEO
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920751.ts
+#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="147" group-title="Doug",CA - STARZ 1
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920736.ts
+#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="148" group-title="Doug",CA - STARZ2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920735.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="CA - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="149" group-title="Doug",CA - fubo Sports Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920776.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="150" group-title="Doug",US - fubo Sports Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738902.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.us" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="151" group-title="Doug",US - fubo Sports Network 2
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738901.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork4.us" tvg-name="US - fubo Sports Network 4" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork4.us.png" tvg-chno="152" group-title="Doug",US - fubo Sports Network 4
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738899.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="153" group-title="Doug",US - fubo Sports Network
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/91895.ts
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="154" group-title="Doug",UK - TNT Sports 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1596285.ts
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="254" group-title="Doug",UK - TNT Sports 2
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="155" group-title="Doug",UK - TNT Sports 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30566.ts
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" tvg-chno="255" group-title="Doug",UK - TNT Sports 3
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" tvg-chno="156" group-title="Doug",UK - TNT Sports 3
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30565.ts
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK - TNT Sports 4" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports4.uk.png" tvg-chno="256" group-title="Doug",UK - TNT Sports 4
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK - TNT Sports 4" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports4.uk.png" tvg-chno="157" group-title="Doug",UK - TNT Sports 4
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1019935.ts
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="UK - TNT Sports 5" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports5.uk.png" tvg-chno="257" group-title="Doug",UK - TNT Sports 5
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="UK - TNT Sports 5" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports5.uk.png" tvg-chno="158" group-title="Doug",UK - TNT Sports 5
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1004548.ts
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="258" group-title="Doug",US - BEIN SPORTS USA
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="159" group-title="Doug",US - BEIN SPORTS USA
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45611.ts
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="259" group-title="Doug",US - BEIN SPORTS USA
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="160" group-title="Doug",US - BEIN SPORTS USA
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177356.ts
-#EXTINF:-1 tvg-id="beINConnect4.us" tvg-name="US - beIN CONNECT 4" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect4.us.png" tvg-chno="260" group-title="Doug",US - beIN CONNECT 4
+#EXTINF:-1 tvg-id="beINConnect4.us" tvg-name="US - beIN CONNECT 4" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect4.us.png" tvg-chno="161" group-title="Doug",US - beIN CONNECT 4
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177358.ts
-#EXTINF:-1 tvg-id="beINSports5.ca" tvg-name="US - beIN CONNECT 5" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect5.us.png" tvg-chno="261" group-title="Doug",US - beIN CONNECT 5
+#EXTINF:-1 tvg-id="beINSports5.ca" tvg-name="US - beIN CONNECT 5" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect5.us.png" tvg-chno="162" group-title="Doug",US - beIN CONNECT 5
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177359.ts
-#EXTINF:-1 tvg-id="beINConnect6.us" tvg-name="US - beIN CONNECT 6" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect6.us.png" tvg-chno="262" group-title="Doug",US - beIN CONNECT 6
+#EXTINF:-1 tvg-id="beINConnect6.us" tvg-name="US - beIN CONNECT 6" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect6.us.png" tvg-chno="163" group-title="Doug",US - beIN CONNECT 6
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177360.ts
-#EXTINF:-1 tvg-id="beINConnect7.us" tvg-name="US - beIN CONNECT 7" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect7.us.png" tvg-chno="263" group-title="Doug",US - beIN CONNECT 7
+#EXTINF:-1 tvg-id="beINConnect7.us" tvg-name="US - beIN CONNECT 7" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect7.us.png" tvg-chno="164" group-title="Doug",US - beIN CONNECT 7
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177361.ts
-#EXTINF:-1 tvg-id="beINConnect8.us" tvg-name="US - beIN CONNECT 8" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect8.us.png" tvg-chno="264" group-title="Doug",US - beIN CONNECT 8
+#EXTINF:-1 tvg-id="beINConnect8.us" tvg-name="US - beIN CONNECT 8" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect8.us.png" tvg-chno="165" group-title="Doug",US - beIN CONNECT 8
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177362.ts
-#EXTINF:-1 tvg-id="OneSoccer.ca" tvg-name="CA - OneSoccer" tvg-logo="https://iptv-epg.org/logos/Canada/OneSoccer.ca.png" tvg-chno="265" group-title="Doug",CA - OneSoccer
+#EXTINF:-1 tvg-id="OneSoccer.ca" tvg-name="CA - OneSoccer" tvg-logo="https://iptv-epg.org/logos/Canada/OneSoccer.ca.png" tvg-chno="166" group-title="Doug",CA - OneSoccer
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/950327.ts
-#EXTINF:-1 tvg-id="Liverpool.epl" tvg-name="EPL - Liverpool" tvg-logo="https://iptv-epg.org/logos/UK/Liverpool.epl.png" tvg-chno="266" group-title="Doug",EPL - Liverpool
+#EXTINF:-1 tvg-id="Liverpool.epl" tvg-name="EPL - Liverpool" tvg-logo="https://iptv-epg.org/logos/UK/Liverpool.epl.png" tvg-chno="167" group-title="Doug",EPL - Liverpool
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/988358.ts
-#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK - LFC TV" tvg-logo="https://iptv-epg.org/logos/UK/LFCTV.uk.png" tvg-chno="267" group-title="Doug",UK - LFC TV
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="UK - LFC TV" tvg-logo="https://iptv-epg.org/logos/UK/LFCTV.uk.png" tvg-chno="168" group-title="Doug",UK - LFC TV
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/910647.ts
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK - MUTV" tvg-logo="https://iptv-epg.org/logos/UK/MUTV.uk.png" tvg-chno="268" group-title="Doug",UK - MUTV
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK - MUTV" tvg-logo="https://iptv-epg.org/logos/UK/MUTV.uk.png" tvg-chno="169" group-title="Doug",UK - MUTV
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45324.ts
-#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="269" group-title="Doug",UK - Premier Sports 1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="170" group-title="Doug",UK - Premier Sports 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/163607.ts
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="270" group-title="Doug",UK - Premier Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="171" group-title="Doug",UK - Premier Sports 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45251.ts
-#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="271" group-title="Doug",UK - Premier Sports 1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="172" group-title="Doug",UK - Premier Sports 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45235.ts
-#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK - Sky Sports +" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPlus.uk.png" tvg-chno="272" group-title="Doug",UK - Sky Sports +
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK - Sky Sports +" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPlus.uk.png" tvg-chno="173" group-title="Doug",UK - Sky Sports +
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30500.ts
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - Sky Sports Football" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsFootball.uk.png" tvg-chno="273" group-title="Doug",UK - Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - Sky Sports Football" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsFootball.uk.png" tvg-chno="174" group-title="Doug",UK - Sky Sports Football
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30498.ts
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="274" group-title="Doug",UK - Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="175" group-title="Doug",UK - Sky Sports Premier League
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/79473.ts
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="275" group-title="Doug",UK - Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="176" group-title="Doug",UK - Sky Sports Premier League
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1458669.ts
-#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="276" group-title="Doug",CA - DAZN 1
+#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="177" group-title="Doug",CA - DAZN 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317036.ts
-#EXTINF:-1 tvg-id="DAZN10.ca" tvg-name="CA - DAZN 10" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN10.ca.png" tvg-chno="277" group-title="Doug",CA - DAZN 10
+#EXTINF:-1 tvg-id="DAZN10.ca" tvg-name="CA - DAZN 10" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN10.ca.png" tvg-chno="178" group-title="Doug",CA - DAZN 10
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317045.ts
-#EXTINF:-1 tvg-id="DAZN11.ca" tvg-name="CA - DAZN 11" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN11.ca.png" tvg-chno="278" group-title="Doug",CA - DAZN 11
+#EXTINF:-1 tvg-id="DAZN11.ca" tvg-name="CA - DAZN 11" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN11.ca.png" tvg-chno="179" group-title="Doug",CA - DAZN 11
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317046.ts
-#EXTINF:-1 tvg-id="DAZN12.ca" tvg-name="CA - DAZN 12" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN12.ca.png" tvg-chno="279" group-title="Doug",CA - DAZN 12
+#EXTINF:-1 tvg-id="DAZN12.ca" tvg-name="CA - DAZN 12" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN12.ca.png" tvg-chno="180" group-title="Doug",CA - DAZN 12
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317047.ts
-#EXTINF:-1 tvg-id="DAZN13.ca" tvg-name="CA - DAZN 13" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN13.ca.png" tvg-chno="280" group-title="Doug",CA - DAZN 13
+#EXTINF:-1 tvg-id="DAZN13.ca" tvg-name="CA - DAZN 13" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN13.ca.png" tvg-chno="181" group-title="Doug",CA - DAZN 13
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317048.ts
-#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA - DAZN 2" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="281" group-title="Doug",CA - DAZN 2
+#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA - DAZN 2" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="182" group-title="Doug",CA - DAZN 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317037.ts
-#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA - DAZN 3" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN3.ca.png" tvg-chno="282" group-title="Doug",CA - DAZN 3
+#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA - DAZN 3" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN3.ca.png" tvg-chno="183" group-title="Doug",CA - DAZN 3
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317038.ts
-#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA - DAZN 4" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN4.ca.png" tvg-chno="283" group-title="Doug",CA - DAZN 4
+#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA - DAZN 4" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN4.ca.png" tvg-chno="184" group-title="Doug",CA - DAZN 4
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317039.ts
-#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA - DAZN 5" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="284" group-title="Doug",CA - DAZN 5
+#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA - DAZN 5" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="185" group-title="Doug",CA - DAZN 5
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317040.ts
-#EXTINF:-1 tvg-id="DAZN6.ca" tvg-name="CA - DAZN 6" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN6.ca.png" tvg-chno="285" group-title="Doug",CA - DAZN 6
+#EXTINF:-1 tvg-id="DAZN6.ca" tvg-name="CA - DAZN 6" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN6.ca.png" tvg-chno="186" group-title="Doug",CA - DAZN 6
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317041.ts
-#EXTINF:-1 tvg-id="DAZN7.ca" tvg-name="CA - DAZN 7" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN7.ca.png" tvg-chno="286" group-title="Doug",CA - DAZN 7
+#EXTINF:-1 tvg-id="DAZN7.ca" tvg-name="CA - DAZN 7" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN7.ca.png" tvg-chno="187" group-title="Doug",CA - DAZN 7
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317042.ts
-#EXTINF:-1 tvg-id="DAZN8.ca" tvg-name="CA - DAZN 8" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN8.ca.png" tvg-chno="287" group-title="Doug",CA - DAZN 8
+#EXTINF:-1 tvg-id="DAZN8.ca" tvg-name="CA - DAZN 8" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN8.ca.png" tvg-chno="188" group-title="Doug",CA - DAZN 8
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317043.ts
-#EXTINF:-1 tvg-id="DAZN9.ca" tvg-name="CA - DAZN 9" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN9.ca.png" tvg-chno="288" group-title="Doug",CA - DAZN 9
+#EXTINF:-1 tvg-id="DAZN9.ca" tvg-name="CA - DAZN 9" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN9.ca.png" tvg-chno="189" group-title="Doug",CA - DAZN 9
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317044.ts
