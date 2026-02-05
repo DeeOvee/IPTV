@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://mac41147.cdnsilver.me/xmltv.php?username=DA49322&password=9387d16cc2" url-tvg="http://mac41147.cdnsilver.me/xmltv.php?username=DA49322&password=9387d16cc2"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="GlobalCalgary.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="1" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537336.ts
 #EXTINF:-1 tvg-id="CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="2" group-title="Garry Watch Live TV",CA - CBC CALGARY
