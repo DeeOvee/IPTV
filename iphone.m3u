@@ -3,22 +3,28 @@
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920771.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="101" group-title="Doug",US - CNN
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45592.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="102" group-title="Doug",US - CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="102" group-title="Doug",CA - CBC CALGARY
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="102" group-title="Doug",US - CBS SPORTS NETWORK
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45601.ts
 #EXTINF:-1 tvg-id="ESPN2.(Alternate).us2" tvg-name="US - ESPN 2" tvg-logo="https://iptv-epg.org/logos/USA/ESPN2.us.png" tvg-chno="103" group-title="Doug",US - ESPN 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45580.ts
+#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA - CTV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="104" group-title="Doug",CA - CTV CALGARY
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177376.ts
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/logos/USA/ESPN.us.png" tvg-chno="104" group-title="Doug",US - ESPN
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45579.ts
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="105" group-title="Doug",US - Fox Sports 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45571.ts
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="106" group-title="Doug",US - FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="106" group-title="Doug",US - FOX SPORTS 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45570.ts
-#EXTINF:-1 tvg-id="NBC.Sports.4K.us2" tvg-name="US - NBC Sports 4K" tvg-logo="https://iptv-epg.org/logos/USA/NBCSports4K.us.png" tvg-chno="107" group-title="Doug",US - NBC Sports 4K
+#EXTINF:-1 tvg-id="NBCSports4K.us" tvg-name="US - NBC Sports 4K" tvg-logo="https://iptv-epg.org/logos/USA/NBCSports4K.us.png" tvg-chno="107" group-title="Doug",US - NBC Sports 4K
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1124350.ts
 #EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="108" group-title="Doug",CA - NFL Network
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920750.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="110" group-title="Doug",US - NFL Network
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45526.ts
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/logos/USA/GolfChannel.us.png" tvg-chno="111" group-title="Doug",US - GOLF CHANNEL
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45554.ts
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="111" group-title="Doug",CA - SPORTSNET 360
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904211.ts
 #EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="112" group-title="Doug",CA - SPORTSNET EAST
@@ -29,10 +35,8 @@ http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904209.ts
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904208.ts
 #EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="115" group-title="Doug",CA - SPORTSNET PACIFIC
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904207.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="116" group-title="Doug",CA| SPORTSNET WEST HD
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177351.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="116" group-title="Doug",CA - SPORTSNET WEST
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904206.ts
+http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177351.ts
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="117" group-title="Doug",CA - TSN 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904216.ts
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="118" group-title="Doug",CA - TSN 2
@@ -67,13 +71,13 @@ http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920786.ts
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920755.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="133" group-title="Doug",CA - AMC
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920803.ts
-#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="134" group-title="Doug",US - AMCPLUS
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="134" group-title="Doug",US - AMCPLUS
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920802.ts
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="135" group-title="Doug",CA - BBC EARTH
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920801.ts
 #EXTINF:-1 tvg-id="Bravo.ca" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/Canada/Bravo.ca.png" tvg-chno="136" group-title="Doug",CA - Bravo
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920799.ts
-#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="137" group-title="Doug",CA - CITY TV CALGARY
+#EXTINF:-1 tvg-id="Citytv.Calgary.ca2" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="137" group-title="Doug",CA - CITY TV CALGARY
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920794.ts
 #EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="139" group-title="Doug",CA - FX HD
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920774.ts
@@ -97,14 +101,12 @@ http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920736.ts
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920735.ts
 #EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="CA - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/Canada/fuboSportsNetwork.ca.png" tvg-chno="149" group-title="Doug",CA - fubo Sports Network
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920776.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="150" group-title="Doug",US - fubo Sports Network
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="150" group-title="Doug",US - fubo Sports Network
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738902.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork2.ca" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="151" group-title="Doug",US - fubo Sports Network 2
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.us" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="151" group-title="Doug",US - fubo Sports Network 2
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738901.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork4.ca" tvg-name="US - fubo Sports Network 4" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork4.us.png" tvg-chno="152" group-title="Doug",US - fubo Sports Network 4
+#EXTINF:-1 tvg-id="fuboSportsNetwork4.us" tvg-name="US - fubo Sports Network 4" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork4.us.png" tvg-chno="152" group-title="Doug",US - fubo Sports Network 4
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/738899.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.ca" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="153" group-title="Doug",US - fubo Sports Network
-http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/91895.ts
 #EXTINF:-1 tvg-id="TNT Sports 1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="154" group-title="Doug",UK - TNT Sports 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1596285.ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="155" group-title="Doug",UK - TNT Sports 2
@@ -115,7 +117,7 @@ http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30565.ts
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1019935.ts
 #EXTINF:-1 tvg-id="TNT Sports 5.uk" tvg-name="UK - TNT Sports 5" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports5.uk.png" tvg-chno="158" group-title="Doug",UK - TNT Sports 5
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1004548.ts
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="159" group-title="Doug",US - BEIN SPORTS USA
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="159" group-title="Doug",US - BEIN SPORTS USA
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45611.ts
 #EXTINF:-1 tvg-id="beINConnect4.us" tvg-name="US - beIN CONNECT 4" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect4.us.png" tvg-chno="161" group-title="Doug",US - beIN CONNECT 4
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177358.ts
@@ -125,7 +127,7 @@ http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177359.ts
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177360.ts
 #EXTINF:-1 tvg-id="beINConnect7.us" tvg-name="US - beIN CONNECT 7" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect7.us.png" tvg-chno="164" group-title="Doug",US - beIN CONNECT 7
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177361.ts
-#EXTINF:-1 tvg-id="beINConnect8.us" tvg-name="US - beIN CONNECT 8" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect8.us.png" tvg-chno="165" group-title="Doug",US - beIN CONNECT 8
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA_08_Bein.com_EN.bein" tvg-name="US - beIN CONNECT 8" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect8.us.png" tvg-chno="165" group-title="Doug",US - beIN CONNECT 8
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177362.ts
 #EXTINF:-1 tvg-id="OneSoccer.ca" tvg-name="CA - OneSoccer" tvg-logo="https://iptv-epg.org/logos/Canada/OneSoccer.ca.png" tvg-chno="166" group-title="Doug",CA - OneSoccer
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/950327.ts
@@ -149,7 +151,7 @@ http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30498.ts
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/79473.ts
 #EXTINF:-1 tvg-id="PremierLeagueTV.ca" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="176" group-title="Doug",UK - Sky Sports Premier League
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1458669.ts
-#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="177" group-title="Doug",CA - DAZN 1
+#EXTINF:-1 tvg-id="CA_Dazn001.v" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="177" group-title="Doug",CA - DAZN 1
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317036.ts
 #EXTINF:-1 tvg-id="DAZN10.ca" tvg-name="CA - DAZN 10" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN10.ca.png" tvg-chno="178" group-title="Doug",CA - DAZN 10
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317045.ts
