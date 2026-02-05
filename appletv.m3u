@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Doug?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Doug?cachedlogos=false&tvg_id_source=tvg_id"
 #EXTINF:-1 tvg-id="Global.Calgary.HD.ca2" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="100" group-title="Doug",CA - GLOBAL CALGARY
 http://line.didyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920771.ts
 #EXTINF:-1 tvg-id="CNN.HD.ca2" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="101" group-title="Doug",US - CNN
