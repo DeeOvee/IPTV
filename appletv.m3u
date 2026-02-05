@@ -25,10 +25,10 @@ http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177346.ts
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177347.ts
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="412" group-title="AppleTV",CA - TSN 5
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/904212.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="413" group-title="AppleTV",US - NFL Network
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45526.ts
 #EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="413" group-title="AppleTV",CA - NFL Network
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920750.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="413" group-title="AppleTV",US - NFL Network
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45526.ts
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="US - NFL RED ZONE" tvg-logo="https://iptv-epg.org/logos/USA/NFLRedZone.us.png" tvg-chno="414" group-title="AppleTV",US - NFL RED ZONE
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45524.ts
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="415" group-title="AppleTV",US - CBS SPORTS NETWORK
@@ -37,6 +37,10 @@ http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45601.ts
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45530.ts
 #EXTINF:-1 tvg-id="NBCSports4K.us" tvg-name="US - NBC Sports 4K" tvg-logo="https://iptv-epg.org/logos/USA/NBCSports4K.us.png" tvg-chno="417" group-title="AppleTV",US - NBC Sports 4K
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1124350.ts
+#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="418" group-title="AppleTV",CA| CBC CALGARY HD
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
+#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA| CTV CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="418" group-title="AppleTV",CA| CTV CALGARY HD
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177376.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="419" group-title="AppleTV",CA - AMC
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176864.ts
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="420" group-title="AppleTV",US - AMCPLUS
