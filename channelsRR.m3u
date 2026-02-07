@@ -2,8 +2,6 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="GlobalCalgary.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="1" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537336.ts
-#EXTINF:-1 tvg-id="CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="2" group-title="Garry Watch Live TV",CA - CBC CALGARY
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498636.ts
 #EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="3" group-title="Garry Watch Live TV",CA - CBC CALGARY
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414170.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="4" group-title="Garry Watch Live TV",US - CNN
