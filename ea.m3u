@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/EA?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/EA?cachedlogos=false&tvg_id_source=tvg_id"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC" tvg-logo="http://23.227.147.172:80/images/970fd4a37554c8e2229b0e660999c7dc.png" tvg-chno="499" group-title="EA Live TV",USA AMC
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175787.ts
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/234.png?75252" tvg-chno="500" group-title="EA Live TV",USA CNN UHD*
