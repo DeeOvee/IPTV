@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
+#EXTINF:-1 tvg-id="398" tvg-name="NFL  | 01 - 6:30PM Super Bowl LX . Seahawks at Patriots" tvg-logo="http://51.158.145.100/picons/logos/USA/NFL.png" tvg-chno="398" group-title="US| NFL PACKAGE",NFL  | 01 - 6:30PM Super Bowl LX . Seahawks at Patriots
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/836296.ts
+#EXTINF:-1 tvg-id="399" tvg-name="NFL  | 02 - 6:30PM Super Bowl LX . Seahawks at Patriots" tvg-logo="http://51.158.145.100/picons/logos/USA/NFL.png" tvg-chno="399" group-title="US| NFL PACKAGE",NFL  | 02 - 6:30PM Super Bowl LX . Seahawks at Patriots
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/836295.ts
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="400" group-title="AppleTV",CA - GLOBAL CALGARY
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920771.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="401" group-title="AppleTV",US - CNN
@@ -27,10 +31,10 @@ http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920721.ts
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45554.ts
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="412" group-title="AppleTV",CA - TSN 5
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920720.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="413" group-title="AppleTV",US - NFL Network
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45526.ts
 #EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="413" group-title="AppleTV",CA - NFL Network
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920750.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="413" group-title="AppleTV",US - NFL Network
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45526.ts
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="US - NFL RED ZONE" tvg-logo="https://iptv-epg.org/logos/USA/NFLRedZone.us.png" tvg-chno="414" group-title="AppleTV",US - NFL RED ZONE
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45524.ts
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="415" group-title="AppleTV",US - CBS SPORTS NETWORK
