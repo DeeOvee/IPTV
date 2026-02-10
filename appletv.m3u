@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="400" group-title="AppleTV",CA - GLOBAL CALGARY
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920771.ts
+#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="400" group-title="AppleTV",CA| CBC CALGARY HD
+http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="401" group-title="AppleTV",US - CNN
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/442785.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="402" group-title="AppleTV",CA| SPORTSNET WEST HD
@@ -37,8 +39,6 @@ http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45524.ts
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45601.ts
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="US - NBCSN" tvg-logo="https://iptv-epg.org/logos/USA/NBCSN.us.png" tvg-chno="418" group-title="AppleTV",US - NBCSN
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45530.ts
-#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="419" group-title="AppleTV",CA| CBC CALGARY HD
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
 #EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA| CTV CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="420" group-title="AppleTV",CA| CTV CALGARY HD
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177376.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="421" group-title="AppleTV",CA - AMC
