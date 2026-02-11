@@ -5,8 +5,16 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/957398.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/208973.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="502" group-title="EA Live TV",CA AMC
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181817.ts
+#EXTINF:-1 tvg-id="ReseaudesSports-RDS.ca" tvg-name="CA RDS (HD)" tvg-logo="https://iptv-epg.org/logos/Canada/ReseaudesSports-RDS.ca.png" tvg-chno="503" group-title="EA Live TV",CA RDS (HD)
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182053.ts
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="USA AMC" tvg-logo="https://iptv-epg.org/logos/USA/AMC.us.png" tvg-chno="503" group-title="EA Live TV",USA AMC
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175787.ts
+#EXTINF:-1 tvg-id="ICI-RDI.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://iptv-epg.org/logos/Canada/ICI-RDI.ca.png" tvg-chno="503" group-title="EA Live TV",CA (FR) ICI RDI HD
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182230.ts
+#EXTINF:-1 tvg-id="ICIEdmonton-CBXFT.ca" tvg-name="CA (FR) ICI Tele Alberta HD" tvg-logo="https://iptv-epg.org/logos/Canada/ICIEdmonton-CBXFT.ca.png" tvg-chno="503" group-title="EA Live TV",CA (FR) ICI Tele Alberta HD
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182233.ts
+#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CA RDS 2 (FR)" tvg-logo="https://iptv-epg.org/logos/Canada/RDS2.ca.png" tvg-chno="503" group-title="EA Live TV",CA RDS 2 (FR)
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182056.ts
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA A&E" tvg-logo="https://iptv-epg.org/logos/Canada/AandE.ca.png" tvg-chno="504" group-title="EA Live TV",CA A&E
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181808.ts
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA BBC Earth HD" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="505" group-title="EA Live TV",CA BBC Earth HD
@@ -159,7 +167,7 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/220388.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175805.ts
 #EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="USA Bravo West" tvg-logo="https://iptv-epg.org/logos/USA/BravoPacific.us.png" tvg-chno="581" group-title="EA Live TV",USA Bravo West
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175809.ts
-#EXTINF:-1 tvg-id="590" tvg-name="CA SUPER SPORTS CH 296" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="590" group-title="EA Live TV",CA SUPER SPORTS CH 296
+#EXTINF:-1 tvg-id="sportspkg431.ca" tvg-name="CA SUPER SPORTS CH 296" tvg-logo="https://iptv-epg.org/logos/Canada/sportspkg463.ca.png" tvg-chno="590" group-title="EA Live TV",CA SUPER SPORTS CH 296
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182093.ts
 #EXTINF:-1 tvg-id="591" tvg-name="CA SUPER SPORTS CH 297" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="591" group-title="EA Live TV",CA SUPER SPORTS CH 297
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182094.ts
@@ -177,7 +185,7 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182100.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182101.ts
 #EXTINF:-1 tvg-id="rogers432.ca" tvg-name="CA SUPER SPORTS CH 432" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="598" group-title="EA Live TV",CA SUPER SPORTS CH 432
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182104.ts
-#EXTINF:-1 tvg-id="rogers433.ca" tvg-name="CA SUPER SPORTS CH 433" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="599" group-title="EA Live TV",CA SUPER SPORTS CH 433
+#EXTINF:-1 tvg-id="rogerssupersports433.ca" tvg-name="CA SUPER SPORTS CH 433" tvg-logo="https://iptv-epg.org/logos/Canada/rogerssupersports433.ca.png" tvg-chno="599" group-title="EA Live TV",CA SUPER SPORTS CH 433
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182105.ts
 #EXTINF:-1 tvg-id="rogers434.ca" tvg-name="CA SUPER SPORTS CH 434" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="600" group-title="EA Live TV",CA SUPER SPORTS CH 434
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182106.ts
