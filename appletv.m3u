@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml"
 #EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="400" group-title="AppleTV",CA| CBC CALGARY HD
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="400" group-title="AppleTV",CA - GLOBAL CALGARY
