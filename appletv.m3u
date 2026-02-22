@@ -1,113 +1,111 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml"
-#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="400" group-title="AppleTV",CA| CBC CALGARY HD
+#EXTINF:-1 tvg-id="CBC.Calgary.HD.ca2" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="400" group-title="AppleTV",CA| CBC CALGARY HD
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
-#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="400" group-title="AppleTV",CA - GLOBAL CALGARY
+#EXTINF:-1 tvg-id="Global.Calgary.HD.ca2" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="400" group-title="AppleTV",CA - GLOBAL CALGARY
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920771.ts
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="401" group-title="AppleTV",US - CNN
+#EXTINF:-1 tvg-id="CNN.HD.ca2" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="401" group-title="AppleTV",US - CNN
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/442785.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="402" group-title="AppleTV",CA| SPORTSNET WEST HD
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="402" group-title="AppleTV",CA| SPORTSNET WEST HD
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177351.ts
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="403" group-title="AppleTV",CA - SPORTSNET EAST
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetEast.ca.png" tvg-chno="403" group-title="AppleTV",CA - SPORTSNET EAST
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920741.ts
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="404" group-title="AppleTV",CA - SPORTSNET 1
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="404" group-title="AppleTV",CA - SPORTSNET 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920740.ts
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="405" group-title="AppleTV",CA - SPORTSNET ONTARIO
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="405" group-title="AppleTV",CA - SPORTSNET ONTARIO
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920739.ts
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="406" group-title="AppleTV",CA - SPORTSNET PACIFIC
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="406" group-title="AppleTV",CA - SPORTSNET PACIFIC
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920738.ts
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="407" group-title="AppleTV",CA - SPORTSNET 360
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="407" group-title="AppleTV",CA - SPORTSNET 360
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920742.ts
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="408" group-title="AppleTV",CA - TSN 1
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="408" group-title="AppleTV",CA - TSN 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/904216.ts
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="409" group-title="AppleTV",CA - TSN 2
+#EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="409" group-title="AppleTV",CA - TSN 2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/904215.ts
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="410" group-title="AppleTV",CA - TSN 3
+#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="410" group-title="AppleTV",CA - TSN 3
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/904214.ts
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="411" group-title="AppleTV",CA - TSN 4
+#EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="411" group-title="AppleTV",CA - TSN 4
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/904213.ts
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="412" group-title="AppleTV",CA - TSN 5
+#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="412" group-title="AppleTV",CA - TSN 5
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/904212.ts
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/logos/USA/GolfChannel.us.png" tvg-chno="413" group-title="AppleTV",US - GOLF CHANNEL
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="US - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/logos/USA/GolfChannel.us.png" tvg-chno="413" group-title="AppleTV",US - GOLF CHANNEL
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45554.ts
-#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="414" group-title="AppleTV",CA - NFL Network
+#EXTINF:-1 tvg-id="NFL14SC.ca2" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="414" group-title="AppleTV",CA - NFL Network
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920750.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="415" group-title="AppleTV",US - NFL Network
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="415" group-title="AppleTV",US - NFL Network
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45526.ts
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="US - NFL RED ZONE" tvg-logo="https://iptv-epg.org/logos/USA/NFLRedZone.us.png" tvg-chno="416" group-title="AppleTV",US - NFL RED ZONE
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="US - NFL RED ZONE" tvg-logo="https://iptv-epg.org/logos/USA/NFLRedZone.us.png" tvg-chno="416" group-title="AppleTV",US - NFL RED ZONE
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45524.ts
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="417" group-title="AppleTV",US - CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="417" group-title="AppleTV",US - CBS SPORTS NETWORK
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45601.ts
-#EXTINF:-1 tvg-id="NBCSN.us" tvg-name="US - NBCSN" tvg-logo="https://iptv-epg.org/logos/USA/NBCSN.us.png" tvg-chno="418" group-title="AppleTV",US - NBCSN
+#EXTINF:-1 tvg-id="NBC.Chicago.(Live.Stream).us2" tvg-name="US - NBCSN" tvg-logo="https://iptv-epg.org/logos/USA/NBCSN.us.png" tvg-chno="418" group-title="AppleTV",US - NBCSN
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45530.ts
-#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA| CTV CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="420" group-title="AppleTV",CA| CTV CALGARY HD
+#EXTINF:-1 tvg-id="CTV.Calgary.HD.ca2" tvg-name="CA| CTV CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="420" group-title="AppleTV",CA| CTV CALGARY HD
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/177376.ts
-#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="421" group-title="AppleTV",CA - AMC
+#EXTINF:-1 tvg-id="AMC.Canada.HD.ca2" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="421" group-title="AppleTV",CA - AMC
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920803.ts
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="422" group-title="AppleTV",US - AMCPLUS
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="422" group-title="AppleTV",US - AMCPLUS
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920802.ts
-#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="423" group-title="AppleTV",CA - BBC EARTH
+#EXTINF:-1 tvg-id="BBC.Earth.ca2" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="423" group-title="AppleTV",CA - BBC EARTH
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920801.ts
-#EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="CA - BNN Bloomberg" tvg-logo="https://iptv-epg.org/logos/Canada/BNNBloomberg.ca.png" tvg-chno="424" group-title="AppleTV",CA - BNN Bloomberg
+#EXTINF:-1 tvg-id="BNN.Bloomberg.ca2" tvg-name="CA - BNN Bloomberg" tvg-logo="https://iptv-epg.org/logos/Canada/BNNBloomberg.ca.png" tvg-chno="424" group-title="AppleTV",CA - BNN Bloomberg
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176798.ts
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="425" group-title="AppleTV",CA - CRAVE 1
+#EXTINF:-1 tvg-id="Crave1.HD.ca2" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="425" group-title="AppleTV",CA - CRAVE 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920790.ts
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="426" group-title="AppleTV",CA - CRAVE 2
+#EXTINF:-1 tvg-id="Crave2.HD.ca2" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="426" group-title="AppleTV",CA - CRAVE 2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920789.ts
-#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="427" group-title="AppleTV",CA - CRAVE 3
+#EXTINF:-1 tvg-id="Crave3.HD.ca2" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="427" group-title="AppleTV",CA - CRAVE 3
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920788.ts
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="428" group-title="AppleTV",CA - CRAVE 4
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="428" group-title="AppleTV",CA - CRAVE 4
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920787.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="429" group-title="AppleTV",CA - DISCOVERY
+#EXTINF:-1 tvg-id="Discovery.Channel.ca2" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="429" group-title="AppleTV",CA - DISCOVERY
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920786.ts
-#EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="430" group-title="AppleTV",CA - DTOUR
+#EXTINF:-1 tvg-id="DTour.HD.ca2" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="430" group-title="AppleTV",CA - DTOUR
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920782.ts
-#EXTINF:-1 tvg-id="WILDTV.ca" tvg-name="CA - WILD TV" tvg-logo="https://iptv-epg.org/logos/Canada/WILDTV.ca.png" tvg-chno="431" group-title="AppleTV",CA - WILD TV
+#EXTINF:-1 tvg-id="WILD.TV.ca2" tvg-name="CA - WILD TV" tvg-logo="https://iptv-epg.org/logos/Canada/WILDTV.ca.png" tvg-chno="431" group-title="AppleTV",CA - WILD TV
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176908.ts
-#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="432" group-title="AppleTV",CA - NAT GEO
+#EXTINF:-1 tvg-id="National.Geographic.Canada.HD.ca2" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="432" group-title="AppleTV",CA - NAT GEO
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920751.ts
-#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="CA - NAT GEO WILD" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographicWild.ca.png" tvg-chno="433" group-title="AppleTV",CA - NAT GEO WILD
+#EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.HD.ca2" tvg-name="CA - NAT GEO WILD" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographicWild.ca.png" tvg-chno="433" group-title="AppleTV",CA - NAT GEO WILD
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176898.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork2.us" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="434" group-title="AppleTV",US - fubo Sports Network 2
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="434" group-title="AppleTV",US - fubo Sports Network 2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920775.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="435" group-title="AppleTV",US - fubo Sports Network
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="435" group-title="AppleTV",US - fubo Sports Network
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920776.ts
-#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="436" group-title="AppleTV",CA - FX HD
+#EXTINF:-1 tvg-id="FX.HD.ca2" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="436" group-title="AppleTV",CA - FX HD
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920774.ts
-#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="437" group-title="AppleTV",CA - FXX
+#EXTINF:-1 tvg-id="FXX.Canada.ca2" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="437" group-title="AppleTV",CA - FXX
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920773.ts
-#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="438" group-title="AppleTV",CA - HBO 1
+#EXTINF:-1 tvg-id="HBO.Canada.1.HD.ca2" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="438" group-title="AppleTV",CA - HBO 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920764.ts
-#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="439" group-title="AppleTV",CA - HBO 2
+#EXTINF:-1 tvg-id="HBO.Canada.West.HD.ca2" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="439" group-title="AppleTV",CA - HBO 2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920763.ts
-#EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="CA - SMITHSONIAN CHANNEL" tvg-logo="https://iptv-epg.org/logos/Canada/SmithsonianChannel.ca.png" tvg-chno="440" group-title="AppleTV",CA - SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-id="Smithsonian.Channel.ca2" tvg-name="CA - SMITHSONIAN CHANNEL" tvg-logo="https://iptv-epg.org/logos/Canada/SmithsonianChannel.ca.png" tvg-chno="440" group-title="AppleTV",CA - SMITHSONIAN CHANNEL
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176903.ts
-#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="441" group-title="AppleTV",CA - HGTV
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.ca2" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="441" group-title="AppleTV",CA - HGTV
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176891.ts
-#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="442" group-title="AppleTV",CA - HISTORY
+#EXTINF:-1 tvg-id="History.ca2" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="442" group-title="AppleTV",CA - HISTORY
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176892.ts
-#EXTINF:-1 tvg-id="HISTORY2.ca" tvg-name="CA - H2" tvg-logo="https://iptv-epg.org/logos/Canada/HISTORY2.ca.png" tvg-chno="443" group-title="AppleTV",CA - H2
+#EXTINF:-1 tvg-id="HISTORY.2.ca2" tvg-name="CA - H2" tvg-logo="https://iptv-epg.org/logos/Canada/HISTORY2.ca.png" tvg-chno="443" group-title="AppleTV",CA - H2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176893.ts
-#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="444" group-title="AppleTV",CA - Home Network
+#EXTINF:-1 tvg-id="Home.Network.HD.ca2" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="444" group-title="AppleTV",CA - Home Network
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920756.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="445" group-title="AppleTV",CA - Investigation Discovery
+#EXTINF:-1 tvg-id="Investigation.Discovery.ca2" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Canada/InvestigationDiscovery.ca.png" tvg-chno="445" group-title="AppleTV",CA - Investigation Discovery
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920755.ts
-#EXTINF:-1 tvg-id="MLBNetwork.ca" tvg-name="CA - MLBNC" tvg-logo="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" tvg-chno="446" group-title="AppleTV",CA - MLBNC
+#EXTINF:-1 tvg-id="MLB.Network.Canada.HD.ca2" tvg-name="CA - MLBNC" tvg-logo="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" tvg-chno="446" group-title="AppleTV",CA - MLBNC
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1920752.ts
-#EXTINF:-1 tvg-id="RedbullTV.us" tvg-name="US - Redbull TV" tvg-logo="https://iptv-epg.org/logos/USA/RedbullTV.us.png" tvg-chno="447" group-title="AppleTV",US - Redbull TV
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/150356.ts
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="448" group-title="AppleTV",US - FOX SPORTS 2
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="448" group-title="AppleTV",US - FOX SPORTS 2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45570.ts
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="449" group-title="AppleTV",US - Fox Sports 1
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="449" group-title="AppleTV",US - Fox Sports 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45571.ts
-#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="450" group-title="AppleTV",CA - STARZ 1
+#EXTINF:-1 tvg-id="STARZ.1.HD.ca2" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="450" group-title="AppleTV",CA - STARZ 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176929.ts
-#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="451" group-title="AppleTV",CA - STARZ2
+#EXTINF:-1 tvg-id="STARZ.2.ca2" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="451" group-title="AppleTV",CA - STARZ2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/176930.ts
-#EXTINF:-1 tvg-id="USANetwork.ca" tvg-name="CA - USA Network" tvg-logo="https://iptv-epg.org/logos/Canada/USANetwork.ca.png" tvg-chno="452" group-title="AppleTV",CA - USA Network
+#EXTINF:-1 tvg-id="USA.Network.ca2" tvg-name="CA - USA Network" tvg-logo="https://iptv-epg.org/logos/Canada/USANetwork.ca.png" tvg-chno="452" group-title="AppleTV",CA - USA Network
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45466.ts
-#EXTINF:-1 tvg-id="beINSports.ca" tvg-name="CA - BEIN CANADA" tvg-logo="https://iptv-epg.org/logos/Canada/beINSports.ca.png" tvg-chno="453" group-title="AppleTV",CA - BEIN CANADA
+#EXTINF:-1 tvg-id="beIN.Sports.HD.(Canada).ca2" tvg-name="CA - BEIN CANADA" tvg-logo="https://iptv-epg.org/logos/Canada/beINSports.ca.png" tvg-chno="453" group-title="AppleTV",CA - BEIN CANADA
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45611.ts
-#EXTINF:-1 tvg-id="beINConnect4.us" tvg-name="US - beIN CONNECT 4" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect4.us.png" tvg-chno="454" group-title="AppleTV",US - beIN CONNECT 4
+#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_EN.bein" tvg-name="US - beIN CONNECT 4" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect4.us.png" tvg-chno="454" group-title="AppleTV",US - beIN CONNECT 4
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/83954.ts
 #EXTINF:-1 tvg-id="beINConnect5.us" tvg-name="US - beIN CONNECT 5" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect5.us.png" tvg-chno="455" group-title="AppleTV",US - beIN CONNECT 5
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/83955.ts
@@ -129,25 +127,21 @@ http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/317038.ts
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/317039.ts
 #EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA - DAZN 5" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="464" group-title="AppleTV",CA - DAZN 5
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/317040.ts
-#EXTINF:-1 tvg-id="EuroSportWorld.ca" tvg-name="CA - GOALSD" tvg-logo="https://iptv-epg.org/logos/Canada/EuroSportWorld.ca.png" tvg-chno="465" group-title="AppleTV",CA - GOALSD
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1594808.ts
-#EXTINF:-1 tvg-id="OneSoccer.ca" tvg-name="CA - OneSoccer" tvg-logo="https://iptv-epg.org/logos/Canada/OneSoccer.ca.png" tvg-chno="466" group-title="AppleTV",CA - OneSoccer
-http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/950327.ts
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="467" group-title="AppleTV",US - BEIN SPORTS USA
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="467" group-title="AppleTV",US - BEIN SPORTS USA
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45611.ts
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="468" group-title="AppleTV",UK - Sky Sports Premier League
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="468" group-title="AppleTV",UK - Sky Sports Premier League
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/79473.ts
-#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="469" group-title="AppleTV",UK - Premier Sports 1
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="469" group-title="AppleTV",UK - Premier Sports 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/163607.ts
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="470" group-title="AppleTV",UK - Premier Sports 2
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="470" group-title="AppleTV",UK - Premier Sports 2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/45251.ts
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="471" group-title="AppleTV",UK - TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports1.uk.png" tvg-chno="471" group-title="AppleTV",UK - TNT Sports 1
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1905820.ts
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="472" group-title="AppleTV",UK - TNT Sports 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports2.uk.png" tvg-chno="472" group-title="AppleTV",UK - TNT Sports 2
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1905816.ts
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" tvg-chno="473" group-title="AppleTV",UK - TNT Sports 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports3.uk.png" tvg-chno="473" group-title="AppleTV",UK - TNT Sports 3
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1905813.ts
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK - TNT Sports 4" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports4.uk.png" tvg-chno="474" group-title="AppleTV",UK - TNT Sports 4
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK - TNT Sports 4" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports4.uk.png" tvg-chno="474" group-title="AppleTV",UK - TNT Sports 4
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1905810.ts
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="UK - TNT Sports 5" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports5.uk.png" tvg-chno="475" group-title="AppleTV",UK - TNT Sports 5
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK - TNT Sports 5" tvg-logo="https://iptv-epg.org/logos/UK/TNTSports5.uk.png" tvg-chno="475" group-title="AppleTV",UK - TNT Sports 5
 http://line.didyy.xyz/live/h88yneexs2/vjhruy2dr4/1004548.ts
