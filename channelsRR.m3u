@@ -15,18 +15,18 @@ http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1231872.ts
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/325067.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="10" group-title="Garry Watch Live TV",US - NFL Network
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/395713.ts
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="11" group-title="Garry Watch Live TV",US - AMCPLUS
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537367.ts
 #EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="11" group-title="Garry Watch Live TV",CA - STARZ2
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537300.ts
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="11" group-title="Garry Watch Live TV",US - AMCPLUS
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537367.ts
 #EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="11" group-title="Garry Watch Live TV",CA - STARZ 1
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537301.ts
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="US - DISCOVERY SCIENCE" tvg-logo="https://iptv-epg.org/logos/USA/ScienceChannel.us.png" tvg-chno="11" group-title="Garry Watch Live TV",US - DISCOVERY SCIENCE
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414077.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US - Animal Planet" tvg-logo="https://iptv-epg.org/logos/USA/AnimalPlanet.us.png" tvg-chno="11" group-title="Garry Watch Live TV",US - Animal Planet
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414083.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="11" group-title="Garry Watch Live TV",CA - AMC
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537368.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US - Animal Planet" tvg-logo="https://iptv-epg.org/logos/USA/AnimalPlanet.us.png" tvg-chno="11" group-title="Garry Watch Live TV",US - Animal Planet
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/325780.ts
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA - A&E" tvg-logo="https://iptv-epg.org/logos/Canada/AandE.ca.png" tvg-chno="12" group-title="Garry Watch Live TV",CA - A&E
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/325830.ts
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="13" group-title="Garry Watch Live TV",CA - BBC EARTH
@@ -42,20 +42,20 @@ http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537362.ts
 #EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="18" group-title="Garry Watch Live TV",CA - CITY TV CALGARY
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498635.ts
 #EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="19" group-title="Garry Watch Live TV",CA - CRAVE 1
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537355.ts
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414054.ts
 #EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="20" group-title="Garry Watch Live TV",CA - CRAVE 2
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537354.ts
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414055.ts
 #EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="21" group-title="Garry Watch Live TV",CA - CRAVE 3
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537353.ts
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414056.ts
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="22" group-title="Garry Watch Live TV",CA - CRAVE 4
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537352.ts
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.ca" tvg-name="CA - CRIME & INVESTIGATION" tvg-logo="https://iptv-epg.org/logos/Canada/CrimePlusInvestigation.ca.png" tvg-chno="23" group-title="Garry Watch Live TV",CA - CRIME & INVESTIGATION
-http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/498763.ts
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414057.ts
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="CA - CRIME & INVESTIGATION" tvg-logo="https://iptv-epg.org/logos/Canada/CrimePlusInvestigation.ca.png" tvg-chno="23" group-title="Garry Watch Live TV",CA - CRIME & INVESTIGATION
+http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/325832.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="24" group-title="Garry Watch Live TV",CA - DISCOVERY
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537351.ts
 #EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="25" group-title="Garry Watch Live TV",CA - DTOUR
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/414207.ts
-#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="26" group-title="Garry Watch Live TV",CA - FX HD
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="26" group-title="Garry Watch Live TV",CA - FX HD
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537339.ts
 #EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="27" group-title="Garry Watch Live TV",CA - FXX
 http://mac41147.cdnsilver.me/live/DA49322/9387d16cc2/1537338.ts
