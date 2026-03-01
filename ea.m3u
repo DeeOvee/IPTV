@@ -7,14 +7,14 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/208973.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181817.ts
 #EXTINF:-1 tvg-id="ReseaudesSports-RDS.ca" tvg-name="CA RDS (HD)" tvg-logo="https://iptv-epg.org/logos/Canada/ReseaudesSports-RDS.ca.png" tvg-chno="503" group-title="EA Live TV",CA RDS (HD)
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182053.ts
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="USA AMC" tvg-logo="https://iptv-epg.org/logos/USA/AMC.us.png" tvg-chno="503" group-title="EA Live TV",USA AMC
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175787.ts
 #EXTINF:-1 tvg-id="ICI-RDI.ca" tvg-name="CA (FR) ICI RDI HD" tvg-logo="https://iptv-epg.org/logos/Canada/ICI-RDI.ca.png" tvg-chno="503" group-title="EA Live TV",CA (FR) ICI RDI HD
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182230.ts
-#EXTINF:-1 tvg-id="ICIEdmonton-CBXFT.ca" tvg-name="CA (FR) ICI Tele Alberta HD" tvg-logo="https://iptv-epg.org/logos/Canada/ICIEdmonton-CBXFT.ca.png" tvg-chno="503" group-title="EA Live TV",CA (FR) ICI Tele Alberta HD
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182233.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="USA AMC" tvg-logo="https://iptv-epg.org/logos/USA/AMC.us.png" tvg-chno="503" group-title="EA Live TV",USA AMC
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175787.ts
 #EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CA RDS 2 (FR)" tvg-logo="https://iptv-epg.org/logos/Canada/RDS2.ca.png" tvg-chno="503" group-title="EA Live TV",CA RDS 2 (FR)
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182056.ts
+#EXTINF:-1 tvg-id="ICIEdmonton-CBXFT.ca" tvg-name="CA (FR) ICI Tele Alberta HD" tvg-logo="https://iptv-epg.org/logos/Canada/ICIEdmonton-CBXFT.ca.png" tvg-chno="503" group-title="EA Live TV",CA (FR) ICI Tele Alberta HD
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182233.ts
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA A&E" tvg-logo="https://iptv-epg.org/logos/Canada/AandE.ca.png" tvg-chno="504" group-title="EA Live TV",CA A&E
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181808.ts
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA BBC Earth HD" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="505" group-title="EA Live TV",CA BBC Earth HD
@@ -27,16 +27,6 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181844.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228442.ts
 #EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="CA COTTAGE LIFE" tvg-logo="https://iptv-epg.org/logos/Canada/CottageLife.ca.png" tvg-chno="510" group-title="EA Live TV",CA COTTAGE LIFE
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/181886.ts
-#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA DAZN 01" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="511" group-title="EA Live TV",CA DAZN 01
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501756.ts
-#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA DAZN 02" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="512" group-title="EA Live TV",CA DAZN 02
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501757.ts
-#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA DAZN 03" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN3.ca.png" tvg-chno="513" group-title="EA Live TV",CA DAZN 03
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501758.ts
-#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA DAZN 04" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN4.ca.png" tvg-chno="514" group-title="EA Live TV",CA DAZN 04
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501759.ts
-#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA DAZN 05" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="515" group-title="EA Live TV",CA DAZN 05
-http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501760.ts
 #EXTINF:-1 tvg-id="DocumentaryCanada.ca" tvg-name="CA DOCUMENTARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/DocumentaryCanada.ca.png" tvg-chno="516" group-title="EA Live TV",CA DOCUMENTARY HD
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1361368.ts
 #EXTINF:-1 tvg-id="EuroSportWorld.ca" tvg-name="CA EURO WORLD SPORT" tvg-logo="https://iptv-epg.org/logos/Canada/EuroSportWorld.ca.png" tvg-chno="517" group-title="EA Live TV",CA EURO WORLD SPORT
@@ -119,9 +109,9 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501760.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/176175.ts
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="USA NFL Redzone UHD" tvg-logo="https://iptv-epg.org/logos/USA/NFLRedZone.us.png" tvg-chno="557" group-title="EA Live TV",USA NFL Redzone UHD
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/177247.ts
-#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="USA NBC Sport Network" tvg-logo="https://iptv-epg.org/logos/USA/NBCSportsCalifornia.us.png" tvg-chno="558" group-title="EA Live TV",USA NBC Sport Network
+#EXTINF:-1 tvg-id="NBCSports.pluto" tvg-name="USA NBC Sport Network" tvg-logo="https://iptv-epg.org/logos/PlutoTV/NBCSports.pluto.png" tvg-chno="558" group-title="EA Live TV",USA NBC Sport Network
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/222492.ts
-#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="USA NBC Sports" tvg-logo="https://iptv-epg.org/logos/USA/NBCSportsCalifornia.us.png" tvg-chno="559" group-title="EA Live TV",USA NBC Sports
+#EXTINF:-1 tvg-id="NBCSports4K.us" tvg-name="USA NBC Sports" tvg-logo="https://iptv-epg.org/logos/USA/NBCSports4K.us.png" tvg-chno="559" group-title="EA Live TV",USA NBC Sports
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1383049.ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA ESPN UHD" tvg-logo="https://iptv-epg.org/logos/USA/ESPN.us.png" tvg-chno="560" group-title="EA Live TV",USA ESPN UHD
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/226642.ts
@@ -167,113 +157,123 @@ http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/220388.ts
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175805.ts
 #EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="USA Bravo West" tvg-logo="https://iptv-epg.org/logos/USA/BravoPacific.us.png" tvg-chno="581" group-title="EA Live TV",USA Bravo West
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/175809.ts
+#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA DAZN 01" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="583" group-title="EA Live TV",CA DAZN 01
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501756.ts
+#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA DAZN 02" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="584" group-title="EA Live TV",CA DAZN 02
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501757.ts
+#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA DAZN 03" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN3.ca.png" tvg-chno="585" group-title="EA Live TV",CA DAZN 03
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501758.ts
+#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA DAZN 04" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN4.ca.png" tvg-chno="586" group-title="EA Live TV",CA DAZN 04
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501759.ts
+#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA DAZN 05" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="587" group-title="EA Live TV",CA DAZN 05
+http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2501760.ts
 #EXTINF:-1 tvg-id="sportspkg431.ca" tvg-name="CA SUPER SPORTS CH 296" tvg-logo="https://iptv-epg.org/logos/Canada/sportspkg463.ca.png" tvg-chno="590" group-title="EA Live TV",CA SUPER SPORTS CH 296
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182093.ts
-#EXTINF:-1 tvg-id="591" tvg-name="CA SUPER SPORTS CH 297" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="591" group-title="EA Live TV",CA SUPER SPORTS CH 297
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 297" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="591" group-title="EA Live TV",CA SUPER SPORTS CH 297
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182094.ts
-#EXTINF:-1 tvg-id="592" tvg-name="CA SUPER SPORTS CH 322" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="592" group-title="EA Live TV",CA SUPER SPORTS CH 322
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 322" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="592" group-title="EA Live TV",CA SUPER SPORTS CH 322
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182095.ts
-#EXTINF:-1 tvg-id="593" tvg-name="CA SUPER SPORTS CH 323" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="593" group-title="EA Live TV",CA SUPER SPORTS CH 323
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 323" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="593" group-title="EA Live TV",CA SUPER SPORTS CH 323
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182096.ts
-#EXTINF:-1 tvg-id="594" tvg-name="CA SUPER SPORTS CH 324" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="594" group-title="EA Live TV",CA SUPER SPORTS CH 324
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 324" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="594" group-title="EA Live TV",CA SUPER SPORTS CH 324
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182097.ts
-#EXTINF:-1 tvg-id="595" tvg-name="CA SUPER SPORTS CH 368" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="595" group-title="EA Live TV",CA SUPER SPORTS CH 368
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 368" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="595" group-title="EA Live TV",CA SUPER SPORTS CH 368
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182099.ts
-#EXTINF:-1 tvg-id="596" tvg-name="CA SUPER SPORTS CH 422" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="596" group-title="EA Live TV",CA SUPER SPORTS CH 422
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 422" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="596" group-title="EA Live TV",CA SUPER SPORTS CH 422
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182100.ts
 #EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 431" tvg-logo="https://iptv-epg.org/logos/Canada/sportspkg463.ca.png" tvg-chno="597" group-title="EA Live TV",CA SUPER SPORTS CH 431
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182101.ts
-#EXTINF:-1 tvg-id="rogers432.ca" tvg-name="CA SUPER SPORTS CH 432" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="598" group-title="EA Live TV",CA SUPER SPORTS CH 432
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 432" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="598" group-title="EA Live TV",CA SUPER SPORTS CH 432
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182104.ts
 #EXTINF:-1 tvg-id="rogerssupersports433.ca" tvg-name="CA SUPER SPORTS CH 433" tvg-logo="https://iptv-epg.org/logos/Canada/rogerssupersports433.ca.png" tvg-chno="599" group-title="EA Live TV",CA SUPER SPORTS CH 433
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182105.ts
-#EXTINF:-1 tvg-id="rogers434.ca" tvg-name="CA SUPER SPORTS CH 434" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="600" group-title="EA Live TV",CA SUPER SPORTS CH 434
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 434" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="600" group-title="EA Live TV",CA SUPER SPORTS CH 434
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182106.ts
-#EXTINF:-1 tvg-id="rogers435.ca" tvg-name="CA SUPER SPORTS CH 435" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="601" group-title="EA Live TV",CA SUPER SPORTS CH 435
+#EXTINF:-1 tvg-id="sportspkg465.ca" tvg-name="CA SUPER SPORTS CH 435" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="601" group-title="EA Live TV",CA SUPER SPORTS CH 435
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182107.ts
-#EXTINF:-1 tvg-id="rogers436.ca" tvg-name="CA SUPER SPORTS CH 436" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="602" group-title="EA Live TV",CA SUPER SPORTS CH 436
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 436" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="602" group-title="EA Live TV",CA SUPER SPORTS CH 436
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182108.ts
-#EXTINF:-1 tvg-id="rogers437.ca" tvg-name="CA SUPER SPORTS CH 437" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="603" group-title="EA Live TV",CA SUPER SPORTS CH 437
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 437" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="603" group-title="EA Live TV",CA SUPER SPORTS CH 437
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182112.ts
-#EXTINF:-1 tvg-id="rogers438.ca" tvg-name="CA SUPER SPORTS CH 438" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="604" group-title="EA Live TV",CA SUPER SPORTS CH 438
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 438" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="604" group-title="EA Live TV",CA SUPER SPORTS CH 438
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182114.ts
-#EXTINF:-1 tvg-id="rogers439.ca" tvg-name="CA SUPER SPORTS CH 439" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="605" group-title="EA Live TV",CA SUPER SPORTS CH 439
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 439" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="605" group-title="EA Live TV",CA SUPER SPORTS CH 439
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182116.ts
-#EXTINF:-1 tvg-id="rogers440.ca" tvg-name="CA SUPER SPORTS CH 440" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="606" group-title="EA Live TV",CA SUPER SPORTS CH 440
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 440" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="606" group-title="EA Live TV",CA SUPER SPORTS CH 440
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182118.ts
-#EXTINF:-1 tvg-id="rogers441.ca" tvg-name="CA SUPER SPORTS CH 441" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="607" group-title="EA Live TV",CA SUPER SPORTS CH 441
+#EXTINF:-1 tvg-id="sportspkg441.ca" tvg-name="CA SUPER SPORTS CH 441" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="607" group-title="EA Live TV",CA SUPER SPORTS CH 441
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182120.ts
-#EXTINF:-1 tvg-id="rogers442.ca" tvg-name="CA SUPER SPORTS CH 442" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="608" group-title="EA Live TV",CA SUPER SPORTS CH 442
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 442" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="608" group-title="EA Live TV",CA SUPER SPORTS CH 442
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182122.ts
-#EXTINF:-1 tvg-id="rogers443.ca" tvg-name="CA SUPER SPORTS CH 443" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="609" group-title="EA Live TV",CA SUPER SPORTS CH 443
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 443" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="609" group-title="EA Live TV",CA SUPER SPORTS CH 443
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182124.ts
-#EXTINF:-1 tvg-id="rogers444.ca" tvg-name="CA SUPER SPORTS CH 444" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="610" group-title="EA Live TV",CA SUPER SPORTS CH 444
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 444" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="610" group-title="EA Live TV",CA SUPER SPORTS CH 444
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182129.ts
-#EXTINF:-1 tvg-id="rogers450.ca" tvg-name="CA SUPER SPORTS CH 450" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="611" group-title="EA Live TV",CA SUPER SPORTS CH 450
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 450" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="611" group-title="EA Live TV",CA SUPER SPORTS CH 450
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182130.ts
-#EXTINF:-1 tvg-id="rogers452.ca" tvg-name="CA SUPER SPORTS CH 452" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="612" group-title="EA Live TV",CA SUPER SPORTS CH 452
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 452" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="612" group-title="EA Live TV",CA SUPER SPORTS CH 452
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182132.ts
-#EXTINF:-1 tvg-id="rogers453.ca" tvg-name="CA SUPER SPORTS CH 453" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="613" group-title="EA Live TV",CA SUPER SPORTS CH 453
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 453" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="613" group-title="EA Live TV",CA SUPER SPORTS CH 453
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182133.ts
-#EXTINF:-1 tvg-id="rogers454.ca" tvg-name="CA SUPER SPORTS CH 454" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="614" group-title="EA Live TV",CA SUPER SPORTS CH 454
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 454" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="614" group-title="EA Live TV",CA SUPER SPORTS CH 454
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182134.ts
-#EXTINF:-1 tvg-id="rogers455.ca" tvg-name="CA SUPER SPORTS CH 455" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="615" group-title="EA Live TV",CA SUPER SPORTS CH 455
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 455" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="615" group-title="EA Live TV",CA SUPER SPORTS CH 455
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182135.ts
-#EXTINF:-1 tvg-id="rogers456.ca" tvg-name="CA SUPER SPORTS CH 456" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="616" group-title="EA Live TV",CA SUPER SPORTS CH 456
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 456" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="616" group-title="EA Live TV",CA SUPER SPORTS CH 456
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182136.ts
-#EXTINF:-1 tvg-id="rogers457.ca" tvg-name="CA SUPER SPORTS CH 457" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="617" group-title="EA Live TV",CA SUPER SPORTS CH 457
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 457" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="617" group-title="EA Live TV",CA SUPER SPORTS CH 457
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182137.ts
-#EXTINF:-1 tvg-id="rogers458.ca" tvg-name="CA SUPER SPORTS CH 458" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="618" group-title="EA Live TV",CA SUPER SPORTS CH 458
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 458" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="618" group-title="EA Live TV",CA SUPER SPORTS CH 458
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182138.ts
-#EXTINF:-1 tvg-id="rogers459.ca" tvg-name="CA SUPER SPORTS CH 459" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="619" group-title="EA Live TV",CA SUPER SPORTS CH 459
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 459" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="619" group-title="EA Live TV",CA SUPER SPORTS CH 459
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182139.ts
-#EXTINF:-1 tvg-id="rogers460.ca" tvg-name="CA SUPER SPORTS CH 460" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="620" group-title="EA Live TV",CA SUPER SPORTS CH 460
+#EXTINF:-1 tvg-id="sportspkg465.ca" tvg-name="CA SUPER SPORTS CH 460" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="620" group-title="EA Live TV",CA SUPER SPORTS CH 460
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182140.ts
-#EXTINF:-1 tvg-id="rogers461.ca" tvg-name="CA SUPER SPORTS CH 461" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="621" group-title="EA Live TV",CA SUPER SPORTS CH 461
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 461" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="621" group-title="EA Live TV",CA SUPER SPORTS CH 461
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182142.ts
-#EXTINF:-1 tvg-id="rogers462.ca" tvg-name="CA SUPER SPORTS CH 462" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="622" group-title="EA Live TV",CA SUPER SPORTS CH 462
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 462" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="622" group-title="EA Live TV",CA SUPER SPORTS CH 462
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182145.ts
-#EXTINF:-1 tvg-id="rogers464.ca" tvg-name="CA SUPER SPORTS CH 464" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="623" group-title="EA Live TV",CA SUPER SPORTS CH 464
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 464" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="623" group-title="EA Live TV",CA SUPER SPORTS CH 464
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182146.ts
-#EXTINF:-1 tvg-id="rogers465.ca" tvg-name="CA SUPER SPORTS CH 465" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="624" group-title="EA Live TV",CA SUPER SPORTS CH 465
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 465" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="624" group-title="EA Live TV",CA SUPER SPORTS CH 465
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182147.ts
-#EXTINF:-1 tvg-id="625" tvg-name="CA SUPER SPORTS CH 467" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="625" group-title="EA Live TV",CA SUPER SPORTS CH 467
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 467" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="625" group-title="EA Live TV",CA SUPER SPORTS CH 467
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2544359.ts
-#EXTINF:-1 tvg-id="626" tvg-name="CA SUPER SPORTS CH 470" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="626" group-title="EA Live TV",CA SUPER SPORTS CH 470
+#EXTINF:-1 tvg-id="rogerssupersports470.ca" tvg-name="CA SUPER SPORTS CH 470" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="626" group-title="EA Live TV",CA SUPER SPORTS CH 470
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/2544361.ts
-#EXTINF:-1 tvg-id="627" tvg-name="CA SUPER SPORTS CH 472" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="627" group-title="EA Live TV",CA SUPER SPORTS CH 472
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 472" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="627" group-title="EA Live TV",CA SUPER SPORTS CH 472
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182148.ts
-#EXTINF:-1 tvg-id="628" tvg-name="CA SUPER SPORTS CH 473" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="628" group-title="EA Live TV",CA SUPER SPORTS CH 473
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 473" tvg-logo="http://23.227.147.172:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="628" group-title="EA Live TV",CA SUPER SPORTS CH 473
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182149.ts
-#EXTINF:-1 tvg-id="629" tvg-name="CA SUPER SPORTS CH 474" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="629" group-title="EA Live TV",CA SUPER SPORTS CH 474
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 474" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="629" group-title="EA Live TV",CA SUPER SPORTS CH 474
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182150.ts
-#EXTINF:-1 tvg-id="630" tvg-name="CA SUPER SPORTS CH 475" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="630" group-title="EA Live TV",CA SUPER SPORTS CH 475
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 475" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="630" group-title="EA Live TV",CA SUPER SPORTS CH 475
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182151.ts
-#EXTINF:-1 tvg-id="631" tvg-name="CA SUPER SPORTS CH 476" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="631" group-title="EA Live TV",CA SUPER SPORTS CH 476
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 476" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="631" group-title="EA Live TV",CA SUPER SPORTS CH 476
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182153.ts
-#EXTINF:-1 tvg-id="632" tvg-name="CA SUPER SPORTS CH 477" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="632" group-title="EA Live TV",CA SUPER SPORTS CH 477
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 477" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="632" group-title="EA Live TV",CA SUPER SPORTS CH 477
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182155.ts
-#EXTINF:-1 tvg-id="633" tvg-name="CA SUPER SPORTS CH 478" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="633" group-title="EA Live TV",CA SUPER SPORTS CH 478
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 478" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="633" group-title="EA Live TV",CA SUPER SPORTS CH 478
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182157.ts
-#EXTINF:-1 tvg-id="634" tvg-name="CA SUPER SPORTS CH 480" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="634" group-title="EA Live TV",CA SUPER SPORTS CH 480
+#EXTINF:-1 tvg-id="sportspkg452.ca" tvg-name="CA SUPER SPORTS CH 480" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="634" group-title="EA Live TV",CA SUPER SPORTS CH 480
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228678.ts
-#EXTINF:-1 tvg-id="635" tvg-name="CA SUPER SPORTS CH 481" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="635" group-title="EA Live TV",CA SUPER SPORTS CH 481
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 481" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="635" group-title="EA Live TV",CA SUPER SPORTS CH 481
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182163.ts
-#EXTINF:-1 tvg-id="636" tvg-name="CA SUPER SPORTS CH 482" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="636" group-title="EA Live TV",CA SUPER SPORTS CH 482
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 482" tvg-logo="http://172.110.220.61:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="636" group-title="EA Live TV",CA SUPER SPORTS CH 482
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182165.ts
-#EXTINF:-1 tvg-id="637" tvg-name="CA SUPER SPORTS CH 483" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="637" group-title="EA Live TV",CA SUPER SPORTS CH 483
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 483" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="637" group-title="EA Live TV",CA SUPER SPORTS CH 483
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182166.ts
-#EXTINF:-1 tvg-id="638" tvg-name="CA SUPER SPORTS CH 484" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="638" group-title="EA Live TV",CA SUPER SPORTS CH 484
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA SUPER SPORTS CH 484" tvg-logo="http://185.193.88.130:80/images/2577a6dafca5654d1a9860b9cc088ef6.png" tvg-chno="638" group-title="EA Live TV",CA SUPER SPORTS CH 484
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/182167.ts
-#EXTINF:-1 tvg-id="639" tvg-name="CA: SUPER SPORTS CH 267" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="639" group-title="EA Live TV",CA: SUPER SPORTS CH 267
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA: SUPER SPORTS CH 267" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="639" group-title="EA Live TV",CA: SUPER SPORTS CH 267
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228657.ts
-#EXTINF:-1 tvg-id="rogers433.ca" tvg-name="CA: SUPER SPORTS CH 433" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="640" group-title="EA Live TV",CA: SUPER SPORTS CH 433
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA: SUPER SPORTS CH 433" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="640" group-title="EA Live TV",CA: SUPER SPORTS CH 433
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228658.ts
-#EXTINF:-1 tvg-id="rogers434.ca" tvg-name="CA: SUPER SPORTS CH 434" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="641" group-title="EA Live TV",CA: SUPER SPORTS CH 434
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA: SUPER SPORTS CH 434" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="641" group-title="EA Live TV",CA: SUPER SPORTS CH 434
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228659.ts
-#EXTINF:-1 tvg-id="rogers435.ca" tvg-name="CA: SUPER SPORTS CH 435" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="642" group-title="EA Live TV",CA: SUPER SPORTS CH 435
+#EXTINF:-1 tvg-id="sportspkg465.ca" tvg-name="CA: SUPER SPORTS CH 435" tvg-logo="http://172.110.220.61:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="642" group-title="EA Live TV",CA: SUPER SPORTS CH 435
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228660.ts
-#EXTINF:-1 tvg-id="rogers436.ca" tvg-name="CA: SUPER SPORTS CH 436" tvg-logo="http://23.227.147.172:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="643" group-title="EA Live TV",CA: SUPER SPORTS CH 436
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA: SUPER SPORTS CH 436" tvg-logo="http://23.227.147.172:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="643" group-title="EA Live TV",CA: SUPER SPORTS CH 436
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/228661.ts
-#EXTINF:-1 tvg-id="644" tvg-name="CA: SUPER SPORTS CH 468" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="644" group-title="EA Live TV",CA: SUPER SPORTS CH 468
+#EXTINF:-1 tvg-id="sportspkg463.ca" tvg-name="CA: SUPER SPORTS CH 468" tvg-logo="http://185.193.88.130:80/images/40f65dd29be45800ec79f0f69b6b5824.png" tvg-chno="644" group-title="EA Live TV",CA: SUPER SPORTS CH 468
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/1887221.ts
