@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/EA?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/EA?cachedlogos=false&tvg_id_source=tvg_id"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="500" group-title="EA Live TV",CA GLOBAL CALGARY
 http://kytv.xyz/live/pZUJb8MnWF/gM2mJd7xTy/957398.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="USA CNN UHD*" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="501" group-title="EA Live TV",USA CNN UHD*
