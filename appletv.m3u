@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml"
-#EXTINF:-1 tvg-id="CBC.Calgary.HD.ca2" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="400" group-title="AppleTV",CA| CBC CALGARY HD
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177363.ts
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="400" group-title="AppleTV",CA - GLOBAL CALGARY
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920771.ts
+#EXTINF:-1 tvg-id="CBC.Calgary.HD.ca2" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="400" group-title="AppleTV",CA| CBC CALGARY HD
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177363.ts
 #EXTINF:-1 tvg-id="CNN.HD.ca2" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="401" group-title="AppleTV",US - CNN
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/442785.ts
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="402" group-title="AppleTV",CA| SPORTSNET WEST HD
