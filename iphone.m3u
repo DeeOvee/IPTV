@@ -3,16 +3,16 @@
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920771.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="101" group-title="Doug",US - CNN
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45592.ts
-#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="102" group-title="Doug",CA - CBC CALGARY
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US - CBS SPORTS NETWORK" tvg-logo="https://iptv-epg.org/logos/USA/CBSSportsNetwork.us.png" tvg-chno="102" group-title="Doug",US - CBS SPORTS NETWORK
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45601.ts
+#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="102" group-title="Doug",CA - CBC CALGARY
+http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US - ESPN 2" tvg-logo="https://iptv-epg.org/logos/USA/ESPN2.us.png" tvg-chno="103" group-title="Doug",US - ESPN 2
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45580.ts
-#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA - CTV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="104" group-title="Doug",CA - CTV CALGARY
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177376.ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/logos/USA/ESPN.us.png" tvg-chno="104" group-title="Doug",US - ESPN
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45579.ts
+#EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA - CTV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="104" group-title="Doug",CA - CTV CALGARY
+http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/177376.ts
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports1.us.png" tvg-chno="105" group-title="Doug",US - Fox Sports 1
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45571.ts
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/logos/USA/FoxSports2.us.png" tvg-chno="106" group-title="Doug",US - FOX SPORTS 2
@@ -22,7 +22,7 @@ http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1124350.ts
 #EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/Canada/NFLNetwork.ca.png" tvg-chno="108" group-title="Doug",CA - NFL Network
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1920750.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="110" group-title="Doug",US - NFL Network
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/45526.ts
+http://192.168.1.11:9191/proxy/ts/stream/9b9c0885-8ecc-46b4-8d3f-fadaf391e4b8
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="111" group-title="Doug",CA - SPORTSNET 360
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/904211.ts
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/logos/USA/GolfChannel.us.png" tvg-chno="111" group-title="Doug",US - GOLF CHANNEL
@@ -147,31 +147,5 @@ http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30500.ts
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/30498.ts
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="175" group-title="Doug",UK - Sky Sports Premier League
 http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/79473.ts
-#EXTINF:-1 tvg-id="CA_Dazn001.v" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/USA/CA_Dazn001.v.png" tvg-chno="177" group-title="Doug",CA - DAZN 1
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317036.ts
-#EXTINF:-1 tvg-id="DAZN10.ca" tvg-name="CA - DAZN 10" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN10.ca.png" tvg-chno="178" group-title="Doug",CA - DAZN 10
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317045.ts
-#EXTINF:-1 tvg-id="DAZN11.ca" tvg-name="CA - DAZN 11" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN11.ca.png" tvg-chno="179" group-title="Doug",CA - DAZN 11
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317046.ts
-#EXTINF:-1 tvg-id="DAZN12.ca" tvg-name="CA - DAZN 12" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN12.ca.png" tvg-chno="180" group-title="Doug",CA - DAZN 12
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317047.ts
-#EXTINF:-1 tvg-id="DAZN13.ca" tvg-name="CA - DAZN 13" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN13.ca.png" tvg-chno="181" group-title="Doug",CA - DAZN 13
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317048.ts
-#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA - DAZN 2" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="182" group-title="Doug",CA - DAZN 2
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317037.ts
-#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA - DAZN 3" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN3.ca.png" tvg-chno="183" group-title="Doug",CA - DAZN 3
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317038.ts
-#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA - DAZN 4" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN4.ca.png" tvg-chno="184" group-title="Doug",CA - DAZN 4
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317039.ts
-#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA - DAZN 5" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="185" group-title="Doug",CA - DAZN 5
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317040.ts
-#EXTINF:-1 tvg-id="DAZN6.ca" tvg-name="CA - DAZN 6" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN6.ca.png" tvg-chno="186" group-title="Doug",CA - DAZN 6
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317041.ts
-#EXTINF:-1 tvg-id="DAZN7.ca" tvg-name="CA - DAZN 7" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN7.ca.png" tvg-chno="187" group-title="Doug",CA - DAZN 7
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317042.ts
-#EXTINF:-1 tvg-id="DAZN8.ca" tvg-name="CA - DAZN 8" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN8.ca.png" tvg-chno="188" group-title="Doug",CA - DAZN 8
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317043.ts
-#EXTINF:-1 tvg-id="DAZN9.ca" tvg-name="CA - DAZN 9" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN9.ca.png" tvg-chno="189" group-title="Doug",CA - DAZN 9
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/317044.ts
-#EXTINF:-1 tvg-id="190" tvg-name="NEWCASTLE VS. BARCELONA | Tue 10 Mar 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 25" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-chno="190" group-title="Doug",NEWCASTLE VS. BARCELONA | Tue 10 Mar 21:00 | 8K EXCLUSIVE | CA: DAZN PPV 25
-http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/2006776.ts
+#EXTINF:-1 tvg-id="176" tvg-name="UEFA | 04 - Newcastle vs Barcelona 8:00pm" tvg-logo="http://103.176.90.95/images/1363057.png" tvg-chno="176" group-title="Doug",UEFA | 04 - Newcastle vs Barcelona 8:00pm
+http://line.ubbyy.xyz/live/yhssw5rn6r/qn1d6xgw8u/1363057.ts
