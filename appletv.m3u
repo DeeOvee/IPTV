@@ -65,9 +65,9 @@ http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/176908.ts
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920751.ts
 #EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.HD.ca2" tvg-name="CA - NAT GEO WILD" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographicWild.ca.png" tvg-chno="433" group-title="AppleTV",CA - NAT GEO WILD
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/176898.ts
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="434" group-title="AppleTV",US - fubo Sports Network 2
+#EXTINF:-1 tvg-id="fuboSportsNetwork2.us" tvg-name="US - fubo Sports Network 2" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork2.us.png" tvg-chno="434" group-title="AppleTV",US - fubo Sports Network 2
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920775.ts
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="435" group-title="AppleTV",US - fubo Sports Network
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork.us.png" tvg-chno="435" group-title="AppleTV",US - fubo Sports Network
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920776.ts
 #EXTINF:-1 tvg-id="FX.HD.ca2" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="436" group-title="AppleTV",CA - FX HD
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920774.ts
@@ -111,10 +111,10 @@ http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177360.ts
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177361.ts
 #EXTINF:-1 tvg-id="beINConnect8.us" tvg-name="US - beIN CONNECT 8" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect8.us.png" tvg-chno="458" group-title="AppleTV",US - beIN CONNECT 8
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177362.ts
-#EXTINF:-1 tvg-id="LaLigaTV.us" tvg-name="US - LaLiga TV" tvg-logo="https://iptv-epg.org/logos/USA/LaLigaTV.us.png" tvg-chno="459" group-title="AppleTV",US - LaLiga TV
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/163611.ts
 #EXTINF:-1 tvg-id="LaLigaTV.uk" tvg-name="UK - LaLiga TV" tvg-logo="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" tvg-chno="459" group-title="AppleTV",UK - LaLiga TV
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/163611.ts
+#EXTINF:-1 tvg-id="LaLigaTV.us" tvg-name="US - LaLiga TV" tvg-logo="https://iptv-epg.org/logos/USA/LaLigaTV.us.png" tvg-chno="459" group-title="AppleTV",US - LaLiga TV
+http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/163611.ts
 #EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="460" group-title="AppleTV",CA - DAZN 1
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/317036.ts
 #EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA - DAZN 2" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="461" group-title="AppleTV",CA - DAZN 2
@@ -145,3 +145,15 @@ http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1004548.ts
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/30500.ts
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="477" group-title="AppleTV",UK - Sky Sports Premier League
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/79473.ts
+#EXTINF:-1 tvg-id="fuboSportsNetwork4.us" tvg-name="FUBO SPORTS 4 HD [USA]" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork4.us.png" tvg-chno="478" group-title="AppleTV",FUBO SPORTS 4 HD [USA]
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/738899.ts
+#EXTINF:-1 tvg-id="479" tvg-name="FUBO SPORTS NETWORK 2  RAW [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920775.png" tvg-chno="479" group-title="AppleTV",FUBO SPORTS NETWORK 2  RAW [PRIME]
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920775.ts
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="FUBO SPORTS NETWORK HD [USA]" tvg-logo="http://51.158.145.100/picons/logos/USA/91895.png" tvg-chno="480" group-title="AppleTV",FUBO SPORTS NETWORK HD [USA]
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/91895.ts
+#EXTINF:-1 tvg-id="481" tvg-name="FUBO SPORTS NETWORK RAW [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920776.png" tvg-chno="481" group-title="AppleTV",FUBO SPORTS NETWORK RAW [PRIME]
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920776.ts
+#EXTINF:-1 tvg-id="482" tvg-name="FUBO SPORTS [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/USA/1920229.png" tvg-chno="482" group-title="AppleTV",FUBO SPORTS [PRIME]
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920229.ts
+#EXTINF:-1 tvg-id="483" tvg-name="UEFA | 04 - Newcastle vs Barcelona 8:00pm" tvg-logo="http://103.176.90.95/images/1363057.png" tvg-chno="483" group-title="AppleTV",UEFA | 04 - Newcastle vs Barcelona 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363057.ts
