@@ -111,22 +111,10 @@ http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177360.ts
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177361.ts
 #EXTINF:-1 tvg-id="beINConnect8.us" tvg-name="US - beIN CONNECT 8" tvg-logo="https://iptv-epg.org/logos/USA/beINConnect8.us.png" tvg-chno="458" group-title="AppleTV",US - beIN CONNECT 8
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177362.ts
-#EXTINF:-1 tvg-id="LaLigaTV.uk" tvg-name="UK - LaLiga TV" tvg-logo="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" tvg-chno="459" group-title="AppleTV",UK - LaLiga TV
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/163611.ts
 #EXTINF:-1 tvg-id="LaLigaTV.us" tvg-name="US - LaLiga TV" tvg-logo="https://iptv-epg.org/logos/USA/LaLigaTV.us.png" tvg-chno="459" group-title="AppleTV",US - LaLiga TV
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/163611.ts
-#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN1.ca.png" tvg-chno="460" group-title="AppleTV",CA - DAZN 1
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/317036.ts
-#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA - DAZN 2" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN2.ca.png" tvg-chno="461" group-title="AppleTV",CA - DAZN 2
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/317037.ts
-#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA - DAZN 3" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN3.ca.png" tvg-chno="462" group-title="AppleTV",CA - DAZN 3
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/317038.ts
-#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA - DAZN 4" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN4.ca.png" tvg-chno="463" group-title="AppleTV",CA - DAZN 4
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/317039.ts
-#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA - DAZN 5" tvg-logo="https://iptv-epg.org/logos/Canada/DAZN5.ca.png" tvg-chno="464" group-title="AppleTV",CA - DAZN 5
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/317040.ts
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="US - BEIN SPORTS USA" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="467" group-title="AppleTV",US - BEIN SPORTS USA
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/45611.ts
+#EXTINF:-1 tvg-id="LaLigaTV.uk" tvg-name="UK - LaLiga TV" tvg-logo="https://iptv-epg.org/logos/UK/LaLigaTV.uk.png" tvg-chno="459" group-title="AppleTV",UK - LaLiga TV
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/163611.ts
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports1.uk.png" tvg-chno="469" group-title="AppleTV",UK - Premier Sports 1
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/163607.ts
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/logos/UK/PremierSports2.uk.png" tvg-chno="470" group-title="AppleTV",UK - Premier Sports 2
@@ -145,15 +133,107 @@ http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1004548.ts
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/30500.ts
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/logos/UK/SkySportsPremierLeague.uk.png" tvg-chno="477" group-title="AppleTV",UK - Sky Sports Premier League
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/79473.ts
-#EXTINF:-1 tvg-id="fuboSportsNetwork4.us" tvg-name="FUBO SPORTS 4 HD [USA]" tvg-logo="https://iptv-epg.org/logos/USA/fuboSportsNetwork4.us.png" tvg-chno="478" group-title="AppleTV",FUBO SPORTS 4 HD [USA]
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/738899.ts
-#EXTINF:-1 tvg-id="479" tvg-name="FUBO SPORTS NETWORK 2  RAW [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920775.png" tvg-chno="479" group-title="AppleTV",FUBO SPORTS NETWORK 2  RAW [PRIME]
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920775.ts
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="FUBO SPORTS NETWORK HD [USA]" tvg-logo="http://51.158.145.100/picons/logos/USA/91895.png" tvg-chno="480" group-title="AppleTV",FUBO SPORTS NETWORK HD [USA]
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/91895.ts
-#EXTINF:-1 tvg-id="481" tvg-name="FUBO SPORTS NETWORK RAW [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1920776.png" tvg-chno="481" group-title="AppleTV",FUBO SPORTS NETWORK RAW [PRIME]
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920776.ts
-#EXTINF:-1 tvg-id="482" tvg-name="FUBO SPORTS [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/USA/1920229.png" tvg-chno="482" group-title="AppleTV",FUBO SPORTS [PRIME]
-http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920229.ts
-#EXTINF:-1 tvg-id="483" tvg-name="UEFA | 04 - Newcastle vs Barcelona 8:00pm" tvg-logo="http://103.176.90.95/images/1363057.png" tvg-chno="483" group-title="AppleTV",UEFA | 04 - Newcastle vs Barcelona 8:00pm
+#EXTINF:-1 tvg-id="478" tvg-name="UEFA | 04 - Newcastle vs Barcelona 8:00pm" tvg-logo="http://103.176.90.95/images/1363057.png" tvg-chno="478" group-title="AppleTV",UEFA | 04 - Newcastle vs Barcelona 8:00pm
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363057.ts
+#EXTINF:-1 tvg-id="479" tvg-name="UEFA  | 01 -" tvg-logo="http://103.176.90.95/images/1370387.png" tvg-chno="479" group-title="AppleTV",UEFA  | 01 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370387.ts
+#EXTINF:-1 tvg-id="480" tvg-name="UEFA  | 01 - Galatasaray vs Liverpool 5:45pm" tvg-logo="http://103.176.90.95/images/1363997.png" tvg-chno="480" group-title="AppleTV",UEFA  | 01 - Galatasaray vs Liverpool 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363997.ts
+#EXTINF:-1 tvg-id="481" tvg-name="UEFA  | 01 - Galatasaray vs Liverpool 5:45pm" tvg-logo="http://103.176.90.95/images/1363054.png" tvg-chno="481" group-title="AppleTV",UEFA  | 01 - Galatasaray vs Liverpool 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363054.ts
+#EXTINF:-1 tvg-id="482" tvg-name="UEFA  | 02 -" tvg-logo="http://103.176.90.95/images/1370388.png" tvg-chno="482" group-title="AppleTV",UEFA  | 02 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370388.ts
+#EXTINF:-1 tvg-id="483" tvg-name="UEFA  | 02 - Atalanta vs Bayern Munich 8:00pm" tvg-logo="http://103.176.90.95/images/1363055.png" tvg-chno="483" group-title="AppleTV",UEFA  | 02 - Atalanta vs Bayern Munich 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363055.ts
+#EXTINF:-1 tvg-id="484" tvg-name="UEFA  | 08 - Samsunspor vs Shkendija 5:45pm" tvg-logo="http://103.176.90.95/images/1363990.png" tvg-chno="484" group-title="AppleTV",UEFA  | 08 - Samsunspor vs Shkendija 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363990.ts
+#EXTINF:-1 tvg-id="485" tvg-name="UEFA  | 08 - Samsunspor vs Shkendija 5:45pm" tvg-logo="http://103.176.90.95/images/1363061.png" tvg-chno="485" group-title="AppleTV",UEFA  | 08 - Samsunspor vs Shkendija 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363061.ts
+#EXTINF:-1 tvg-id="486" tvg-name="UEFA  | 16 - Shkendija vs Samsunspor 8:00pm" tvg-logo="http://103.176.90.95/images/1363982.png" tvg-chno="486" group-title="AppleTV",UEFA  | 16 - Shkendija vs Samsunspor 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363982.ts
+#EXTINF:-1 tvg-id="487" tvg-name="UEFA  | 19 - Ballkani vs Astana 17.45" tvg-logo="http://103.176.90.95/images/1363995.png" tvg-chno="487" group-title="AppleTV",UEFA  | 19 - Ballkani vs Astana 17.45
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363995.ts
+#EXTINF:-1 tvg-id="488" tvg-name="UEFA  | 19 - Stuttgart vs Young Boys 8:00pm" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" tvg-chno="488" group-title="AppleTV",UEFA  | 19 - Stuttgart vs Young Boys 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363979.ts
+#EXTINF:-1 tvg-id="489" tvg-name="UEFA CHAMPIONS LEAGUE [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/USA/1919806.png" tvg-chno="489" group-title="AppleTV",UEFA CHAMPIONS LEAGUE [PRIME]
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1919806.ts
+#EXTINF:-1 tvg-id="490" tvg-name="UEFA CHAMPIONS LEAGUE [PRIME]" tvg-logo="http://51.158.145.100/picons/logos/USA/1919805.png" tvg-chno="490" group-title="AppleTV",UEFA CHAMPIONS LEAGUE [PRIME]
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1919805.ts
+#EXTINF:-1 tvg-id="491" tvg-name="UEFA | 03 -" tvg-logo="http://103.176.90.95/images/1370389.png" tvg-chno="491" group-title="AppleTV",UEFA | 03 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370389.ts
+#EXTINF:-1 tvg-id="492" tvg-name="UEFA | 03 - Atletico Madrid vs Tottenham 8:00pm" tvg-logo="http://103.176.90.95/images/1363056.png" tvg-chno="492" group-title="AppleTV",UEFA | 03 - Atletico Madrid vs Tottenham 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363056.ts
+#EXTINF:-1 tvg-id="493" tvg-name="UEFA | 04 -" tvg-logo="http://103.176.90.95/images/1370390.png" tvg-chno="493" group-title="AppleTV",UEFA | 04 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370390.ts
+#EXTINF:-1 tvg-id="494" tvg-name="UEFA | 04 - Newcastle vs Barcelona 8:00pm" tvg-logo="http://103.176.90.95/images/1363057.png" tvg-chno="494" group-title="AppleTV",UEFA | 04 - Newcastle vs Barcelona 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363057.ts
+#EXTINF:-1 tvg-id="495" tvg-name="UEFA | 05 -" tvg-logo="http://103.176.90.95/images/1370391.png" tvg-chno="495" group-title="AppleTV",UEFA | 05 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370391.ts
+#EXTINF:-1 tvg-id="496" tvg-name="UEFA | 05 - Bologna vs Brann 8:00pm" tvg-logo="http://103.176.90.95/images/1363993.png" tvg-chno="496" group-title="AppleTV",UEFA | 05 - Bologna vs Brann 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363993.ts
+#EXTINF:-1 tvg-id="497" tvg-name="UEFA | 05 - Bologna vs Brann 8:00pm" tvg-logo="http://103.176.90.95/images/1363058.png" tvg-chno="497" group-title="AppleTV",UEFA | 05 - Bologna vs Brann 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363058.ts
+#EXTINF:-1 tvg-id="498" tvg-name="UEFA | 06 -" tvg-logo="http://103.176.90.95/images/1370392.png" tvg-chno="498" group-title="AppleTV",UEFA | 06 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370392.ts
+#EXTINF:-1 tvg-id="499" tvg-name="UEFA | 06 - Celta Vigo vs PAOK 8:00pm" tvg-logo="http://103.176.90.95/images/1363059.png" tvg-chno="499" group-title="AppleTV",UEFA | 06 - Celta Vigo vs PAOK 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363059.ts
+#EXTINF:-1 tvg-id="500" tvg-name="UEFA | 06 - Celta Vigo vs PAOK 8:00pm" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" tvg-chno="500" group-title="AppleTV",UEFA | 06 - Celta Vigo vs PAOK 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363992.ts
+#EXTINF:-1 tvg-id="501" tvg-name="UEFA | 07 -" tvg-logo="http://103.176.90.95/images/1370393.png" tvg-chno="501" group-title="AppleTV",UEFA | 07 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370393.ts
+#EXTINF:-1 tvg-id="502" tvg-name="UEFA | 07 - Genk vs Dinamo Zagreb 8:00pm" tvg-logo="http://103.176.90.95/images/1363991.png" tvg-chno="502" group-title="AppleTV",UEFA | 07 - Genk vs Dinamo Zagreb 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363991.ts
+#EXTINF:-1 tvg-id="503" tvg-name="UEFA | 07 - Genk vs Dinamo Zagreb 8:00pm" tvg-logo="http://103.176.90.95/images/1363060.png" tvg-chno="503" group-title="AppleTV",UEFA | 07 - Genk vs Dinamo Zagreb 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363060.ts
+#EXTINF:-1 tvg-id="504" tvg-name="UEFA | 08 -" tvg-logo="http://103.176.90.95/images/1370394.png" tvg-chno="504" group-title="AppleTV",UEFA | 08 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370394.ts
+#EXTINF:-1 tvg-id="505" tvg-name="UEFA | 09 -" tvg-logo="http://103.176.90.95/images/1370395.png" tvg-chno="505" group-title="AppleTV",UEFA | 09 -
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1370395.ts
+#EXTINF:-1 tvg-id="506" tvg-name="UEFA | 09 -  Celje vs Drita 5:45pm" tvg-logo="http://103.176.90.95/images/1363989.png" tvg-chno="506" group-title="AppleTV",UEFA | 09 -  Celje vs Drita 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363989.ts
+#EXTINF:-1 tvg-id="507" tvg-name="UEFA | 11 - AZ vs Noah 8:00pm" tvg-logo="http://103.176.90.95/images/1363987.png" tvg-chno="507" group-title="AppleTV",UEFA | 11 - AZ vs Noah 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363987.ts
+#EXTINF:-1 tvg-id="508" tvg-name="UEFA | 12 - Crystal Palace vs Zrinjski  8:00pm" tvg-logo="http://103.176.90.95/images/1363986.png" tvg-chno="508" group-title="AppleTV",UEFA | 12 - Crystal Palace vs Zrinjski  8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363986.ts
+#EXTINF:-1 tvg-id="509" tvg-name="UEFA | 13 - Lausanne-Sport vs Sigma Olomouc 8:00pm" tvg-logo="http://103.176.90.95/images/1363985.png" tvg-chno="509" group-title="AppleTV",UEFA | 13 - Lausanne-Sport vs Sigma Olomouc 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363985.ts
+#EXTINF:-1 tvg-id="510" tvg-name="UEFA | 13 - Sheriff Tiraspol vs Servette 20.00" tvg-logo="http://103.176.90.95/images/1363969.png" tvg-chno="510" group-title="AppleTV",UEFA | 13 - Sheriff Tiraspol vs Servette 20.00
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363969.ts
+#EXTINF:-1 tvg-id="511" tvg-name="UEFA | 14 - Lech Poznań vs KuPS 8:00pm" tvg-logo="http://103.176.90.95/images/1363984.png" tvg-chno="511" group-title="AppleTV",UEFA | 14 - Lech Poznań vs KuPS 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363984.ts
+#EXTINF:-1 tvg-id="512" tvg-name="UEFA | 14 - Molde vs Häcken 17.45" tvg-logo="http://103.176.90.95/images/1363968.png" tvg-chno="512" group-title="AppleTV",UEFA | 14 - Molde vs Häcken 17.45
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363968.ts
+#EXTINF:-1 tvg-id="513" tvg-name="UEFA | 15 - Omonia Nicosia vs Rijeka 8:00pm" tvg-logo="http://103.176.90.95/images/1363983.png" tvg-chno="513" group-title="AppleTV",UEFA | 15 - Omonia Nicosia vs Rijeka 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363983.ts
+#EXTINF:-1 tvg-id="514" tvg-name="UEFA | 17 - Juventus vs Wolfsburg 5:45pm" tvg-logo="http://103.176.90.95/images/1363981.png" tvg-chno="514" group-title="AppleTV",UEFA | 17 - Juventus vs Wolfsburg 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363981.ts
+#EXTINF:-1 tvg-id="515" tvg-name="UEFA | 18 - KAA Gent vs Breidablik 17.45" tvg-logo="http://103.176.90.95/images/1363996.png" tvg-chno="515" group-title="AppleTV",UEFA | 18 - KAA Gent vs Breidablik 17.45
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363996.ts
+#EXTINF:-1 tvg-id="516" tvg-name="UEFA | 18 - Manchester United vs Atletico Madrid 8:00pm" tvg-logo="http://103.176.90.95/images/1363980.png" tvg-chno="516" group-title="AppleTV",UEFA | 18 - Manchester United vs Atletico Madrid 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363980.ts
+#EXTINF:-1 tvg-id="517" tvg-name="UEFA | 20 - Breidablik vs Shamrock Rovers 5:45pm" tvg-logo="http://103.176.90.95/images/1363978.png" tvg-chno="517" group-title="AppleTV",UEFA | 20 - Breidablik vs Shamrock Rovers 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363978.ts
+#EXTINF:-1 tvg-id="518" tvg-name="UEFA | 20 - Dinamo Zagreb vs Viktoria Plzen 20.00" tvg-logo="http://103.176.90.95/images/1363994.png" tvg-chno="518" group-title="AppleTV",UEFA | 20 - Dinamo Zagreb vs Viktoria Plzen 20.00
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363994.ts
+#EXTINF:-1 tvg-id="519" tvg-name="UEFA | 21 - Drita vs Az 5:45pm" tvg-logo="http://103.176.90.95/images/1363977.png" tvg-chno="519" group-title="AppleTV",UEFA | 21 - Drita vs Az 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363977.ts
+#EXTINF:-1 tvg-id="520" tvg-name="UEFA | 22 - Fiorentina vs Dynamo Kyiv 5:45pm" tvg-logo="http://103.176.90.95/images/1363976.png" tvg-chno="520" group-title="AppleTV",UEFA | 22 - Fiorentina vs Dynamo Kyiv 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363976.ts
+#EXTINF:-1 tvg-id="521" tvg-name="UEFA | 23 - Hacken vs Aek Larnaca 5:45pm" tvg-logo="http://103.176.90.95/images/1363975.png" tvg-chno="521" group-title="AppleTV",UEFA | 23 - Hacken vs Aek Larnaca 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363975.ts
+#EXTINF:-1 tvg-id="522" tvg-name="UEFA | 24 - Jagiellonia vs Rayo Vallecano 5:45pm" tvg-logo="http://103.176.90.95/images/1363974.png" tvg-chno="522" group-title="AppleTV",UEFA | 24 - Jagiellonia vs Rayo Vallecano 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363974.ts
+#EXTINF:-1 tvg-id="523" tvg-name="UEFA | 25 - Noah vs Legia Warszawa 5:45pm" tvg-logo="http://103.176.90.95/images/1363973.png" tvg-chno="523" group-title="AppleTV",UEFA | 25 - Noah vs Legia Warszawa 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363973.ts
+#EXTINF:-1 tvg-id="524" tvg-name="UEFA | 26 - Samsunspor vs Aek Athens 5:45pm" tvg-logo="http://103.176.90.95/images/1363972.png" tvg-chno="524" group-title="AppleTV",UEFA | 26 - Samsunspor vs Aek Athens 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363972.ts
+#EXTINF:-1 tvg-id="525" tvg-name="UEFA | 27 - Shkendija vs Sk Slovan 5:45pm" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" tvg-chno="525" group-title="AppleTV",UEFA | 27 - Shkendija vs Sk Slovan 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363971.ts
+#EXTINF:-1 tvg-id="526" tvg-name="UEFA | 28 - Universitatea Craiova vs Sparta Prague 5:45pm" tvg-logo="http://103.176.90.95/images/1363970.png" tvg-chno="526" group-title="AppleTV",UEFA | 28 - Universitatea Craiova vs Sparta Prague 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363970.ts
+#EXTINF:-1 tvg-id="527" tvg-name="UEFA | 31 - Kups vs Lausanne 8:00pm" tvg-logo="http://103.176.90.95/images/1363967.png" tvg-chno="527" group-title="AppleTV",UEFA | 31 - Kups vs Lausanne 8:00pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363967.ts
+#EXTINF:-1 tvg-id="528" tvg-name="UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45" tvg-logo="http://103.176.90.95/images/1363966.png" tvg-chno="528" group-title="AppleTV",UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363966.ts
+#EXTINF:-1 tvg-id="529" tvg-name="UEFA |10 - Fiorentina vs Jagiellonia Białystok 5:45pm" tvg-logo="http://103.176.90.95/images/1363988.png" tvg-chno="529" group-title="AppleTV",UEFA |10 - Fiorentina vs Jagiellonia Białystok 5:45pm
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1363988.ts
