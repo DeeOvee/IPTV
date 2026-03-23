@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/KemoSAT-Doug?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/KemoSAT-Doug?cachedlogos=false&tvg_id_source=tvg_id"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="500" group-title="KemoSAT-Doug",CA GLOBAL CALGARY
 http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/957398.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA SportsNet West FHD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="501" group-title="KemoSAT-Doug",CA SportsNet West FHD
