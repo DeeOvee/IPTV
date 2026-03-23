@@ -5,7 +5,7 @@ http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1920771.ts
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177363.ts
 #EXTINF:-1 tvg-id="CNN.HD.ca2" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="202" group-title="AppleTV",US - CNN
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/442785.ts
-#EXTINF:-1 tvg-id="203" tvg-name="NHL TEAM| CALGARY FLAMES" tvg-logo="http://51.158.145.100/picons/logos/USA/NHL.png" tvg-chno="203" group-title="AppleTV",NHL TEAM| CALGARY FLAMES
+#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL TEAM| CALGARY FLAMES" tvg-logo="https://iptv-epg.org/logos/USA/CalgaryFlames.nhl.png" tvg-chno="203" group-title="AppleTV",NHL TEAM| CALGARY FLAMES
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/836401.ts
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="204" group-title="AppleTV",CA| SPORTSNET WEST HD
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/904206.ts
