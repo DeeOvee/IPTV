@@ -5,10 +5,10 @@ http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/957398.ts
 http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/208973.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA SportsNet West FHD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="502" group-title="KemoSAT-Doug",CA SportsNet West FHD
 http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/228647.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA SportsNet West HD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="503" group-title="KemoSAT-Doug",CA SportsNet West HD
-http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/228636.ts
-#EXTINF:-1 tvg-id="504" tvg-name="Sportsnet+ 27: Anaheim @ Calgary @ Mar 26 09:00 PM ET" tvg-logo="http://23.227.147.172:80/images/b92e163bb297e818f6915972e25c7f1a.png" tvg-chno="504" group-title="KemoSAT-Doug",Sportsnet+ 27: Anaheim @ Calgary @ Mar 26 09:00 PM ET
-http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/3202808.ts
+#EXTINF:-1 tvg-id="SportsNet1.prmtv" tvg-name="CA - Sportsnet Premium Plus 1" tvg-logo="http://23.227.147.172:80/images/084f8858dbd502771da3803ad73fee7d.png" tvg-chno="503" group-title="CA: Sportsnet +",CA - Sportsnet Premium Plus 1
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/3202784.ts
+#EXTINF:-1 tvg-id="SportsnetPremiumPlus2.ca" tvg-name="CA - Sportsnet Premium Plus 2" tvg-logo="http://185.193.88.130:80/images/46bc704a3130e23cdd1c9857494f5fea.png" tvg-chno="504" group-title="CA: Sportsnet +",CA - Sportsnet Premium Plus 2
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/3202785.ts
 #EXTINF:-1 tvg-id="FoxNewsChannel.ca" tvg-name="CA FOX NEWS" tvg-logo="https://iptv-epg.org/logos/Canada/FoxNewsChannel.ca.png" tvg-chno="505" group-title="KemoSAT-Doug",CA FOX NEWS
 http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/181951.ts
 #EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA CITY CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="506" group-title="KemoSAT-Doug",CA CITY CALGARY
