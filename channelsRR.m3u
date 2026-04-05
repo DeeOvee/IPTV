@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
-#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="1" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="2" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1858354.ts
-#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="2" group-title="Garry Watch Live TV",CA - CBC CALGARY
+#EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CBCCalgary-CBRT.ca.png" tvg-chno="3" group-title="Garry Watch Live TV",CA - CBC CALGARY
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177363.ts
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="3" group-title="Garry Watch Live TV",US - CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="4" group-title="Garry Watch Live TV",US - CNN
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/45592.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="4" group-title="Garry Watch Live TV",CA - SPORTSNET WEST
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="5" group-title="Garry Watch Live TV",CA - SPORTSNET WEST
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177351.ts
 #EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="US: CALGARY FLAMES" tvg-logo="https://iptv-epg.org/logos/USA/CalgaryFlames.nhl.png" tvg-chno="6" group-title="Garry Watch Live TV",US: CALGARY FLAMES
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/836401.ts
@@ -13,103 +13,123 @@ http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/836401.ts
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176814.ts
 #EXTINF:-1 tvg-id="CTVCalgary-CFCN.ca" tvg-name="CA - CTV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CTVCalgary-CFCN.ca.png" tvg-chno="8" group-title="Garry Watch Live TV",CA - CTV CALGARY
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177376.ts
-#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="10" group-title="Garry Watch Live TV",CA - AMC
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920803.ts
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="11" group-title="Garry Watch Live TV",US - AMCPLUS
+#EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/logos/Canada/AMC.ca.png" tvg-chno="9" group-title="Garry Watch Live TV",CA - AMC
+http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176864.ts
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/logos/USA/AMCPlus.us.png" tvg-chno="10" group-title="Garry Watch Live TV",US - AMCPLUS
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/534381.ts
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="US - DISCOVERY SCIENCE" tvg-logo="https://iptv-epg.org/logos/USA/ScienceChannel.us.png" tvg-chno="12" group-title="Garry Watch Live TV",US - DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="US - DISCOVERY SCIENCE" tvg-logo="https://iptv-epg.org/logos/USA/ScienceChannel.us.png" tvg-chno="11" group-title="Garry Watch Live TV",US - DISCOVERY SCIENCE
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176877.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US - Animal Planet" tvg-logo="https://iptv-epg.org/logos/USA/AnimalPlanet.us.png" tvg-chno="13" group-title="Garry Watch Live TV",US - Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US - Animal Planet" tvg-logo="https://iptv-epg.org/logos/USA/AnimalPlanet.us.png" tvg-chno="12" group-title="Garry Watch Live TV",US - Animal Planet
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/45447.ts
-#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="14" group-title="Garry Watch Live TV",CA - STARZ 1
+#EXTINF:-1 tvg-id="STARZ1.ca" tvg-name="CA - STARZ 1" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ1.ca.png" tvg-chno="13" group-title="Garry Watch Live TV",CA - STARZ 1
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176929.ts
-#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="15" group-title="Garry Watch Live TV",CA - STARZ2
+#EXTINF:-1 tvg-id="STARZ2.ca" tvg-name="CA - STARZ2" tvg-logo="https://iptv-epg.org/logos/Canada/STARZ2.ca.png" tvg-chno="14" group-title="Garry Watch Live TV",CA - STARZ2
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176930.ts
-#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA - A&E" tvg-logo="https://iptv-epg.org/logos/Canada/AandE.ca.png" tvg-chno="16" group-title="Garry Watch Live TV",CA - A&E
+#EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA - A&E" tvg-logo="https://iptv-epg.org/logos/Canada/AandE.ca.png" tvg-chno="15" group-title="Garry Watch Live TV",CA - A&E
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176861.ts
-#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="17" group-title="Garry Watch Live TV",CA - BBC EARTH
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176867.ts
-#EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="CA - BNN Bloomberg" tvg-logo="https://iptv-epg.org/logos/Canada/BNNBloomberg.ca.png" tvg-chno="19" group-title="Garry Watch Live TV",CA - BNN Bloomberg
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/logos/Canada/BBCEarth.ca.png" tvg-chno="16" group-title="Garry Watch Live TV",CA - BBC EARTH
+http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920434.ts
+#EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="CA - BNN Bloomberg" tvg-logo="https://iptv-epg.org/logos/Canada/BNNBloomberg.ca.png" tvg-chno="17" group-title="Garry Watch Live TV",CA - BNN Bloomberg
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176799.ts
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/USA/Bravo.us.png" tvg-chno="20" group-title="Garry Watch Live TV",CA - Bravo
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920799.ts
-#EXTINF:-1 tvg-id="CBSKIRO-West.ca" tvg-name="CA - CBS WEST" tvg-logo="https://iptv-epg.org/logos/Canada/CBSKIRO-West.ca.png" tvg-chno="21" group-title="Garry Watch Live TV",CA - CBS WEST
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920797.ts
-#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="22" group-title="Garry Watch Live TV",CA - CITY TV CALGARY
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="CA - Bravo" tvg-logo="https://iptv-epg.org/logos/USA/Bravo.us.png" tvg-chno="18" group-title="Garry Watch Live TV",CA - Bravo
+http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/45446.ts
+#EXTINF:-1 tvg-id="CBSKIRO-West.ca" tvg-name="CA - CBS WEST" tvg-logo="https://iptv-epg.org/logos/Canada/CBSKIRO-West.ca.png" tvg-chno="19" group-title="Garry Watch Live TV",CA - CBS WEST
+http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176803.ts
+#EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="20" group-title="Garry Watch Live TV",CA - CITY TV CALGARY
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177376.ts
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="23" group-title="Garry Watch Live TV",CA - CRAVE 1
+#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="CA - CRAVE 1" tvg-logo="https://iptv-epg.org/logos/Canada/Crave1.ca.png" tvg-chno="21" group-title="Garry Watch Live TV",CA - CRAVE 1
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176936.ts
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="24" group-title="Garry Watch Live TV",CA - CRAVE 2
+#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="CA - CRAVE 2" tvg-logo="https://iptv-epg.org/logos/Canada/Crave2.ca.png" tvg-chno="22" group-title="Garry Watch Live TV",CA - CRAVE 2
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176937.ts
-#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="25" group-title="Garry Watch Live TV",CA - CRAVE 3
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920788.ts
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="26" group-title="Garry Watch Live TV",CA - CRAVE 4
+#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="CA - CRAVE 3" tvg-logo="https://iptv-epg.org/logos/Canada/Crave3.ca.png" tvg-chno="23" group-title="Garry Watch Live TV",CA - CRAVE 3
+http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176938.ts
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="CA - CRAVE 4" tvg-logo="https://iptv-epg.org/logos/Canada/Crave4.ca.png" tvg-chno="24" group-title="Garry Watch Live TV",CA - CRAVE 4
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176939.ts
-#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="CA - CRIME & INVESTIGATION" tvg-logo="https://iptv-epg.org/logos/Canada/CrimePlusInvestigation.ca.png" tvg-chno="27" group-title="Garry Watch Live TV",CA - CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="CA - CRIME & INVESTIGATION" tvg-logo="https://iptv-epg.org/logos/Canada/CrimePlusInvestigation.ca.png" tvg-chno="25" group-title="Garry Watch Live TV",CA - CRIME & INVESTIGATION
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/90938.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="28" group-title="Garry Watch Live TV",CA - DISCOVERY
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY" tvg-logo="https://iptv-epg.org/logos/Canada/DiscoveryChannel.ca.png" tvg-chno="26" group-title="Garry Watch Live TV",CA - DISCOVERY
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176876.ts
-#EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="29" group-title="Garry Watch Live TV",CA - DTOUR
+#EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/logos/Canada/DTOUR.ca.png" tvg-chno="27" group-title="Garry Watch Live TV",CA - DTOUR
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176881.ts
-#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="30" group-title="Garry Watch Live TV",CA - FX HD
+#EXTINF:-1 tvg-id="FX.ca" tvg-name="CA - FX HD" tvg-logo="https://iptv-epg.org/logos/Canada/FX.ca.png" tvg-chno="28" group-title="Garry Watch Live TV",CA - FX HD
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176911.ts
-#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="31" group-title="Garry Watch Live TV",CA - FXX
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="CA - FXX" tvg-logo="https://iptv-epg.org/logos/Canada/FXX.ca.png" tvg-chno="29" group-title="Garry Watch Live TV",CA - FXX
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176912.ts
-#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="CA - Flavour Network" tvg-logo="https://iptv-epg.org/logos/Canada/FlavourNetwork.ca.png" tvg-chno="32" group-title="Garry Watch Live TV",CA - Flavour Network
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920778.ts
-#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="CA - Food Network" tvg-logo="https://iptv-epg.org/logos/Canada/FoodNetwork.ca.png" tvg-chno="33" group-title="Garry Watch Live TV",CA - Food Network
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920777.ts
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CA - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/logos/USA/GolfChannel.us.png" tvg-chno="34" group-title="Garry Watch Live TV",CA - GOLF CHANNEL
+#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="CA - Flavour Network" tvg-logo="https://iptv-epg.org/logos/Canada/FlavourNetwork.ca.png" tvg-chno="30" group-title="Garry Watch Live TV",CA - Flavour Network
+http://192.168.1.11:9191/proxy/ts/stream/2aabc91f-f936-4c77-872c-250a7450b74f
+#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-name="CA - Food Network" tvg-logo="https://iptv-epg.org/logos/Canada/FoodNetwork.ca.png" tvg-chno="31" group-title="Garry Watch Live TV",CA - Food Network
+http://192.168.1.11:9191/proxy/ts/stream/da32d754-e0f3-41d5-8f6b-4463ab0326df
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="CA - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/logos/USA/GolfChannel.us.png" tvg-chno="32" group-title="Garry Watch Live TV",CA - GOLF CHANNEL
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/45554.ts
-#EXTINF:-1 tvg-id="HISTORY2.ca" tvg-name="CA - H2" tvg-logo="https://iptv-epg.org/logos/Canada/HISTORY2.ca.png" tvg-chno="35" group-title="Garry Watch Live TV",CA - H2
+#EXTINF:-1 tvg-id="HISTORY2.ca" tvg-name="CA - H2" tvg-logo="https://iptv-epg.org/logos/Canada/HISTORY2.ca.png" tvg-chno="33" group-title="Garry Watch Live TV",CA - H2
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176893.ts
-#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="36" group-title="Garry Watch Live TV",CA - HBO 1
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-name="CA - HBO 1" tvg-logo="https://iptv-epg.org/logos/Canada/HBO1.ca.png" tvg-chno="34" group-title="Garry Watch Live TV",CA - HBO 1
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176913.ts
-#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="37" group-title="Garry Watch Live TV",CA - HBO 2
+#EXTINF:-1 tvg-id="HBO2.ca" tvg-name="CA - HBO 2" tvg-logo="https://iptv-epg.org/logos/Canada/HBO2.ca.png" tvg-chno="35" group-title="Garry Watch Live TV",CA - HBO 2
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176914.ts
-#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="38" group-title="Garry Watch Live TV",CA - HGTV
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920762.ts
-#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="39" group-title="Garry Watch Live TV",CA - HISTORY
+#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/logos/Canada/HGTV.ca.png" tvg-chno="36" group-title="Garry Watch Live TV",CA - HGTV
+http://192.168.1.11:9191/proxy/ts/stream/901ea615-f3e6-42f4-9506-2106af6c2040
+#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/logos/Canada/History.ca.png" tvg-chno="37" group-title="Garry Watch Live TV",CA - HISTORY
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176892.ts
-#EXTINF:-1 tvg-id="HollywoodSuite2000sMovies.ca" tvg-name="CA - Hollywood Suite 2000s Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2000sMovies.ca.png" tvg-chno="40" group-title="Garry Watch Live TV",CA - Hollywood Suite 2000s Movies
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920760.ts
-#EXTINF:-1 tvg-id="HollywoodSuite2010s+Movies.ca" tvg-name="CA - Hollywood Suite 2010s+ Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2010s%2BMovies.ca.png" tvg-chno="41" group-title="Garry Watch Live TV",CA - Hollywood Suite 2010s+ Movies
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920759.ts
-#EXTINF:-1 tvg-id="HollywoodSuite70s+Movies.ca" tvg-name="CA - Hollywood Suite 70s+ Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite70s%2BMovies.ca.png" tvg-chno="42" group-title="Garry Watch Live TV",CA - Hollywood Suite 70s+ Movies
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920758.ts
-#EXTINF:-1 tvg-id="HollywoodSuite80sAnd90sMovies.ca" tvg-name="CA - Hollywood Suite 80s & 90s Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite80sAnd90sMovies.ca.png" tvg-chno="43" group-title="Garry Watch Live TV",CA - Hollywood Suite 80s & 90s Movies
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920757.ts
-#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="44" group-title="Garry Watch Live TV",CA - Home Network
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920756.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/USA/InvestigationDiscovery.us.png" tvg-chno="45" group-title="Garry Watch Live TV",CA - Investigation Discovery
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920755.ts
-#EXTINF:-1 tvg-id="MLBNetwork.ca" tvg-name="CA - MLBNC" tvg-logo="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" tvg-chno="46" group-title="Garry Watch Live TV",CA - MLBNC
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920752.ts
-#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="47" group-title="Garry Watch Live TV",CA - NAT GEO
+#EXTINF:-1 tvg-id="HollywoodSuite2000sMovies.ca" tvg-name="CA - Hollywood Suite 2000s Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2000sMovies.ca.png" tvg-chno="38" group-title="Garry Watch Live TV",CA - Hollywood Suite 2000s Movies
+http://192.168.1.11:9191/proxy/ts/stream/8bd5bd26-2748-432f-aa35-52d067946a4a
+#EXTINF:-1 tvg-id="HollywoodSuite2010s+Movies.ca" tvg-name="CA - Hollywood Suite 2010s+ Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite2010s%2BMovies.ca.png" tvg-chno="39" group-title="Garry Watch Live TV",CA - Hollywood Suite 2010s+ Movies
+http://192.168.1.11:9191/proxy/ts/stream/8e8507cb-7548-4d89-b237-df2122525ada
+#EXTINF:-1 tvg-id="HollywoodSuite70s+Movies.ca" tvg-name="CA - Hollywood Suite 70s+ Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite70s%2BMovies.ca.png" tvg-chno="40" group-title="Garry Watch Live TV",CA - Hollywood Suite 70s+ Movies
+http://192.168.1.11:9191/proxy/ts/stream/3cc877b1-de81-4920-9354-32400dcfbc78
+#EXTINF:-1 tvg-id="HollywoodSuite80sAnd90sMovies.ca" tvg-name="CA - Hollywood Suite 80s & 90s Movies" tvg-logo="https://iptv-epg.org/logos/Canada/HollywoodSuite80sAnd90sMovies.ca.png" tvg-chno="41" group-title="Garry Watch Live TV",CA - Hollywood Suite 80s & 90s Movies
+http://192.168.1.11:9191/proxy/ts/stream/467ef2c6-a809-440d-957d-05b578999361
+#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/logos/Canada/HomeNetwork.ca.png" tvg-chno="42" group-title="Garry Watch Live TV",CA - Home Network
+http://192.168.1.11:9191/proxy/ts/stream/3eef0020-102e-42c6-a420-a196f223aac5
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/USA/InvestigationDiscovery.us.png" tvg-chno="43" group-title="Garry Watch Live TV",CA - Investigation Discovery
+http://192.168.1.11:9191/proxy/ts/stream/50957eef-74b4-4697-9264-ab2cd3c01c4d
+#EXTINF:-1 tvg-id="MLBNetwork.ca" tvg-name="CA - MLBNC" tvg-logo="https://iptv-epg.org/logos/Canada/MLBNetwork.ca.png" tvg-chno="44" group-title="Garry Watch Live TV",CA - MLBNC
+http://192.168.1.11:9191/proxy/ts/stream/20c9aa54-55a6-4992-bbd0-2613ac9ff4cf
+#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographic.ca.png" tvg-chno="45" group-title="Garry Watch Live TV",CA - NAT GEO
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176897.ts
-#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="CA - NAT GEO WILD" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographicWild.ca.png" tvg-chno="48" group-title="Garry Watch Live TV",CA - NAT GEO WILD
+#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="CA - NAT GEO WILD" tvg-logo="https://iptv-epg.org/logos/Canada/NationalGeographicWild.ca.png" tvg-chno="46" group-title="Garry Watch Live TV",CA - NAT GEO WILD
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/176898.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="49" group-title="Garry Watch Live TV",CA - NFL Network
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920750.ts
-#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="CA - SHOWCASE" tvg-logo="https://iptv-epg.org/logos/Canada/Showcase.ca.png" tvg-chno="50" group-title="Garry Watch Live TV",CA - SHOWCASE
-http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/1920744.ts
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="51" group-title="Garry Watch Live TV",CA - SPORTSNET 1
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="CA - NFL Network" tvg-logo="https://iptv-epg.org/logos/USA/NFLNetwork.us.png" tvg-chno="47" group-title="Garry Watch Live TV",CA - NFL Network
+http://192.168.1.11:9191/proxy/ts/stream/7d96301b-7efb-4d36-b084-df92293b753e
+#EXTINF:-1 tvg-id="Showcase.ca" tvg-name="CA - SHOWCASE" tvg-logo="https://iptv-epg.org/logos/Canada/Showcase.ca.png" tvg-chno="48" group-title="Garry Watch Live TV",CA - SHOWCASE
+http://192.168.1.11:9191/proxy/ts/stream/d9c5f3dd-bb9a-4fc4-9863-a22c27dcc27e
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOne.ca.png" tvg-chno="49" group-title="Garry Watch Live TV",CA - SPORTSNET 1
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177352.ts
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="52" group-title="Garry Watch Live TV",CA - SPORTSNET 360
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/logos/Canada/Sportsnet360.ca.png" tvg-chno="50" group-title="Garry Watch Live TV",CA - SPORTSNET 360
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177349.ts
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="53" group-title="Garry Watch Live TV",CA - SPORTSNET ONTARIO
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetOntario.ca.png" tvg-chno="51" group-title="Garry Watch Live TV",CA - SPORTSNET ONTARIO
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177353.ts
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="54" group-title="Garry Watch Live TV",CA - SPORTSNET PACIFIC
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetPacific.ca.png" tvg-chno="52" group-title="Garry Watch Live TV",CA - SPORTSNET PACIFIC
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177354.ts
-#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWorld.ca.png" tvg-chno="55" group-title="Garry Watch Live TV",CA - SPORTSNET WORLD
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWorld.ca.png" tvg-chno="53" group-title="Garry Watch Live TV",CA - SPORTSNET WORLD
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177355.ts
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="56" group-title="Garry Watch Live TV",CA - TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/logos/Canada/TSN1.ca.png" tvg-chno="54" group-title="Garry Watch Live TV",CA - TSN 1
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177344.ts
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="57" group-title="Garry Watch Live TV",CA - TSN 2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/logos/Canada/TSN2.ca.png" tvg-chno="55" group-title="Garry Watch Live TV",CA - TSN 2
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177345.ts
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="58" group-title="Garry Watch Live TV",CA - TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/logos/Canada/TSN3.ca.png" tvg-chno="56" group-title="Garry Watch Live TV",CA - TSN 3
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177346.ts
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="59" group-title="Garry Watch Live TV",CA - TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/logos/Canada/TSN4.ca.png" tvg-chno="57" group-title="Garry Watch Live TV",CA - TSN 4
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177347.ts
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="60" group-title="Garry Watch Live TV",CA - TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/logos/Canada/TSN5.ca.png" tvg-chno="58" group-title="Garry Watch Live TV",CA - TSN 5
 http://line.ubbyy.xyz/live/h88yneexs2/vjhruy2dr4/177348.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="USA beIN Sports 01" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="581" group-title="KemoSAT-Doug",USA beIN Sports 01
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/1120664.ts
+#EXTINF:-1 tvg-id="beINSPORTS4.us" tvg-name="USA BeIN Sports 04" tvg-logo="https://iptv-epg.org/logos/USA/beINSPORTS4.us.png" tvg-chno="582" group-title="KemoSAT-Doug",USA BeIN Sports 04
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220397.ts
+#EXTINF:-1 tvg-id="beINSPORTS5.us" tvg-name="USA BeIN Sports 05" tvg-logo="https://iptv-epg.org/logos/USA/beINSPORTS5.us.png" tvg-chno="583" group-title="KemoSAT-Doug",USA BeIN Sports 05
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220508.ts
+#EXTINF:-1 tvg-id="beINSPORTS6.us" tvg-name="USA BeIN SPORTS 6 HD" tvg-logo="https://iptv-epg.org/logos/USA/beINSPORTS6.us.png" tvg-chno="584" group-title="KemoSAT-Doug",USA BeIN SPORTS 6 HD
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220509.ts
+#EXTINF:-1 tvg-id="beINSPORTS7.us" tvg-name="USA BeIN SPORTS 7 HD" tvg-logo="https://iptv-epg.org/logos/USA/beINSPORTS7.us.png" tvg-chno="585" group-title="KemoSAT-Doug",USA BeIN SPORTS 7 HD
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220510.ts
+#EXTINF:-1 tvg-id="beINSPORTS8.us" tvg-name="USA BeIN SPORTS 8 HD" tvg-logo="https://iptv-epg.org/logos/USA/beINSPORTS8.us.png" tvg-chno="586" group-title="KemoSAT-Doug",USA BeIN SPORTS 8 HD
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220511.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="USA BeIN SPORTS HD" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="587" group-title="KemoSAT-Doug",USA BeIN SPORTS HD
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220512.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="588" group-title="KemoSAT-Doug",USA BeIN Sports LaLiga
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220401.ts
+#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="USA Bein Sports Xtra" tvg-logo="https://iptv-epg.org/logos/USA/beINSportsXtra.us.png" tvg-chno="589" group-title="KemoSAT-Doug",USA Bein Sports Xtra
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/1503405.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="USA beIN Sports LHD" tvg-logo="https://iptv-epg.org/logos/USA/beINSports.us.png" tvg-chno="590" group-title="KemoSAT-Doug",USA beIN Sports LHD
+http://kytv.xyz/live/f2FHpKVjNp/xsVhUK3DVj/220395.ts
