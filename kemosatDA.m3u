@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="500" group-title="KemoSAT-Doug",CA - GLOBAL CALGARY
 http://cf.nigma.live/live/4683/5965daa12c/1260958.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="501" group-title="KemoSAT-Doug",US - CNN
