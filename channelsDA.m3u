@@ -5,7 +5,7 @@ http://cf.nigma.live/live/4683/5965daa12c/1260958.ts
 http://cf.nigma.live/live/4683/5965daa12c/324963.ts
 #EXTINF:-1 tvg-id="FoxNewsChannel.ca" tvg-name="CA - FOX NEWS" tvg-logo="https://iptv-epg.org/logos/Canada/FoxNewsChannel.ca.png" tvg-chno="502" group-title="NigmaTV-DA",CA - FOX NEWS
 http://cf.nigma.live/live/4683/5965daa12c/498735.ts
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="503" group-title="Sports",CA - SPORTSNET WEST
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/logos/Canada/SportsnetWest.ca.png" tvg-chno="503" group-title="NigmaTV-DA",CA - SPORTSNET WEST
 http://cf.nigma.live/live/4683/5965daa12c/1238968.ts
 #EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="US: CALGARY FLAMES" tvg-logo="https://iptv-epg.org/logos/USA/CalgaryFlames.nhl.png" tvg-chno="504" group-title="NigmaTV-DA",US: CALGARY FLAMES
 http://cf.nigma.live/live/4683/5965daa12c/604289.ts
