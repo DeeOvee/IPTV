@@ -1,10 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="300" group-title="EA Live TV",CA - GLOBAL CALGARY
+#EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/GlobalCalgary-CICT.ca.png" tvg-chno="296" group-title="EA Live TV",CA - GLOBAL CALGARY
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/1858354.ts
-#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL - Calgary Flames" tvg-logo="https://iptv-epg.org/logos/USA/CalgaryFlames.nhl.png" tvg-chno="301" group-title="EA Live TV",NHL - Calgary Flames
+#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL - Calgary Flames" tvg-logo="https://iptv-epg.org/logos/USA/CalgaryFlames.nhl.png" tvg-chno="297" group-title="EA Live TV",NHL - Calgary Flames
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/836401.ts
-#EXTINF:-1 tvg-id="OttawaSenators.nhl" tvg-name="NHL - Ottawa Senators" tvg-logo="https://iptv-epg.org/logos/USA/OttawaSenators.nhl.png" tvg-chno="302" group-title="EA Live TV",NHL - Ottawa Senators
+#EXTINF:-1 tvg-id="OttawaSenators.nhl" tvg-name="NHL - Ottawa Senators" tvg-logo="https://iptv-epg.org/logos/USA/OttawaSenators.nhl.png" tvg-chno="298" group-title="EA Live TV",NHL - Ottawa Senators
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/836385.ts
+#EXTINF:-1 tvg-id="RDS.ca" tvg-name="CA - RDS" tvg-logo="https://iptv-epg.org/logos/Canada/ReseaudesSports-RDS.ca.png" tvg-chno="299" group-title="EA Live TV",CA - RDS
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177302.ts
+#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CA - RDS 2" tvg-logo="https://iptv-epg.org/logos/Canada/RDS2.ca.png" tvg-chno="300" group-title="EA Live TV",CA - RDS 2
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177303.ts
+#EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA - TVA SPORTS" tvg-logo="https://iptv-epg.org/logos/Canada/TVASports.ca.png" tvg-chno="301" group-title="EA Live TV",CA - TVA SPORTS
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177319.ts
+#EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="CA - TVA SPORTS 2" tvg-logo="https://iptv-epg.org/logos/Canada/TVASports2.ca.png" tvg-chno="302" group-title="EA Live TV",CA - TVA SPORTS 2
+http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/177320.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/logos/USA/CNN.us.png" tvg-chno="303" group-title="EA Live TV",US - CNN
 http://line.ubbyy.xyz/live/x38xgdh63e/d246qvuenr/442785.ts
 #EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/logos/Canada/CityTvCalgary-CKAL.ca.png" tvg-chno="304" group-title="EA Live TV",CA - CITY TV CALGARY
