@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/images/zxad9eJBoph-mcS-nJbSeF7yKccVixs4yeA_z3ubMt3zyg3ci7sHnTV7wUAQIhcPKB2nqIFVAXjdp8WCuUnZtok7c4L2NyjoovJaWelEZ0nkEgLH-vV_77ocNg" tvg-chno="2" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
 https://cf.nigma.live/live/4683DV3/6e5a037788/1260958.ts
 #EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/images/GCPWUWZrK5bdLah5QZxwH1b1w9_WwklOg_HpsYsEbft8XkXQwVLOXupSuYnpAGtdWtufP0tMWDFpEajILUxOty4erdr0_5Cfrkl52vfA-oFz_4V-T1SUyA" tvg-chno="3" group-title="Garry Watch Live TV",CA - CBC CALGARY
@@ -114,17 +113,3 @@ https://cf.nigma.live/live/4683DV3/6e5a037788/414140.ts
 https://cf.nigma.live/live/4683DV3/6e5a037788/414139.ts
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/images/FC72jdhYIIEXTsHqxH3RSBS2qPzj8MxJBEMX56Xw-v-y1rn4rFiXDbOBzYOsXvJ1bhXmUJhV3j9geP-mubBs508deWnF3wPkK2dLQBI" tvg-chno="58" group-title="Garry Watch Live TV",CA - TSN 5
 https://cf.nigma.live/live/4683DV3/6e5a037788/414138.ts
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US - beIN SPORTS USA" tvg-logo="https://iptv-epg.org/images/UWm_2QAR9H6A5DPSDgGEcjV0e-0MCJFVDrKfn0R-K9JlYFvqkYqJAiE2nfdl6nLrtsSnXQGJatGPRjGoGSXaEmLs2ynei6rqoUwqeEJIjxs" tvg-chno="574" group-title="NigmaTV-DA",US - beIN SPORTS USA
-https://cf.nigma.live/live/4683/5965daa12c/325025.ts
-#EXTINF:-1 tvg-id="beINSPORTS4.us" tvg-name="US - beIN SPORTS 4" tvg-logo="https://iptv-epg.org/images/r5t_kop5jMBIxMQUV9o6GDTlbSTMt7b1t7WOB7q63lgCUMz1MPOntUCPTlTo5lBbJE002n0x8Z2zJDFB-2_q9QCMQ3NdN9nXVMyDMdxZBe8c" tvg-chno="575" group-title="NigmaTV-DA",US - beIN SPORTS 4
-https://cf.nigma.live/live/4683/5965daa12c/325030.ts
-#EXTINF:-1 tvg-id="beINSPORTS5.us" tvg-name="US - beIN SPORTS 5" tvg-logo="https://iptv-epg.org/images/eZ8EUAIQwyBjGqSJnf7Nii-5ihV07rD0PSbHGI3N7FlqnoiRxvME95UmvAKI7UmjTUsKW8QkSNQsX2lIHB3I6SYfO9U--HAdm9uRsK4MP-AD" tvg-chno="576" group-title="NigmaTV-DA",US - beIN SPORTS 5
-https://cf.nigma.live/live/4683/5965daa12c/325029.ts
-#EXTINF:-1 tvg-id="beINSPORTS6.us" tvg-name="US - beIN SPORTS 6" tvg-logo="https://iptv-epg.org/images/StR0B2fA9ynRTieFDnwv8n4gAMVm1Czh5ZRUtVcTAxzBJag5kH53gKN6MM2NKil0nl4zvCB1ry6-A5RedKODBxMq-xGJKG6vVI24KPP8C1iE" tvg-chno="577" group-title="NigmaTV-DA",US - beIN SPORTS 6
-https://cf.nigma.live/live/4683/5965daa12c/325028.ts
-#EXTINF:-1 tvg-id="beINSPORTS7.us" tvg-name="US - beIN SPORTS 7" tvg-logo="https://iptv-epg.org/images/DVw4mdSYWFLedjwbVa_07ZhmP_d7XhdxhZNUKm2ERou1vXfwBDJfBXweVcyW9JPUOLXXozeio9Fa7cG7V5KuiYDiNv8TJBqQnSQ2WDM7Ltwx" tvg-chno="578" group-title="NigmaTV-DA",US - beIN SPORTS 7
-https://cf.nigma.live/live/4683/5965daa12c/325027.ts
-#EXTINF:-1 tvg-id="beINSPORTS8.us" tvg-name="US - beIN SPORTS 8" tvg-logo="https://iptv-epg.org/images/U2sOixxI45r0mhdDC4igfScjs-NoO-pa6OhcABG58Q898br9805EgMAryBfantBYtiytcjyiaQzBW1bTuLAKZNt7RuyAMlwNDTXRYWpyvTzh" tvg-chno="579" group-title="NigmaTV-DA",US - beIN SPORTS 8
-https://cf.nigma.live/live/4683/5965daa12c/325026.ts
-#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="US - beIN Sports Xtra" tvg-logo="https://iptv-epg.org/images/9S-fkDFRhAse6sEsd6Tp0Sa3skkZ-xkO7vKzkhGs5ojvOsm57WMw4ghlWHWnJaBEW9voJ3KgbF5Jg-rjQ45xsKFVUQ9deMWtACLrqj-hSrobcZ-0" tvg-chno="580" group-title="NigmaTV-DA",US - beIN Sports Xtra
-https://cf.nigma.live/live/4683/5965daa12c/1568858.ts
