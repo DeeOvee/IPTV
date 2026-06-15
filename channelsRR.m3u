@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
-#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Garry?cachedlogos=false&tvg_id_source=tvg_id"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/images/zxad9eJBoph-mcS-nJbSeF7yKccVixs4yeA_z3ubMt3zyg3ci7sHnTV7wUAQIhcPKB2nqIFVAXjdp8WCuUnZtok7c4L2NyjoovJaWelEZ0nkEgLH-vV_77ocNg" tvg-chno="1" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
 https://cf.nigma.live/live/4683DV3/6e5a037788/1260958.ts
 #EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/images/GCPWUWZrK5bdLah5QZxwH1b1w9_WwklOg_HpsYsEbft8XkXQwVLOXupSuYnpAGtdWtufP0tMWDFpEajILUxOty4erdr0_5Cfrkl52vfA-oFz_4V-T1SUyA" tvg-chno="2" group-title="Garry Watch Live TV",CA - CBC CALGARY
