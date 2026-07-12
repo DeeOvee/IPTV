@@ -7,7 +7,7 @@ https://cf.nigma.live/live/4683/5965daa12c/324963.ts
 https://cf.nigma.live/live/4683/5965daa12c/498735.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/images/OD3Dyrq6jyOArXBFbV0PUHJWqEBvjKUouYpITmfbyYwdVc2Xy8Utjqh7aiwjxufxr6vwve6o0HZXYkClalslznyLo1zsz1h63Eg_-KBwqDlRspGkjWo" tvg-chno="203" group-title="NigmaTV-DA",CA - SPORTSNET WEST
 https://cf.nigma.live/live/4683DV3/6e5a037788/1238968.ts
-#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="US: CALGARY FLAMES" tvg-logo="https://iptv-epg.org/images/zRRdZ-WXPG-clAFJGhOP9CYUgpoOoLAUxgle5PJN7SD0xmcm1eo_M26mSzCTXRp8XYsp3-KTmJotoKz1yUmOw58XhG0jPAjNemk_DtbGNUzt84fo" tvg-chno="204" group-title="NigmaTV-DA",US: CALGARY FLAMES
+#EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL - Calgary Flames" tvg-logo="https://iptv-epg.org/images/zRRdZ-WXPG-clAFJGhOP9CYUgpoOoLAUxgle5PJN7SD0xmcm1eo_M26mSzCTXRp8XYsp3-KTmJotoKz1yUmOw58XhG0jPAjNemk_DtbGNUzt84fo" tvg-chno="204" group-title="NigmaTV-DA",NHL - Calgary Flames
 https://cf.nigma.live/live/4683/5965daa12c/604289.ts
 #EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="CA - SPORTSNET PACIFIC" tvg-logo="https://iptv-epg.org/images/APQ_sNsAzhQZnRfnOR5AOC247gSviaqwq-xh5ISfRVqH2ls0sC1bJzvrmuG3sWRAQt_BnTutEvEmKhP2eFXZnsvDzVjdUaU-sWBSLyR84NtEnJrV-cCpmFI" tvg-chno="205" group-title="NigmaTV-DA",CA - SPORTSNET PACIFIC
 https://cf.nigma.live/live/4683/5965daa12c/1238976.ts
@@ -45,7 +45,7 @@ https://cf.nigma.live/live/4683/5965daa12c/325023.ts
 https://cf.nigma.live/live/4683/5965daa12c/1820465.ts
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="US: NBC USA NETWORK (WEST) ᴿᴬᵂ" tvg-logo="https://iptv-epg.org/images/THuXTeGNLHUtEMpgRq_g5h2VKfw5kaHXY4sCCfQU1brrmvflHrdclkdhRFXvlrx39tipGIdxc1F0cASdgYj2OqPmDIeJJfM0bXRx" tvg-chno="222" group-title="NigmaTV-DA",US: NBC USA NETWORK (WEST) ᴿᴬᵂ
 https://cf.nigma.live/live/4683/5965daa12c/498696.ts
-#EXTINF:-1 tvg-id="NBCSportsonPeacock.peacocktv" tvg-name="PEACOCKTV - NBC Sports on Peacock" tvg-logo="https://iptv-epg.org/images/-JHpW2rQcSR0OrzQsisij3TqLoHFQJgIZzOD-IxO8CcspCmkiFGc-j5VsQoDqE6oXJuSSqjbBevpw34fywhwYGV9LrLVjvhL6IyqHXO8dCLSttmGpjZanP58Q6sLxT8" tvg-chno="223" group-title="NigmaTV-DA",PEACOCKTV - NBC Sports on Peacock
+#EXTINF:-1 tvg-id="NBCSportsonPeacock.peacocktv" tvg-name="US - NBC Sports on Peacock" tvg-logo="https://iptv-epg.org/images/-JHpW2rQcSR0OrzQsisij3TqLoHFQJgIZzOD-IxO8CcspCmkiFGc-j5VsQoDqE6oXJuSSqjbBevpw34fywhwYGV9LrLVjvhL6IyqHXO8dCLSttmGpjZanP58Q6sLxT8" tvg-chno="223" group-title="NigmaTV-DA",US - NBC Sports on Peacock
 https://cf.nigma.live/live/4683/5965daa12c/325067.ts
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/images/iPlXnwv4FOXJaad8rhYgHJkjcjIEJj-iNKcza5TbsKmx4Dt-SGK6ZUMYBY_TwjkBXsPnjcGFL3mCH3gxBwEuhy_kAdPUKN4cEe6FWwYXIVU" tvg-chno="224" group-title="NigmaTV-DA",US - Fox Sports 1
 https://cf.nigma.live/live/4683/5965daa12c/325017.ts
@@ -89,7 +89,7 @@ https://cf.nigma.live/live/4683/5965daa12c/498717.ts
 https://cf.nigma.live/live/4683/5965daa12c/498720.ts
 #EXTINF:-1 tvg-id="HISTORY2.ca" tvg-name="CA - H2" tvg-logo="https://iptv-epg.org/images/jwyupRDYbYfrWFuO1dnVsnAOtTPufaqS1k7XskfrC8QiYkxfhxKXNmsnqxBw35zsYctjFUsHe29TU_RNdT8rF8LCe-SsvxZ4LPNjEoo__cEb" tvg-chno="244" group-title="NigmaTV-DA",CA - H2
 https://cf.nigma.live/live/4683/5965daa12c/498723.ts
-#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/images/iVSJaCxapf78QwbShNCmle1Zp-asQ0mXs3UhSNRmfg_RPKM0PR4657yYdCEwBBHh9l68cGJ6-vlcdNv755Z64JhrZcRXlY4pfQau3CrP4g8" tvg-chno="245" group-title="NigmaTV-DA",CA - HISTORY
+#EXTINF:-1 tvg-id="History.us" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/images/iVSJaCxapf78QwbShNCmle1Zp-asQ0mXs3UhSNRmfg_RPKM0PR4657yYdCEwBBHh9l68cGJ6-vlcdNv755Z64JhrZcRXlY4pfQau3CrP4g8" tvg-chno="245" group-title="NigmaTV-DA",CA - HISTORY
 https://cf.nigma.live/live/4683/5965daa12c/414091.ts
 #EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/images/elkW9EGyGf0-5dJ241csIp1svk1Boh04QWZGuHfK8FCzTwqFXdkqI10s2i45Oh7i-RSM3NgPoxn99S0P9RtCTb2Ccon26rINJX8iVY02" tvg-chno="246" group-title="NigmaTV-DA",CA - DTOUR
 https://cf.nigma.live/live/4683/5965daa12c/414207.ts
