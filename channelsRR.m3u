@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml" url-tvg="https://iptv-epg.org/files/epg-ca.xml"
+#EXTM3U x-tvg-url="http://192.168.1.11:9191/output/epg/Channels-RR?cachedlogos=false&tvg_id_source=tvg_id" url-tvg="http://192.168.1.11:9191/output/epg/Channels-RR?cachedlogos=false&tvg_id_source=tvg_id"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/images/zxad9eJBoph-mcS-nJbSeF7yKccVixs4yeA_z3ubMt3zyg3ci7sHnTV7wUAQIhcPKB2nqIFVAXjdp8WCuUnZtok7c4L2NyjoovJaWelEZ0nkEgLH-vV_77ocNg" tvg-chno="1" group-title="Garry Watch Live TV",CA - GLOBAL CALGARY
 https://cf.nigma.live/live/4683DV3/6e5a037788/1260958.ts
 #EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/images/GCPWUWZrK5bdLah5QZxwH1b1w9_WwklOg_HpsYsEbft8XkXQwVLOXupSuYnpAGtdWtufP0tMWDFpEajILUxOty4erdr0_5Cfrkl52vfA-oFz_4V-T1SUyA" tvg-chno="2" group-title="Garry Watch Live TV",CA - CBC CALGARY
@@ -75,14 +76,14 @@ https://cf.nigma.live/live/4683DV3/6e5a037788/414057.ts
 https://cf.nigma.live/live/4683DV3/6e5a037788/325832.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/images/G7Eix9WUodJZ1qqzDYII28dbHuko0xG2bItXUdDOVT1lIGUgQAcHBouZZC467CMkR0wyxo3f9UDwzrC3NSJeamUa9L1YlBTlhTui9X_03NscNM6-YXU-SdalfSY" tvg-chno="38" group-title="Garry Watch Live TV",CA - Investigation Discovery
 https://cf.nigma.live/live/4683DV3/6e5a037788/498734.ts
-#EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/images/WRN3hJWAJAbasSp28VfURNCAxEo6km0VBObqtAngOBpjt3ODEFAPxmKNSd710u0fh8QYUdoF7-TKv7sorrigzg5FOrEXekFkLik9O2kOZhfWbCcUH1_SeEI8hw" tvg-chno="39" group-title="Garry Watch Live TV",CA - NAT GEO
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US - National Geographic" tvg-logo="https://iptv-epg.org/images/oqhN4EGynw9BHi_f97iHY-L9qQD0au91T8BO4OaBAPUwS_5zBIoCRuvgZkRBU63WMyAVNXXRboddVzv0kkyL-7cwTNn57OwTtDu1JLT-Arsa-ZhdcejGog" tvg-chno="39" group-title="Garry Watch Live TV",US - National Geographic
 https://cf.nigma.live/live/4683DV3/6e5a037788/498699.ts
-#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="CA - NAT GEO WILD" tvg-logo="https://iptv-epg.org/images/bP3OmiI7CQzdC3Lv1iPEf8PjQHTWbUUAcTXyqWiNhBY2a6iBVooTLxg0e8kHOWlvJuf_5WcXpSRP6GrG-Q4nCiQMHGzYDi_Zn36FYX0Yt9sm4bCYyja3WJImTO5icpo" tvg-chno="40" group-title="Garry Watch Live TV",CA - NAT GEO WILD
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="US - NAT GEO WILD" tvg-logo="https://iptv-epg.org/images/McvO_goe9_-bVE7coytsSaJ1exjshoHiaujd9-tEGA2esUC8_M20AoE9C6XMcqwmVsZQCEP0favXivn7qWa-Rj-AZjtYlroB_cs2MnLcgTyIzF3N2tDtdoLqryc" tvg-chno="40" group-title="Garry Watch Live TV",US - NAT GEO WILD
 https://cf.nigma.live/live/4683DV3/6e5a037788/414081.ts
 #EXTINF:-1 tvg-id="HISTORY2.ca" tvg-name="CA - H2" tvg-logo="https://iptv-epg.org/images/jwyupRDYbYfrWFuO1dnVsnAOtTPufaqS1k7XskfrC8QiYkxfhxKXNmsnqxBw35zsYctjFUsHe29TU_RNdT8rF8LCe-SsvxZ4LPNjEoo__cEb" tvg-chno="41" group-title="Garry Watch Live TV",CA - H2
-https://cf.nigma.live/live/4683DV3/6e5a037788/414090.ts
+https://cf.nigma.live/live/4683DV3/6e5a037788/498723.ts
 #EXTINF:-1 tvg-id="History.us" tvg-name="US - HISTORY" tvg-logo="https://iptv-epg.org/images/0qOOqTq49-qIViQcXxMpksab3tFvBnEUyrtnShvwsIqa8eTA-8mR01K893s6KxzhiQJisGDFTIbpjh96yAs7YmqBZmGJ_BS0snH6Y1k" tvg-chno="42" group-title="Garry Watch Live TV",US - HISTORY
-https://cf.nigma.live/live/4683DV3/6e5a037788/325777.ts
+https://cf.nigma.live/live/4683DV3/6e5a037788/414091.ts
 #EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/images/iVSJaCxapf78QwbShNCmle1Zp-asQ0mXs3UhSNRmfg_RPKM0PR4657yYdCEwBBHh9l68cGJ6-vlcdNv755Z64JhrZcRXlY4pfQau3CrP4g8" tvg-chno="43" group-title="Garry Watch Live TV",CA - HISTORY
 https://cf.nigma.live/live/4683DV3/6e5a037788/1537326.ts
 #EXTINF:-1 tvg-id="MilitaryHistory.us" tvg-name="US - MILITARY HISTORY" tvg-logo="https://iptv-epg.org/images/Sw4n5N0dtkIYe7jlKrjE05y_e3oY9TrzgoSIA__wRkPqssCU5LJZacp1lPEERnaEZCABA09uU9Te98BsgaVOmmZvAnscGtvVkUWXFSVxvzv3o44Dm1f3vUHk6No" tvg-chno="44" group-title="Garry Watch Live TV",US - MILITARY HISTORY
