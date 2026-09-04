@@ -1,145 +1,143 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/images/iVSJaCxapf78QwbShNCmle1Zp-asQ0mXs3UhSNRmfg_RPKM0PR4657yYdCEwBBHh9l68cGJ6-vlcdNv755Z64JhrZcRXlY4pfQau3CrP4g8" tvg-chno="45" group-title="Garry Watch Live TV",CA - HISTORY
-https://cf.nigma.live/live/4683DV3/6e5a037788/1537326.ts
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ciwnmbnbhi.xml" url-tvg="https://iptv-epg.org/files/epg-ciwnmbnbhi.xml"
 #EXTINF:-1 tvg-id="GlobalCalgary-CICT.ca" tvg-name="CA - GLOBAL CALGARY" tvg-logo="https://iptv-epg.org/images/zxad9eJBoph-mcS-nJbSeF7yKccVixs4yeA_z3ubMt3zyg3ci7sHnTV7wUAQIhcPKB2nqIFVAXjdp8WCuUnZtok7c4L2NyjoovJaWelEZ0nkEgLH-vV_77ocNg" tvg-chno="300" group-title="NigmaTV-EA",CA - GLOBAL CALGARY
-https://cf.nigma.live/live/deeo2/024ced0630/1260958.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1260958.ts
 #EXTINF:-1 tvg-id="CalgaryFlames.nhl" tvg-name="NHL - Calgary Flames" tvg-logo="https://iptv-epg.org/images/zRRdZ-WXPG-clAFJGhOP9CYUgpoOoLAUxgle5PJN7SD0xmcm1eo_M26mSzCTXRp8XYsp3-KTmJotoKz1yUmOw58XhG0jPAjNemk_DtbGNUzt84fo" tvg-chno="301" group-title="NigmaTV-EA",NHL - Calgary Flames
-https://cf.nigma.live/live/deeo2/024ced0630/604289.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/604289.ts
 #EXTINF:-1 tvg-id="OttawaSenators.nhl" tvg-name="NHL - Ottawa Senators" tvg-logo="https://iptv-epg.org/images/Ju4ukMV-_S_WQQKMdrKgW0Gen9iPf4gGfsNlSwLpTmmpdimrLKK-hFp6oUGYicgHP062wZJjHwG1hLPptCm5QiZZFgsRyE-awrEJswsrsoiGzsOFOg" tvg-chno="302" group-title="NigmaTV-EA",NHL - Ottawa Senators
-https://cf.nigma.live/live/deeo2/024ced0630/604273.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/604273.ts
 #EXTINF:-1 tvg-id="RDS.ca" tvg-name="CA - RDS" tvg-logo="https://iptv-epg.org/images/f2lzZhJQsGZxONp_aXSeHG5wkP641aK1tIZxQ73tjWp42g7YeqyMWmn_Uv0YCCI-f_J8aXvQrlqIqRmckp3p6lzphTQkGiZ5z76O_OoHhFZSpv0lMhNEpuwWBeU" tvg-chno="303" group-title="NigmaTV-EA",CA - RDS
-https://cf.nigma.live/live/deeo2/024ced0630/498683.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498683.ts
 #EXTINF:-1 tvg-id="RDS2.ca" tvg-name="CA - RDS 2" tvg-logo="https://iptv-epg.org/images/9DgUQnsiqZFQYJpJ5KlJFd5SgPGcxEPJ6Se11NOqkyERb-6V4WK8nn1YHRZU5X2iJBdQiBZ7g0r8NHBgjRNBkRRSqiexGwwbXD5_sZs" tvg-chno="304" group-title="NigmaTV-EA",CA - RDS 2
-https://cf.nigma.live/live/deeo2/024ced0630/498682.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498682.ts
 #EXTINF:-1 tvg-id="TVASports.ca" tvg-name="CA - TVA SPORTS" tvg-logo="https://iptv-epg.org/images/j_TsnfwgbUxuUdCojBc98Gov8qSwjSY8y1X5-6GEkk6QUcH_9gW0tuZsdjE8IyE1EpwutBN4306XDbo3TfxFvBDEzSJ8rYFZoFWs6VGNiqPg3A" tvg-chno="305" group-title="NigmaTV-EA",CA - TVA SPORTS
-https://cf.nigma.live/live/deeo2/024ced0630/498806.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498806.ts
 #EXTINF:-1 tvg-id="TVASports2.ca" tvg-name="CA - TVA SPORTS 2" tvg-logo="https://iptv-epg.org/images/JiaW6-yyc1f0idWToviArTVqICbaXeG6OoPpIMfU9qMBs45TuVQbmE5z9ohJuLkroL_F6E6bdmUgoPgfYcJbAN9A9yoFOAZtHLyjr44c3t1-aD8" tvg-chno="306" group-title="NigmaTV-EA",CA - TVA SPORTS 2
-https://cf.nigma.live/live/deeo2/024ced0630/1044084.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1044084.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US - CNN" tvg-logo="https://iptv-epg.org/images/kRIFwh17PvYZUHlPXsKCNDO2LMf_RBr1qIsAHgxjX7Gq-Vz2aKndA1QE2OX-Mtj0oLXDOiOEmJMle2m1PaN2rDYTKByY30xLkQ" tvg-chno="307" group-title="NigmaTV-EA",US - CNN
-https://cf.nigma.live/live/deeo2/024ced0630/414165.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414165.ts
 #EXTINF:-1 tvg-id="CityTvCalgary-CKAL.ca" tvg-name="CA - CITY TV CALGARY" tvg-logo="https://iptv-epg.org/images/1h54-c_Z6VrWLdYZ_lvhKz8qrb0mpR9RPJEZiy0EOsNoljj-oYNcizTblF52igm7XJmNdzvrBF6ogwF-j1rAf20FiMQBZlr-D7V4jYzi41Rt9mU_X94euzTquQ" tvg-chno="308" group-title="NigmaTV-EA",CA - CITY TV CALGARY
-https://cf.nigma.live/live/deeo2/024ced0630/498635.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498635.ts
 #EXTINF:-1 tvg-id="CBCCalgary-CBRT.ca" tvg-name="CA - CBC CALGARY" tvg-logo="https://iptv-epg.org/images/GCPWUWZrK5bdLah5QZxwH1b1w9_WwklOg_HpsYsEbft8XkXQwVLOXupSuYnpAGtdWtufP0tMWDFpEajILUxOty4erdr0_5Cfrkl52vfA-oFz_4V-T1SUyA" tvg-chno="309" group-title="NigmaTV-EA",CA - CBC CALGARY
-https://cf.nigma.live/live/deeo2/024ced0630/414170.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414170.ts
 #EXTINF:-1 tvg-id="AMC.ca" tvg-name="CA - AMC" tvg-logo="https://iptv-epg.org/images/THzHyUootA0vSyYXjoL4GJD4gTCrheMM5m2Z3pKx97WVbllcaA3yrhTc8uh2RumpQEHY11iiJEAUwxLY0lHkwViLF9ZtpGUANPLUbg" tvg-chno="310" group-title="NigmaTV-EA",CA - AMC
-https://cf.nigma.live/live/deeo2/024ced0630/498795.ts
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="US - AMC" tvg-logo="https://iptv-epg.org/images/KvciU3FxrNUnucRE-PmHdn9w3-z-l_jcvYQdL7IBo0RzW23TurcSILwKVS6RnPfi4g83leHAM8Ni3V0V2x_J3lIcGFwFvPTBOw" tvg-chno="311" group-title="NigmaTV-EA",US - AMC
-https://cf.nigma.live/live/deeo2/024ced0630/325778.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498795.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US - AMC" tvg-logo="https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA" tvg-chno="311" group-title="NigmaTV-EA",US - AMC
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325778.ts
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/images/gQeYXWbj0NsqrOEUoTDzcQaP_QLuVn2T8tZUfRtATLltAJPKwVwnmWsNG6cwnJ_klGbN9wrEJigf3-nGQ6jGoMKaes8SFR8By7ft12Y" tvg-chno="312" group-title="NigmaTV-EA",US - AMCPLUS
-https://cf.nigma.live/live/deeo2/024ced0630/325934.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325934.ts
 #EXTINF:-1 tvg-id="AandE.ca" tvg-name="CA - A&E" tvg-logo="https://iptv-epg.org/images/ekNEIHihGDNqRsWdLEq146GMdt_xlFYLMg8ze98EUb-hv7btckVytG_bTUP3Tbn3QDyfQObyi-p3dSP59l8uUuJWS8qizcP2fwe3YU5g" tvg-chno="313" group-title="NigmaTV-EA",CA - A&E
-https://cf.nigma.live/live/deeo2/024ced0630/414082.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414082.ts
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="US - BRAVO" tvg-logo="https://iptv-epg.org/images/q7AiFsHLpRO0zW-q_ULmYZKvsSiqAIndX8byVC3GCsIOTdQKRL3N5XKiOuSKMUwGBbMHF22OW9stPRR0aWzgheT10rnM03bR7c9M" tvg-chno="314" group-title="NigmaTV-EA",US - BRAVO
-https://cf.nigma.live/live/deeo2/024ced0630/325779.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325779.ts
 #EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="US - BRAVO WEST" tvg-logo="https://iptv-epg.org/images/sCpBEK9HbFSl_QDSOSKsRLt9gckISmt8qeKmLoCXTqawnE5tx5ZV1OIahGLsoCS-bzYtmFQIJaTanBSIbFiW0-94MMXqUt3dpdmHABrrFfPwow" tvg-chno="315" group-title="NigmaTV-EA",US - BRAVO WEST
-https://cf.nigma.live/live/deeo2/024ced0630/325852.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325852.ts
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA - BBC EARTH" tvg-logo="https://iptv-epg.org/images/HhPwmdvS5GD_ny_mju5OxeHXEync9-mR93cpCA7xsa8DbeeHWeoof6mf0Zbj8aky6849XZARrIqeWYOJ1vUQ7BDLmk5oBbx4Z0joMh8ruDMS" tvg-chno="316" group-title="NigmaTV-EA",CA - BBC EARTH
-https://cf.nigma.live/live/deeo2/024ced0630/1537366.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1537366.ts
 #EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="CA - COTTAGE LIFE" tvg-logo="https://iptv-epg.org/images/s6evmC_Z00TZlA7EnkP96TeIXD_JmVIluJud74cObrQvX58_Fo-5F9XIPsZQArjMYMoOkvTLb034fVVKO4nhPlElPPB_TtWN6c7p4uhTuElfcuX4" tvg-chno="317" group-title="NigmaTV-EA",CA - COTTAGE LIFE
-https://cf.nigma.live/live/deeo2/024ced0630/498766.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498766.ts
 #EXTINF:-1 tvg-id="DocumentaryCanada.ca" tvg-name="CA - DOCUMENTARY CHANNEL" tvg-logo="https://iptv-epg.org/images/JpaUWtaxqYfFn-bagmQ_2xx9s6XtKowcaYqol90Hc3rpLFTAYDz_PYSC3pnMyx6Ehlih1dtPTQqQVrfA0MJGI9ciNNELfzabL9f8HxKEjv-rdX8U3r1Q_W0-" tvg-chno="318" group-title="NigmaTV-EA",CA - DOCUMENTARY CHANNEL
-https://cf.nigma.live/live/deeo2/024ced0630/498746.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498746.ts
 #EXTINF:-1 tvg-id="DTOUR.ca" tvg-name="CA - DTOUR" tvg-logo="https://iptv-epg.org/images/elkW9EGyGf0-5dJ241csIp1svk1Boh04QWZGuHfK8FCzTwqFXdkqI10s2i45Oh7i-RSM3NgPoxn99S0P9RtCTb2Ccon26rINJX8iVY02" tvg-chno="319" group-title="NigmaTV-EA",CA - DTOUR
-https://cf.nigma.live/live/deeo2/024ced0630/414207.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414207.ts
 #EXTINF:-1 tvg-id="History.ca" tvg-name="CA - HISTORY" tvg-logo="https://iptv-epg.org/images/iVSJaCxapf78QwbShNCmle1Zp-asQ0mXs3UhSNRmfg_RPKM0PR4657yYdCEwBBHh9l68cGJ6-vlcdNv755Z64JhrZcRXlY4pfQau3CrP4g8" tvg-chno="320" group-title="NigmaTV-EA",CA - HISTORY
-https://cf.nigma.live/live/deeo2/024ced0630/1537326.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1537326.ts
 #EXTINF:-1 tvg-id="HISTORY2.ca" tvg-name="CA - H2" tvg-logo="https://iptv-epg.org/images/jwyupRDYbYfrWFuO1dnVsnAOtTPufaqS1k7XskfrC8QiYkxfhxKXNmsnqxBw35zsYctjFUsHe29TU_RNdT8rF8LCe-SsvxZ4LPNjEoo__cEb" tvg-chno="321" group-title="NigmaTV-EA",CA - H2
-https://cf.nigma.live/live/deeo2/024ced0630/498723.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498723.ts
 #EXTINF:-1 tvg-id="HGTV.ca" tvg-name="CA - HGTV" tvg-logo="https://iptv-epg.org/images/TBDTiDpjxKjF0dOO6cTwJmCvPjqdys9HVZpLYopePmdvFrxwaaHCSbgu58uZQYc04CXminsiQ0BXhZl9UmEHpdiAE_WXmGM1qhhmOZQ" tvg-chno="322" group-title="NigmaTV-EA",CA - HGTV
-https://cf.nigma.live/live/deeo2/024ced0630/498720.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498720.ts
 #EXTINF:-1 tvg-id="HLN.ca" tvg-name="CA - HLN" tvg-logo="https://iptv-epg.org/images/sN8hrLJ_at-jTWukhOxxp3EFAFGv6tZLvAe48XoLbCXiheYKz5sDFa3J810ZSd3K7h1VU329TV-rFGl7T83XXy7LNYmtreX-f5u9fw" tvg-chno="323" group-title="NigmaTV-EA",CA - HLN
-https://cf.nigma.live/live/deeo2/024ced0630/498717.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498717.ts
 #EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="CA - Home Network" tvg-logo="https://iptv-epg.org/images/IricOhHgSKDfedJmC7ywXRI4ohyRVpMiJTDLhfV0j78_IbtTlaknoc9u9jZgHcD-iHod4OeZWck_0oUlmqjNAMh0RhlQI8BvZxDRuA8YEyC3iJDn" tvg-chno="324" group-title="NigmaTV-EA",CA - Home Network
-https://cf.nigma.live/live/deeo2/024ced0630/1537321.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1537321.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - Investigation Discovery" tvg-logo="https://iptv-epg.org/images/L9e2GFhGW6YBWxemCHjxZNVcGX1-tZjLHt1sO5gJJVEvDASWg57v8Z4jjoUOQGvnzzd-nCr9g69FRpvxxLT1iQIQZuUVQKsRqHiss8nnNwI1qW1n2UU_m5dEYXMycME" tvg-chno="325" group-title="NigmaTV-EA",CA - Investigation Discovery
-https://cf.nigma.live/live/deeo2/024ced0630/498734.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498734.ts
 #EXTINF:-1 tvg-id="Lifetime.ca" tvg-name="CA - Lifetime" tvg-logo="https://iptv-epg.org/images/-VsrL32M4EgklXjz2rb9GsjrMhVeATjHPF-HXMR3RYweEeysXz2RHOj-tQLFWVfiXcwW9uBJw8QBPjDGMsDPxHds9QREFNQfXns30DnsGcAo" tvg-chno="326" group-title="NigmaTV-EA",CA - Lifetime
-https://cf.nigma.live/live/deeo2/024ced0630/414084.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414084.ts
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="CA - LOVE NATURE" tvg-logo="https://iptv-epg.org/images/kQPHXfHp6ZtHRmqseKTgnu3_Yv0DsDOADvo856FkKy2xWqHeCXLgIP3KCvRq-fBIxWLvxnxj6fkdTH6TKSGqdgpgXdnZ9PqADqlTXpH0RnJCFJw" tvg-chno="327" group-title="NigmaTV-EA",CA - LOVE NATURE
-https://cf.nigma.live/live/deeo2/024ced0630/1536637.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1536637.ts
 #EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="CA - NAT GEO WILD" tvg-logo="https://iptv-epg.org/images/bP3OmiI7CQzdC3Lv1iPEf8PjQHTWbUUAcTXyqWiNhBY2a6iBVooTLxg0e8kHOWlvJuf_5WcXpSRP6GrG-Q4nCiQMHGzYDi_Zn36FYX0Yt9sm4bCYyja3WJImTO5icpo" tvg-chno="328" group-title="NigmaTV-EA",CA - NAT GEO WILD
-https://cf.nigma.live/live/deeo2/024ced0630/414081.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414081.ts
 #EXTINF:-1 tvg-id="NationalGeographic.ca" tvg-name="CA - NAT GEO" tvg-logo="https://iptv-epg.org/images/WRN3hJWAJAbasSp28VfURNCAxEo6km0VBObqtAngOBpjt3ODEFAPxmKNSd710u0fh8QYUdoF7-TKv7sorrigzg5FOrEXekFkLik9O2kOZhfWbCcUH1_SeEI8hw" tvg-chno="329" group-title="NigmaTV-EA",CA - NAT GEO
-https://cf.nigma.live/live/deeo2/024ced0630/498699.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498699.ts
 #EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="CA - SMITHSONIAN CHANNEL" tvg-logo="https://iptv-epg.org/images/GZ5irjNn6kEMZJAyZpJfz-vdujBuikT8VYRJlTdGBR9usZ8StLvLS7aiQisX15IFSXH45z4iEL3RGsgyTn3t2EcFKOFiD8p0PIsr83HkjtRRQs3TfTViAMqiEg" tvg-chno="330" group-title="NigmaTV-EA",CA - SMITHSONIAN CHANNEL
-https://cf.nigma.live/live/deeo2/024ced0630/695096.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/695096.ts
 #EXTINF:-1 tvg-id="WILDTV.ca" tvg-name="CA - WILD TV" tvg-logo="https://iptv-epg.org/images/0vlfHQB8lmDIfNiQ-SQyiKrnxHalayPKgQY_l5zCjgtMjqzc-g784LXidvEj1X6Bia7hz0JUgD4x6jeiTV52wqH5_qtSVCK34INg9Z0-JA" tvg-chno="331" group-title="NigmaTV-EA",CA - WILD TV
-https://cf.nigma.live/live/deeo2/024ced0630/498643.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/498643.ts
 #EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA - SPORTSNET WEST" tvg-logo="https://iptv-epg.org/images/OD3Dyrq6jyOArXBFbV0PUHJWqEBvjKUouYpITmfbyYwdVc2Xy8Utjqh7aiwjxufxr6vwve6o0HZXYkClalslznyLo1zsz1h63Eg_-KBwqDlRspGkjWo" tvg-chno="332" group-title="NigmaTV-EA",CA - SPORTSNET WEST
-https://cf.nigma.live/live/deeo2/024ced0630/1238968.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1238968.ts
 #EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA - SPORTSNET EAST" tvg-logo="https://iptv-epg.org/images/-_VpnpbU9NdlcUP6Jx-tzg92VkHvtIPleHVjzTKq0CwHhlArunYoh8dug35e31K1IWK-BLZqdWngKNq8H1Q8oecQJPOrfvKMVsehuC40f0PPJ00Vh7A" tvg-chno="333" group-title="NigmaTV-EA",CA - SPORTSNET EAST
-https://cf.nigma.live/live/deeo2/024ced0630/1238999.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1238999.ts
 #EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="CA - SPORTSNET 1" tvg-logo="https://iptv-epg.org/images/2wvi4sFsLsmCY4UMzZj2PHnL3jhjNGGeJiq54pR3dZjI5Q2Sz816niQiR0gMbmXGZTeBKC6jJqraxzef5Dv31v_XPFNKR1tYRjDCOmVFb8TQnaGqHw" tvg-chno="334" group-title="NigmaTV-EA",CA - SPORTSNET 1
-https://cf.nigma.live/live/deeo2/024ced0630/1238991.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1238991.ts
 #EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="CA - SPORTSNET ONTARIO" tvg-logo="https://iptv-epg.org/images/2TVfsfkWBo6xlGNp2gpdHIMO7RlBmWnFe4AHhaWlIiXcSD1bZE_oJDFDqd-Ap2MUw1hmE77IyEu0NUX74I88bJ3NdoVLYaEdvD0HAkrktmfpnb2RAxH65aM" tvg-chno="335" group-title="NigmaTV-EA",CA - SPORTSNET ONTARIO
-https://cf.nigma.live/live/deeo2/024ced0630/1238984.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1238984.ts
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="CA - SPORTSNET 360" tvg-logo="https://iptv-epg.org/images/vEMOQTxwlacYBAf5lh91V9QZt7Tg9dbbwjJ6x1jWZuANB9VmU72cLLhvchTUAeRbQ0g58q9Uv5ta-wGe-UHsIy1d_FTMTxdoUPS6mMi4eqY5xJHA6w" tvg-chno="336" group-title="NigmaTV-EA",CA - SPORTSNET 360
-https://cf.nigma.live/live/deeo2/024ced0630/1239006.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1239006.ts
 #EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="CA - SPORTSNET WORLD" tvg-logo="https://iptv-epg.org/images/Uw6GI8kRZNPpkFrQ1Lbb2Pj3u0d4zjx1AY8b0AZBc5rw8t4Rrx-FJsn-t3DiIt9sVzwJqF1UIYxxOfPV0QLL2GOIO_LSeeotA-zGGsul9Io6zDJgi-SS" tvg-chno="337" group-title="NigmaTV-EA",CA - SPORTSNET WORLD
-https://cf.nigma.live/live/deeo2/024ced0630/1238961.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1238961.ts
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptv-epg.org/images/WKe22v8pFCOAy5Af6oC1MMxIKA_5r0iJbFJFYB38ahJxNzh4xFe9Z0knU_JX6epY-HDit6F9MHJaUxqA3OXqPPfzt3uW2pyiyamfFCg" tvg-chno="338" group-title="NigmaTV-EA",CA - TSN 1
-https://cf.nigma.live/live/deeo2/024ced0630/414142.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414142.ts
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptv-epg.org/images/Zh_8DpH48_flYPSNySimZy4FJsd6VM9rJda6YYiCamjWFjpQ3aNjtB7umctsqfDecLAgvX6EtKR0XCqzI2tYDp5lNdrGsT8fVvl2itM" tvg-chno="339" group-title="NigmaTV-EA",CA - TSN 2
-https://cf.nigma.live/live/deeo2/024ced0630/414141.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414141.ts
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptv-epg.org/images/NPjg29sdNve8UzmiehOmwM7LidokQy86y4EozmgyvcMYGEk52Ji__LwkTenrvg_-mXkJMPZa7brS8O_d4J4stTdACE-4VQcBycKgX5I" tvg-chno="340" group-title="NigmaTV-EA",CA - TSN 3
-https://cf.nigma.live/live/deeo2/024ced0630/414140.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414140.ts
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptv-epg.org/images/868C3R8rJv8uagZR7-D4gMrosAB-e17p6tt31REDCH0M7bUJPKxjwMglZru5awRo3R1P367WN1DmwNn44TXNblnXZ9Ds5vXMEyeSxyg" tvg-chno="341" group-title="NigmaTV-EA",CA - TSN 4
-https://cf.nigma.live/live/deeo2/024ced0630/414139.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414139.ts
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptv-epg.org/images/FC72jdhYIIEXTsHqxH3RSBS2qPzj8MxJBEMX56Xw-v-y1rn4rFiXDbOBzYOsXvJ1bhXmUJhV3j9geP-mubBs508deWnF3wPkK2dLQBI" tvg-chno="342" group-title="NigmaTV-EA",CA - TSN 5
-https://cf.nigma.live/live/deeo2/024ced0630/414138.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414138.ts
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US - FOX Sports 1" tvg-logo="https://iptv-epg.org/images/iPlXnwv4FOXJaad8rhYgHJkjcjIEJj-iNKcza5TbsKmx4Dt-SGK6ZUMYBY_TwjkBXsPnjcGFL3mCH3gxBwEuhy_kAdPUKN4cEe6FWwYXIVU" tvg-chno="343" group-title="NigmaTV-EA",US - FOX Sports 1
-https://cf.nigma.live/live/deeo2/024ced0630/325017.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325017.ts
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US - FOX SPORTS 2" tvg-logo="https://iptv-epg.org/images/lLgityDQ-Dd70LVMMEiX5xd8c9wKkWk9NSqqkrAHWXbR2yuIyh6mFlZTHOM57KcCFXV80j6CvNUeopVBcpISzt_b6MO8WzJC2c0eSMlmQcs" tvg-chno="344" group-title="NigmaTV-EA",US - FOX SPORTS 2
-https://cf.nigma.live/live/deeo2/024ced0630/429587.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/429587.ts
 #EXTINF:-1 tvg-id="NBATV.ca" tvg-name="CA - NBA TV" tvg-logo="https://iptv-epg.org/images/UhQYXMpAzgKX6pJ7zM653gnRZ4b8LJcFpuRdXSuAW0TciepW0Y6Hq4OCbnxLsyk0zGrQoA05sdHc91xZeFozcfoMuEEVuoiG63BaKQK9" tvg-chno="345" group-title="NigmaTV-EA",CA - NBA TV
-https://cf.nigma.live/live/deeo2/024ced0630/414160.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414160.ts
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US - MLB NETWORK" tvg-logo="https://iptv-epg.org/images/l9PesMMUqMQrCD81FMsvEVfXzpvY7sSQOkUH1qilS45rGEl9cSAcjumyA5rpsR5c3xC9-s3TT9WYLxgC3yrk5DSue-Sj_cmbRMUCyimNMWw" tvg-chno="346" group-title="NigmaTV-EA",US - MLB NETWORK
-https://cf.nigma.live/live/deeo2/024ced0630/325002.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325002.ts
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US - GOLF CHANNEL" tvg-logo="https://iptv-epg.org/images/yGZLAPRnTPedgntgIwcsB_-y1vDKywpGIhWcHJqVe-vnZ1fJPYM25NApej4vS6eY7uDimR1b0Lo7rNTR21g79iI0OkOD8ScC4zQovmTfPdHFuaHa" tvg-chno="347" group-title="NigmaTV-EA",US - GOLF CHANNEL
-https://cf.nigma.live/live/deeo2/024ced0630/325003.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325003.ts
 #EXTINF:-1 tvg-id="beINSports.ca" tvg-name="CA - BEIN CANADA" tvg-logo="https://iptv-epg.org/images/metmyhga1T2qANnSkuGswugRJS7rzdEyPgJ14PDXdXV8a3nDnkvglYeqyqYBKsMVhEVwOfqVVU6no4xOq9DNrgLNerGd86z9SzmRI6o0pE5W4Ds" tvg-chno="348" group-title="NigmaTV-EA",CA - BEIN CANADA
-https://cf.nigma.live/live/deeo2/024ced0630/414148.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/414148.ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-chno="349" group-title="NigmaTV-EA",US - ESPN
-https://cf.nigma.live/live/deeo2/024ced0630/325020.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325020.ts
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US - ESPN 2" tvg-logo="https://iptv-epg.org/images/TyZszL7kyaVsow-6abEAKYsBNGv7aCysqDDRNoxb4ck4RC61SWZ_SL_4KKmCjPPFiqkgUGHOtlS2ViPRerwwUYRt7JwNAPro6lmS" tvg-chno="350" group-title="NigmaTV-EA",US - ESPN 2
-https://cf.nigma.live/live/deeo2/024ced0630/325021.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325021.ts
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="US - SEC NETWORK" tvg-logo="https://iptv-epg.org/images/V0aODo73hjDPT5stwG4hFkg6iOJ0tvX3zmkvcjRZRD72t2NXVT1RVYuPfrRhsEsewy3p_AZF7JsGtI_FGLQq6qIdLt-cONa4SpdEaeTYoEU" tvg-chno="351" group-title="NigmaTV-EA",US - SEC NETWORK
-https://cf.nigma.live/live/deeo2/024ced0630/549252.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/549252.ts
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="US - ESPN U" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-chno="352" group-title="NigmaTV-EA",US - ESPN U
-https://cf.nigma.live/live/deeo2/024ced0630/434360.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/434360.ts
 #EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US - fubo Sports Network" tvg-logo="https://iptv-epg.org/images/iw754agCuK7HaAlvxDgIJ2elmZIMGEwV4xPDooY2XWoeX5s7HG5kfnyi4FUQZjU6TtBe2LX-s01pUxxmd9dwQPUv0VdGVcA8daM3gX41eonq8Ca3VGqo" tvg-chno="353" group-title="NigmaTV-EA",US - fubo Sports Network
-https://cf.nigma.live/live/deeo2/024ced0630/325046.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325046.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/images/f3_tBRtSCAEjtwd5zXWs7KWwyPAEoY18afD0aVcaTcVClL6zvVuuEQMp6AjVEupS1uDSqCM12q5a9lmPA-bnJVZku_t-6y-0xL8TuqGB2mU" tvg-chno="354" group-title="NigmaTV-EA",US - NFL Network
-https://cf.nigma.live/live/deeo2/024ced0630/395713.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/395713.ts
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="US - NFL RED ZONE" tvg-logo="https://iptv-epg.org/images/1i9nZ4KN-QmD9VD9VCQJ6n-vyl1e_bi4vGrYB22rLNFrBmhWiaLGl4zcIcN_0Y_yiH0u4cjMGmCj5P5qezXo96I6TBM6S1QWpdj_24_xdkE" tvg-chno="355" group-title="NigmaTV-EA",US - NFL RED ZONE
-https://cf.nigma.live/live/deeo2/024ced0630/1031379.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1031379.ts
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK - TNT Sports 1" tvg-logo="https://iptv-epg.org/images/tRHr_n7XIhPzgLC9M8ygnC8WL9gLuYrLPmAFUgkw0OgM-hXFUxOY9zuHzKp0kerkuppmW3FtuzKyXKZSkRLSAWq0zWi_kS6SvGdqh7vX2Q" tvg-chno="356" group-title="NigmaTV-EA",UK - TNT Sports 1
-https://cf.nigma.live/live/deeo2/024ced0630/1290322.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1290322.ts
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK - TNT Sports 2" tvg-logo="https://iptv-epg.org/images/iew6iuDruOY_F2HT58EGk6enuiMCpQyopDcMlywY_PPMthOMQCKjRKHD2mMqc3_Wq25eB2ZvZU2f_Vz5s9iivk7kunZrEho4pcFRfZxoCg" tvg-chno="357" group-title="NigmaTV-EA",UK - TNT Sports 2
-https://cf.nigma.live/live/deeo2/024ced0630/1290321.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1290321.ts
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK - TNT Sports 3" tvg-logo="https://iptv-epg.org/images/A2Cx4CK96WX-qJgRdIBi3T4rgyUQgxOFbIiu3eZmzAW4_YGw6eb5AzEmfnpDKVF1fw_03HtgNkp66xeNL-aywx977HYus6HBzlTLmGZvWg" tvg-chno="358" group-title="NigmaTV-EA",UK - TNT Sports 3
-https://cf.nigma.live/live/deeo2/024ced0630/588010.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/588010.ts
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK - TNT Sports 4" tvg-logo="https://iptv-epg.org/images/E9yudoEOmlJR6yFjyBT1tJBiWG1uj4S1Go-XofUJWkuZf1KfwlvxK6ie0TdvuAGomngT0ceLFbZp2idXuFsazoefXwTLah5kkrUq8l2ILQ" tvg-chno="359" group-title="NigmaTV-EA",UK - TNT Sports 4
-https://cf.nigma.live/live/deeo2/024ced0630/588009.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/588009.ts
 #EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK - Sky Sports +" tvg-logo="https://iptv-epg.org/images/dU1edteGV3z2gDGB0_hJt40eYx9rxC6K9LykpUmilRmnoWCyCXpwxt5XJ9ADZQnUcJnx0mvjYATdlfTX7ZRGqWLj_3k92MIg7OIDo3l7Iv27wA" tvg-chno="360" group-title="NigmaTV-EA",UK - Sky Sports +
-https://cf.nigma.live/live/deeo2/024ced0630/588042.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/588042.ts
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK - Sky Sports Premier League" tvg-logo="https://iptv-epg.org/images/kxUn1YwBGtL5T0NLVwUqBGDzG2Pahk-Lc0JfLj295zLJ4ObO_Qe06m4zONo_hSzlDuxQc8Q1X-CP-XxOD5lFpwX58KaaF9CSmP158HzcMxiA_RRHc2_RZylKzA" tvg-chno="361" group-title="NigmaTV-EA",UK - Sky Sports Premier League
-https://cf.nigma.live/live/deeo2/024ced0630/621633.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/621633.ts
 #EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - Premier Sports 1" tvg-logo="https://iptv-epg.org/images/mFS0T63V9t_Do8i4D6SXYk6hlvk7NGZ6227GsZjIslf-MKNC6mozvE9_n4BRu81EhsIEkyd5ksduQp1oXVfia-FUfOnb2s0FBsEAbFhtTI3Sqlg" tvg-chno="362" group-title="NigmaTV-EA",UK - Premier Sports 1
-https://cf.nigma.live/live/deeo2/024ced0630/1290302.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1290302.ts
 #EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - Premier Sports 2" tvg-logo="https://iptv-epg.org/images/iNstTG5vWWRTOqr1sICAoDJLaZrW4AVzP9kwo_JMnAhY7tMZaXWRkDKjqQMlRZKqHfzTnsHhmJdMRF7U44BWcXLoc1s_uAQ0DqbygmN61q7XaNQ" tvg-chno="363" group-title="NigmaTV-EA",UK - Premier Sports 2
-https://cf.nigma.live/live/deeo2/024ced0630/1290301.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1290301.ts
 #EXTINF:-1 tvg-id="BigTen.us" tvg-name="US - Big Ten Network" tvg-logo="https://iptv-epg.org/images/mtUrDRoDfopbPiDDXVGU9c0X7j7EzAcoNG9rBHZiMJ2qFwd0IQyPuehBJHARKCxYcRM6whmYch0OM_Wa4Uf936qQFzDOmy6p4-Xs_Q" tvg-chno="364" group-title="NigmaTV-EA",US - Big Ten Network
-https://cf.nigma.live/live/deeo2/024ced0630/325024.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325024.ts
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="US - ACC NETWORK" tvg-logo="https://iptv-epg.org/images/xsgBI2-VdfxUDFmvs-WhqgKbeF4lM6WOg-RmOyMdJVOQzMei9LfoGf0F90BOOZQmFFtiIGo9WCkkCxKM7_6Y61v-GP3UBfSx_ugqvFo_oHI" tvg-chno="365" group-title="NigmaTV-EA",US - ACC NETWORK
-https://cf.nigma.live/live/deeo2/024ced0630/325834.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/325834.ts
 #EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="CA - DAZN 1" tvg-logo="https://iptv-epg.org/images/wnr56NFpI3rVQ95qIA4hu9Y2UXPeIK9xYcC6QertjQV6Q_oIYVq98HaEwGz52Nd38lFiM6Jwa_aazG3h2TueiGZwxfW2tij-5ZWVmdQG" tvg-chno="366" group-title="NigmaTV-EA",CA - DAZN 1
-https://cf.nigma.live/live/deeo2/024ced0630/1340422.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1340422.ts
 #EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="CA - DAZN 2" tvg-logo="https://iptv-epg.org/images/VGFUXBrz6ay2zVCgAeWwQ01KjG5TU3Nv67MPiY6A774i18ujrtYzchf7jIBd1K3zxkIowpelJeGzf6nohyz3URUX5_kLslSvR9ISdZM5" tvg-chno="367" group-title="NigmaTV-EA",CA - DAZN 2
-https://cf.nigma.live/live/deeo2/024ced0630/1340421.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1340421.ts
 #EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="CA - DAZN 3" tvg-logo="https://iptv-epg.org/images/mbnTJzjcnQUJJ3vwpGlpgy-UWEE8wP4bWmRYRrHuTDm99JF_FnDeqs52tzPQpralwN8Hsv0cmI0IDetzf7uhUWm-JK_k9qA4a1lPo9yX" tvg-chno="368" group-title="NigmaTV-EA",CA - DAZN 3
-https://cf.nigma.live/live/deeo2/024ced0630/1340420.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1340420.ts
 #EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="CA - DAZN 4" tvg-logo="https://iptv-epg.org/images/MkrDz8GQHWeU53QVX8ni4NZqtm-F7HsDF0gJvPLggaZvJyopJ640CQHt5gVd7plIJ2jdm2w9TROl5l1_77Ll5pvKzWBXrfQZNHGHfwuA" tvg-chno="369" group-title="NigmaTV-EA",CA - DAZN 4
-https://cf.nigma.live/live/deeo2/024ced0630/1340419.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1340419.ts
 #EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="CA - DAZN 5" tvg-logo="https://iptv-epg.org/images/bMMacK8sIVzC8ifmMUduAX5KOOwq5ZvIRtW21V-vvlpPdXJv4tXGiiHw_oczUqgrvG33GBf4jge1V8-I8ELut1MaYuHGJJpHIVJOLeCC" tvg-chno="370" group-title="NigmaTV-EA",CA - DAZN 5
-https://cf.nigma.live/live/deeo2/024ced0630/1340418.ts
+https://cf.nigma.live/live/4683DV2/b9a947a3db/1340418.ts
